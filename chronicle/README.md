@@ -24,6 +24,15 @@ The chronicle is written as history-from-within — the players' characters are 
 | **[Appendix B — Necrology](appendix-b-necrology.md)** | All thirty-one tombstones, with their epitaphs and the stories behind them. |
 | **[Appendix C — The Archive](appendix-c-archive.md)** | The Gazette de France, the army charts, the maps of the war, and a note on sources. |
 
+## The primary sources
+
+The chronicle above is the summary; these companion volumes preserve the original prose of the table in full — the Narrator's narration and the players' dialogue, verbatim, event by event.
+
+| | |
+|---|---|
+| **[The Campaigns](campaigns/README.md)** | All twenty campaign seasons, 1624–1629, as narrated: the command rolls, the unit vignettes, every character's personal reckoning, and the table talk. |
+| **[The Duels](duels/README.md)** | All thirteen formal duels, turn by turn: the quarrels, the exchanges, the surrenders and the one beheading, and what each cost. |
+
 ## The war, in one paragraph
 
 France crushed the Croquant peasant rebellion in 1624 at terrible cost to its young gentlemen; the Huguenot revolt under the Duke of Soubise then wrecked the navy at Blavet, took Bordeaux, and — after the royal army was slaughtered in the forests outside Nantes — proclaimed the **French Protestant Republic** at La Rochelle on August 8th, 1625, with Soubise as Lord Protector. France clawed back: Soubise's island fortress fell, the Duke was captured (and escaped, and shot Hercule Bonaparte dead from horseback amid the fires of Chevreuse), English gold turned to English soldiers, and Buckingham's invasion of the Île de Ré was hurled back into the sea in 1627. Cardinal Richelieu then strangled La Rochelle behind his consecrated seawall through a year of siege, assault, and refugee checkpoints, until the city fell in the autumn of 1628. The war ended in the winter of 1629 on the banks of the Creuse, where the Duke of Rohan's last army cut its way to freedom across a river red with blood, three more graves were dug, and the survivors threw a party at the Horse Guards.
