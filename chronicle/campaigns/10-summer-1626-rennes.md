@@ -216,7 +216,7 @@ Rennes fell, the Chalais conspirators went to Nantes in irons, and every player 
 
 *The morning after the resolution, Maj. Ladagnous volunteered the Picardy Musketeers 2nd Battalion — Guerinet included — straight into the Fall campaign:*
 
-**Jean Rochant** — "@DancingHorse Right back into the fray then?"
+**Jean Rochant** — "@Guerinet Durand Right back into the fray then?"
 
 **Marius Thibodeaux** — "I imagine you'll have a few sleepless nights on the front in the coming days"
 

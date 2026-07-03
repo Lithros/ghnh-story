@@ -18,11 +18,11 @@ La Rochelle was already lost when the fall season opened. After the summer's fai
 
 *The deployment had been settled weeks earlier, in the off-season channel, when the Narrator called for volunteering rolls:*
 
-**Narrator** — "The following players should roll 1d6 to see if their commanders are volunteering them for the Fall Campaign: @Slade Imbee @ArcticFox @CitrusNotes"
+**Narrator** — "The following players should roll 1d6 to see if their commanders are volunteering them for the Fall Campaign: @Slade Imbee @Jean Renault @Armand Dufour"
 
 > 🎲 Armand Dufour rolls 1d6 — **6** (his commander volunteers the regiment)
 
-**Narrator** — "The Picardy Musketeers, including @CitrusNotes, @WillWorker, and @etirflita, will be deploying this season (unless anyone wishes to use Influence on the commander -- a mere Major!)"
+**Narrator** — "The Picardy Musketeers, including @Armand Dufour, @Albert Blastagarde, and @Côme Touchard, will be deploying this season (unless anyone wishes to use Influence on the commander -- a mere Major!)"
 
 **Armand Dufour** — "To glory!"
 
@@ -38,11 +38,11 @@ La Rochelle was already lost when the fall season opened. After the summer's fai
 
 **Narrator** — "Deploying:
 
-Bg. Gen. @Curtis Sinnoch leading the 1st Brigade, including in the Picardy Musketeers Captains @CitrusNotes and @WillWorker, and Pvt. @etirflita.
+Bg. Gen. @Curtis Sinnoch leading the 1st Brigade, including in the Picardy Musketeers Captains @Armand Dufour and @Albert Blastagarde, and Pvt. @Côme Touchard.
 
 Lt. Col. @Jules Lavelle commanding the Royal Foot Guards.
 
-@sirsfurther has volunteered as a private in the Frontier Regiment."
+@Joseph Bousain has volunteered as a private in the Frontier Regiment."
 
 **Narrator** — "The Frontier Regiment is commanded by Col. Thomas Alard, a savvy veteran of the Spanish Campaigns."
 
@@ -122,11 +122,11 @@ You've all trained and studied well, and all have full permission to deviate fro
 
 **Narrator** — "@Curtis Sinnoch, your rolls are Death 12, Mention 12, Promotion 6, Crowns 6"
 
-**Narrator** — "@CitrusNotes and @WillWorker, your rolls are Death 8, Mention 10, Promotion 7, Crowns 11"
+**Narrator** — "@Armand Dufour and @Albert Blastagarde, your rolls are Death 8, Mention 10, Promotion 7, Crowns 11"
 
-**Narrator** — "@etirflita, your rolls are Death 7, Mention 10, Promotion 7, Crowns 12"
+**Narrator** — "@Côme Touchard, your rolls are Death 7, Mention 10, Promotion 7, Crowns 12"
 
-**Narrator** — "@sirsfurther, your rolls are Death 6, Mention 10, Promotion 7, Crowns 11"
+**Narrator** — "@Joseph Bousain, your rolls are Death 6, Mention 10, Promotion 7, Crowns 11"
 
 **Narrator** — "@Jules Lavelle, your rolls are Death 12, Mention 10, Promotion 7, Crowns 8"
 
@@ -238,7 +238,7 @@ The wounds swiftly turn gangrenous, and he expires in a hospital tent a few days
 
 *The Picardy Musketeers' officer corps had fared far worse than the players:*
 
-**Narrator** — "Due to the deaths of nearly the entire command staff of the Picardy Musketeers, @CitrusNotes and @WillWorker have been given acting command of 1st and 3rd Battalion, respectively." *(the announcement drew a 👏)*
+**Narrator** — "Due to the deaths of nearly the entire command staff of the Picardy Musketeers, @Armand Dufour and @Albert Blastagarde have been given acting command of 1st and 3rd Battalion, respectively." *(the announcement drew a 👏)*
 
 *And then the Cardinal closed the theater:*
 

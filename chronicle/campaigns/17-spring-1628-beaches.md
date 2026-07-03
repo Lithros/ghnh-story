@@ -32,15 +32,15 @@ The bloodiest single afternoon of the whole war — four player characters dead 
 
 **Narrator** — "The French forces include:
 
-Bg. General @etirflita commanding the Royal Northern Highland Border regiment.
+Bg. General @Marius Thibodeaux commanding the Royal Northern Highland Border regiment.
 
-Marquis Col. @Curtis Sinnoch, commanding the Royal Foot Guards, with Baron Lt. Col. @Jules Lavelle commanding the 1st Battalion, and Pvt. @sirsfurther serving in C Company.
+Marquis Col. @Curtis Sinnoch, commanding the Royal Foot Guards, with Baron Lt. Col. @Jules Lavelle commanding the 1st Battalion, and Pvt. @Pierre d'Amboise serving in C Company.
 
 Pvt. @Slade Imbee, serving in the King's Musketeers F Company under Lt. Col. Adhemar Lucy (MA 5).
 
-Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @ArcticFox and his Crown Prince Cuirassiers 1st Squadron, and Cpts. @WillWorker and @DancingHorse leading companies."
+Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Jean Renault and his Crown Prince Cuirassiers 1st Squadron, and Cpts. @Jean Shawinigan and @Anton Dechets leading companies."
 
-**Narrator** — "Correction: @etirflita commands a battalion under Col. Matthieu Barrault (MA 4)."
+**Narrator** — "Correction: @Marius Thibodeaux commands a battalion under Col. Matthieu Barrault (MA 4)."
 
 **Narrator** — "Col. LaRue agrees to follow Bg. Gen. Thibodeaux's advice in all matters."
 
@@ -61,9 +61,9 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Arctic
 
 **Pierre d'Amboise** — "Monsieur, for many years I have devoted myself to the study of books and laws. I have left the fighting of wars to others. But now I have seen the field of battle, and though it is a terrible thing, I cannot take my mind away from the glory to be found there in the service of France. I understand at last why soldiers boast of their deeds on the field and I wish to share in their boasts!"
 
-**Curtis Sinnoch** — "Ah man of letters, are you? Books and laws are all fine, but understanding military history - such is the true value of the written word! To read orders and missives, to understand what is happening both at home and abroad, is a mark of true command! @sirsfurther - we will gladly take you and your letters. Be prepared - any cowardly behavior will be dealt with extreme prejudice - we shall not sully the honor of France!"
+**Curtis Sinnoch** — "Ah man of letters, are you? Books and laws are all fine, but understanding military history - such is the true value of the written word! To read orders and missives, to understand what is happening both at home and abroad, is a mark of true command! @Pierre d'Amboise - we will gladly take you and your letters. Be prepared - any cowardly behavior will be dealt with extreme prejudice - we shall not sully the honor of France!"
 
-**Narrator** — "@sirsfurther, purchasing a commission?"
+**Narrator** — "@Pierre d'Amboise, purchasing a commission?"
 
 **Pierre d'Amboise** — "Most certainly, I shall purchase it with the blood of the King's enemies on the field of battle!"
 
@@ -81,7 +81,7 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Arctic
 
 **Narrator** — "By the time the French forces have made the march from Paris, the English have already made their landing. They've landed on beaches up and down the coast, and are transporting convoys of goods overland to reach the city, the sea routes being too heavily defended. It falls to the regimental commanders to find a plan to clear the beaches, brush, and coastal forests of the enemy."
 
-**Narrator** — "As the ranking officer, @etirflita should lay out the plan of deployment with @Curtis Sinnoch advising."
+**Narrator** — "As the ranking officer, @Marius Thibodeaux should lay out the plan of deployment with @Curtis Sinnoch advising."
 
 *Then, with the correction that Thibodeaux commanded only a battalion, the plan passed to the Marquis:*
 
@@ -95,9 +95,9 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Arctic
 
 **Curtis Sinnoch** — "My glorious compatriots and men-at-arms! Once again, the villainous English are attempting to subvert France herself and corrupt our people! We will show them no quarter, nor should we expect any! The Royal Foot Guard will set up in the forests along with the King's Musketeers - we will ambush and pick off any unexpecting forces. Baron Lt. Col, @Jules Lavelle, be on eye in particular for any caravans transporting weapons and ammunition - you have full permission to engage with extreme force as you see fit."
 
-**Curtis Sinnoch** — "Col. LaRue - if your men can harass the English as they unload on the beaches - set upon them before they can defend themselves, and then withdraw to the dunes and forests when they attempt to counter, we will have Lt. Col. @ArcticFox's Calvary ready to tear them apart with a counter charge."
+**Curtis Sinnoch** — "Col. LaRue - if your men can harass the English as they unload on the beaches - set upon them before they can defend themselves, and then withdraw to the dunes and forests when they attempt to counter, we will have Lt. Col. @Jean Renault's Calvary ready to tear them apart with a counter charge."
 
-**Curtis Sinnoch** — "Col. Matthieu Barrault, your fine soldiers are some of the best France has to offer. With the might and brains of @etirflita, I believe you have the ability to break any force the Sea Dogs launch at us. Whereas the Frontier Regiment will operate as a hammer throwing their ranks into discord, you shall operate as a scalpel, sabotaging landing spots, eliminating officers, and engaging in any targets of opportunity you may find - my only request is to arrange with captains @WillWorker and @DancingHorse any beach operations you perform to make sure we have an adequate rearguard in the event they attempt any trickery of their own. TO THE GLORY OF FRANCE!"
+**Curtis Sinnoch** — "Col. Matthieu Barrault, your fine soldiers are some of the best France has to offer. With the might and brains of @Marius Thibodeaux, I believe you have the ability to break any force the Sea Dogs launch at us. Whereas the Frontier Regiment will operate as a hammer throwing their ranks into discord, you shall operate as a scalpel, sabotaging landing spots, eliminating officers, and engaging in any targets of opportunity you may find - my only request is to arrange with captains @Jean Shawinigan and @Anton Dechets any beach operations you perform to make sure we have an adequate rearguard in the event they attempt any trickery of their own. TO THE GLORY OF FRANCE!"
 
 ### The Royal Foot Guards — Marquis Col. Curtis Sinnoch
 
@@ -123,7 +123,7 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Arctic
 
 ### Thibodeaux's battalion, RNHB — Bg. Gen. Marius Thibodeaux
 
-**Narrator** — "@etirflita, give your orders and roll. You will receive a -1 to MA for your commander's poor result."
+**Narrator** — "@Marius Thibodeaux, give your orders and roll. You will receive a -1 to MA for your commander's poor result."
 
 **Marius Thibodeaux** — "We will be hunting officers, but let us make some sport of it! Each rank is assigned points, whoever has the highest tally at the end of the onslaught will be toasted at the Blue Gables next month!"
 
@@ -149,7 +149,7 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Arctic
 
 ### Crown Prince Cuirassiers 1st Squadron — Lt. Col. Jean Renault
 
-**Narrator** — "@ArcticFox, you will receive a -1 to MA for determining your battle result due to your commander's awful showing."
+**Narrator** — "@Jean Renault, you will receive a -1 to MA for determining your battle result due to your commander's awful showing."
 
 **Jean Renault** — "Oof"
 
@@ -226,7 +226,7 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Arctic
 
 ### Marius Thibodeaux — Brigadier General, RNHB — the galleon
 
-**Narrator** — "@etirflita, your rolls are Death 10, Mention 10, Promotion 5, Crowns 5"
+**Narrator** — "@Marius Thibodeaux, your rolls are Death 10, Mention 10, Promotion 5, Crowns 5"
 
 **Marius Thibodeaux** — "Reckless Bravery 2!"
 
@@ -254,7 +254,7 @@ They never see the galleon rise up out of the surf behind them, carried high on 
 
 ### Jean Renault — Lieutenant Colonel, Crown Prince Cuirassiers 1st Squadron
 
-**Narrator** — "@ArcticFox, your rolls are Death 10, Mention 12, Promotion 9, Crowns 7"
+**Narrator** — "@Jean Renault, your rolls are Death 10, Mention 12, Promotion 9, Crowns 7"
 
 **etirflita** — "What's the worst that could happen?"
 
@@ -275,7 +275,7 @@ They never see the galleon rise up out of the surf behind them, carried high on 
 
 **Narrator** — "While taking a break from riding in circles, your men notice a sparkling ring on the side of the road, and hand it to you. It's worth 100 crowns."
 
-**Narrator** — "wait, @ArcticFox, did you properly roll 2d6 for death?"
+**Narrator** — "wait, @Jean Renault, did you properly roll 2d6 for death?"
 
 **Jean Renault** — "I thought I did" — "Want I should re-roll it?" — "I dont see the addition symbols"
 
@@ -289,7 +289,7 @@ They never see the galleon rise up out of the surf behind them, carried high on 
 
 ### Jean Shawinigan — Captain, under Col. LaRue — the temporal paradox
 
-**Narrator** — "While we wait, @WillWorker, your rolls are Death 6, Mention 7, Promotion 6. No chance for loot."
+**Narrator** — "While we wait, @Jean Shawinigan, your rolls are Death 6, Mention 7, Promotion 6. No chance for loot."
 
 *The player answered the ugly numbers with the fullest confession his time-traveling character ever made:*
 
@@ -317,7 +317,7 @@ Reports from nearby soldiers are scattered and confused as to what came next. Al
 
 ### Pierre d'Amboise — Private, C Company, Royal Foot Guards
 
-**Narrator** — "@sirsfurther, your rolls are Death 13, Mention 10, Promotion 10, Crowns 7."
+**Narrator** — "@Pierre d'Amboise, your rolls are Death 13, Mention 10, Promotion 10, Crowns 7."
 
 **Pierre d'Amboise** — "As the Royal Foot Guards march towards the battle, Pierre feels that everything looks all too familliar. He ruminates on this strange feeling for a long time before it dawns on him that this was the exact situation which faced General Antonius during the Sicilian Revolt of 268. After a moment or two of contemplation, he recalls the various crucial mistakes which Antonius made on that occassion.
 
@@ -355,7 +355,7 @@ Just as Pierre begins the explain the similarity between the present situation a
 
 ### Anton Dechets — Captain, Gascon Regiment — the smuggler's cannon
 
-**Narrator** — "@DancingHorse, your rolls are Death 6, Mention 7, Promotion 6. No chance for loot."
+**Narrator** — "@Anton Dechets, your rolls are Death 6, Mention 7, Promotion 6. No chance for loot."
 
 **Anton Dechets** — "Anton looks around. The battlefield is...an utter trash heap of misery and all the worst parts of humanity. It feels like he belongs, for some inexplicable reason. With a faint smile, his heart swells and he sidles into battle."
 
