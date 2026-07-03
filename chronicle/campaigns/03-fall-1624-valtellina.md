@@ -8,7 +8,7 @@
 
 The great army that crushed the Croquants had barely limped home when the fall levies went out. This was to be the first *volunteer* campaign of the game — no royal summons, only the luck of the regimental dice:
 
-**Jules Lavelle (GM)** — "For the Fall season, rolling to see if any regiments or battalions are volunteered for duty. … they go on a 6. … this can be modified by influence, if desired"
+**Lithros (GM)** — "For the Fall season, rolling to see if any regiments or battalions are volunteered for duty. … they go on a 6. … this can be modified by influence, if desired"
 
 Two and a half weeks later at the table — with the game clock run forward to November 1624 — the bill came due:
 
@@ -40,7 +40,7 @@ Pierre de Tête escaped the rolls at once — "Grand Duke Max's Dragoons. @Danci
 
 **etirflita (player)** — "This is for the entire season, n'est-ce pas?"
 
-**Jules Lavelle (GM)** — "The people being volunteered are gone until December"
+**Lithros (GM)** — "The people being volunteered are gone until December"
 
 *Curtis Sinnoch, a Captain of the Queen's Own Carabiniers, refused to march as a mere line officer:*
 

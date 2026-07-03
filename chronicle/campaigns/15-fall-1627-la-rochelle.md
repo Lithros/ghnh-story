@@ -291,7 +291,7 @@ and Pvt. @WillWorker [Sébastien Lefebvre] attached to a very confused Frontier 
 
 **sirsfurther** — "Am I right in thinking I can only purchase up to major?" *(barely an hour after Robert refused to be taken alive, already pricing the next commission)*
 
-**Jules Lavelle** *(GM, on new-character logistics)* — "You don't make a new mistress every time in this game, sorry for not explaining" · **sirsfurther** — "Marie d'Rouen quickly tires of the attractions of Paris and returns to her estate"
+**Lithros** *(GM, on new-character logistics)* — "You don't make a new mistress every time in this game, sorry for not explaining" · **sirsfurther** — "Marie d'Rouen quickly tires of the attractions of Paris and returns to her estate"
 
 **WillWorker** — "I just had an, 'Oh shit! Orders are due today,' moment and thought I would share in case anyone else needed to have one." · **Jules Lavelle** — "Orders will be due Sunday. @DancingHorse is leaving us all high and dry" · **WillWorker** — "The nerve!"
 

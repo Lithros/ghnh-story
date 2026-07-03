@@ -12,7 +12,7 @@ The fall season opened not with a war but with a peace. On the night of 16 April
 
 *The escort had been assembling for weeks of game time. The Picardy Musketeers were volunteered clear back in February (real time), the moment the Rennes campaign closed:*
 
-**Jules Lavelle (GM)** — "Picardy Musketeers 2nd Battalion Commander Maj. Augustin Ladagnous has decided to volunteer his unit for service in the Fall campaign. @DancingHorse will be deploying."
+**Lithros (GM)** — "Picardy Musketeers 2nd Battalion Commander Maj. Augustin Ladagnous has decided to volunteer his unit for service in the Fall campaign. @DancingHorse will be deploying."
 
 **Jean Rochant** — "@DancingHorse Right back into the fray then?"
 

@@ -145,7 +145,7 @@ Opposite them: the entire Huguenot field army, three men to every one of the Kin
 
 *Four flat failures after the death roll — until the GM checked the modifiers:*
 
-**Jules Lavelle (GM)** — "Sorry, should have been another -1 on Mentions/Promotion" — "So you actually do qualify for promotion!" — "As no positions are open, please roll a die for Despatches."
+**Lithros (GM)** — "Sorry, should have been another -1 on Mentions/Promotion" — "So you actually do qualify for promotion!" — "As no positions are open, please roll a die for Despatches."
 
 > 🎲 Hercule Bonaparte rolls 1d6 — **1**
 
@@ -201,9 +201,9 @@ No player character so much as bled at Nantes — the butcher's bill fell on the
 
 ## Table talk
 
-**WillWorker** — "Was the knighthood roll for succeeding on Crowns?" · **Jules Lavelle (GM)** — "The knighthood roll was for getting a battle result 3 higher than your commander … You didn't succeed on crowns, you needed a 6 and got a 5" · **WillWorker** — "Right.  I got confused. … Thought I had to roll under."
+**WillWorker** — "Was the knighthood roll for succeeding on Crowns?" · **Lithros (GM)** — "The knighthood roll was for getting a battle result 3 higher than your commander … You didn't succeed on crowns, you needed a 6 and got a 5" · **WillWorker** — "Right.  I got confused. … Thought I had to roll under."
 
-**WillWorker** — "Mechanically, the knighthood makes me a noble now, right?" · **Jules Lavelle (GM)** — "Yep … For RP purposes higher nobles won't really consider you a noble until one more rank … But mechanically you are a noble" · **WillWorker** — "Oh, I figure there is going to be some nouveau riche stuff going on.  But I figured the difference between being considered a commoner or nobility will be the difference between iodine or salt in the wound."
+**WillWorker** — "Mechanically, the knighthood makes me a noble now, right?" · **Lithros (GM)** — "Yep … For RP purposes higher nobles won't really consider you a noble until one more rank … But mechanically you are a noble" · **WillWorker** — "Oh, I figure there is going to be some nouveau riche stuff going on.  But I figured the difference between being considered a commoner or nobility will be the difference between iodine or salt in the wound."
 
 **WillWorker** — "I guess this means I don't get to take advantage of the +10SP for being knighted...." · **Narrator** — "You'll get it the month you come back" · **DancingHorse** — "@WillWorker you just need to live long enough!"
 
@@ -211,7 +211,7 @@ No player character so much as bled at Nantes — the butcher's bill fell on the
 
 **etirflita** *(on the summer muster)* — "Did you start mocking up everyone's tombstones for this campaign? I feel like we're going to be spamming #cemetery" · **ArcticFox** — "PLANKS FOR EVERYONE!" · **etirflita** — "Planks for the memories!"
 
-**Jules Lavelle (GM)** — "this is a super low fatality group. you guys don't seem to want to murder each other much" · **etirflita** — "I went from 3 to 6, then 8, now 3 again. … It's quicker to die constantly and luck out with a good chargen roll"
+**Lithros (GM)** — "this is a super low fatality group. you guys don't seem to want to murder each other much" · **etirflita** — "I went from 3 to 6, then 8, now 3 again. … It's quicker to die constantly and luck out with a good chargen roll"
 
 **Curtis Sinnoch** — "I've been trying my darndest to level people up to my SL … and now with @WillWorker up here, its not so lonely!" · **WillWorker** — "The knighthood was an unexpected boost, but it has been quite the slog going from SL3 to SL10."
 

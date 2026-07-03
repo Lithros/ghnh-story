@@ -206,17 +206,17 @@ The first duel of the game, fought in the first week of the first month, before 
 
 **etirflita** — "(OC: I assume if I die week 1, I can roll a new character for next month, right? Haha)"
 
-**Jules Lavelle** — "yeppp definitely" ... "there's a reason naming your character is optional"
+**Lithros** — "yeppp definitely" ... "there's a reason naming your character is optional"
 
-**Jules Lavelle** — "also Godefroy lives in PST and has two kids so we may be waiting a bit for him. but that's the magic of this kind of game!" — to which **harry** replied: "god tell me about it"
+**Lithros** — "also Godefroy lives in PST and has two kids so we may be waiting a bit for him. but that's the magic of this kind of game!" — to which **harry** replied: "god tell me about it"
 
-**laiv.wire** — "When did Godefroy produce a second heir?" **Jules Lavelle** — "2 months ago" **etirflita** — "(Moi aussi! My youngest is like 11 weeks)"
+**laiv.wire** — "When did Godefroy produce a second heir?" **Lithros** — "2 months ago" **etirflita** — "(Moi aussi! My youngest is like 11 weeks)"
 
-**Jules Lavelle** — "DUEL! DUEL! DUEL!"
+**Lithros** — "DUEL! DUEL! DUEL!"
 
-**DancingHorse** — "The peanut gallery demands dramatizations of the duels" **Jules Lavelle** — "I promise there will be dramatic narration"
+**DancingHorse** — "The peanut gallery demands dramatizations of the duels" **Lithros** — "I promise there will be dramatic narration"
 
-**Jules Lavelle** — "it's just like high school; dating is a matter of life and death"
+**Lithros** — "it's just like high school; dating is a matter of life and death"
 
 **etirflita** (moments after the duel ended, in the OOC channel) — "Well hell" ... "I may be nearly broke, but that was a blast"
 

@@ -42,7 +42,7 @@ The fall had broken the rebellion's back: the Duke of Soubise taken at Île de R
 
 *Clemens Charron had put his name forward at the start of December — "harry has volunteered for the Frontier Regiment," the Narrator recorded. Alphonse Devereux, Colonel of the Royal Marines, marched without his regiment. When Marius Thibodeaux — the new major Alphonse had personally welcomed into the Marines a month before ("That's a sweet MA! Join us, and fight for France!") — asked whether the Marines were headed to war as well, the answer from on high was terse:*
 
-**Jules Lavelle (GM)** — "Alphonse has gone to war by himself"
+**Lithros (GM)** — "Alphonse has gone to war by himself"
 
 **Marius Thibodeaux** — "C'est la vie."
 

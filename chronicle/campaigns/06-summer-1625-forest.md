@@ -409,13 +409,13 @@ Picardy Musketeers 1st Battalion commander
 
 **etirflita** — "Did you start mocking up everyone's tombstones for this campaign? I feel like we're going to be spamming #cemetery" · **ArcticFox** — "PLANKS FOR EVERYONE!"
 
-**Jules Lavelle (GM)** — "this is a super low fatality group. you guys don't seem to want to murder each other much"
+**Lithros (GM)** — "this is a super low fatality group. you guys don't seem to want to murder each other much"
 
 **WillWorker** *(mid-battle)* — "Well this is a massive cluster fuck...."
 
 **etirflita** — "How did the campaign go? Inconclusive"
 
-**Jules Lavelle (GM)** — "god what a bloodbath" · **ArcticFox** — "So many dead … AND FOR WHAT? … FOR FRANCE!"
+**Lithros (GM)** — "god what a bloodbath" · **ArcticFox** — "So many dead … AND FOR WHAT? … FOR FRANCE!"
 
 **DancingHorse** — "Well, serves me right for getting in a fight with my own arm … army"
 

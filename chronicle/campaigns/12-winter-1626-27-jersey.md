@@ -256,7 +256,7 @@ The winter of 1626–27 found France with no war to fight — and one insult it 
 
 **WillWorker** — "Let's not be too hasty on that. If I promo, the spot becomes free."
 
-**Jules Lavelle (GM)** — "Yeah I already realized that and let him know. He may need to choose which he prefers"
+**Lithros (GM)** — "Yeah I already realized that and let him know. He may need to choose which he prefers"
 
 *The next morning Curtis chose:*
 
@@ -276,13 +276,13 @@ The winter of 1626–27 found France with no war to fight — and one insult it 
 
 > 🎲 Hercule Bonaparte rolls 1d6 — **1**
 
-**Jules Lavelle (GM)** — "A star can only rise so fast."
+**Lithros (GM)** — "A star can only rise so fast."
 
 **Hercule Bonaparte** — "Cemented BG, so that's a win" *(👍)*
 
 > 🎲 Hercule Bonaparte rolls 4d6 — **12** *(loot)* · 1d6 — **5** *(mention value)*
 
-**Jules Lavelle (GM)** — "1200 crowns are carried back from the sacking of the city, and placed in your hands." *(💰)*
+**Lithros (GM)** — "1200 crowns are carried back from the sacking of the city, and placed in your hands." *(💰)*
 
 ### Robert d'Engaux — survival, and nothing else
 

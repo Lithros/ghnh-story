@@ -314,7 +314,7 @@ In the promotion rolls that followed, a Major and a Captain of the Royal Foot Gu
 
 **WillWorker** — "It appears the fates had it in for Leon" *(on Leon dying a second time in the NPC death rolls)*
 
-**WillWorker** — "I'm surprised you haven't written some kind of script for the death rolls for each regiment." · **Jules Lavelle (GM)** — "working on it. figuring out the best database is the tricky part"
+**WillWorker** — "I'm surprised you haven't written some kind of script for the death rolls for each regiment." · **Lithros (GM)** — "working on it. figuring out the best database is the tricky part"
 
 **WillWorker** *(on the Soubise bounty)* — "Go get 'em, Ray! I mean, @harry!"
 

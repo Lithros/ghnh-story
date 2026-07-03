@@ -34,7 +34,7 @@ A year and a half after the gentlemen first bled in the Alpine valley (see [Fall
 
 **Jean Rochant** — "Wait, I'm A Company, but I dont have a batallion listed for myself?" — "Am I going on campaign?"
 
-**Jules Lavelle (GM)** — "A Company is always in 1st Battalion" — "so yes, you are going" *(saluted with the campaign's traditional plank, ×4)*
+**Lithros (GM)** — "A Company is always in 1st Battalion" — "so yes, you are going" *(saluted with the campaign's traditional plank, ×4)*
 
 **Curtis Sinnoch** — "TO WAR!"
 

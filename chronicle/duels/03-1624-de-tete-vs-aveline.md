@@ -284,11 +284,11 @@ Before long, the Dragoons become aware of the new arrivals, particularly the new
 
 ## Table talk
 
-**etirflita** (that morning, before the game-month even opened) — "My character is going to die in a duel whether he wants to or not" — **Jules Lavelle**: "yeah that seems to be the case...."
+**etirflita** (that morning, before the game-month even opened) — "My character is going to die in a duel whether he wants to or not" — **Lithros**: "yeah that seems to be the case...."
 
 **etirflita** — "Guys, I am now a private in a regiment, which means like half of my month will be shot. If I survive April and still manage to get into a duel in May... I feel like Zuko."
 
-**Jules Lavelle** — "( @DancingHorse is taking a nap IRL so we gotta wait a bit for the fun )" — and, after fielding an afternoon of riposte-rules questions from the doomed man: "believe in the heart of the routines"
+**Lithros** — "( @DancingHorse is taking a nap IRL so we gotta wait a bit for the fun )" — and, after fielding an afternoon of riposte-rules questions from the doomed man: "believe in the heart of the routines"
 
 **Careless Ocelot** — "...Does it pay?" — **etirflita**: "What, dueling? I think it pays more if you aren't dueling and bet on the outcome!"
 

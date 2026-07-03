@@ -346,17 +346,17 @@ The second duel of the game, fought the day after Aveline and Beaufosse crossed 
 
 ## Table talk
 
-**laiv.wire** (in the OOC channel, as the crowd gathered) — "Do I start the duel or wait for the Narrator to call it?" — **Jules Lavelle**: "wait"
+**laiv.wire** (in the OOC channel, as the crowd gathered) — "Do I start the duel or wait for the Narrator to call it?" — **Lithros**: "wait"
 
 **Narrator** (between turns twelve and thirteen) — "hold on. I may have erred" ... "I did not err" — **etirflita**: "The narrator never errs!"
 
-**Jules Lavelle** — the instant Lady Adélaïde's door swung wide, posted the Blasting Company's "Adelaide Parade" in the courting channel as her theme music.
+**Lithros** — the instant Lady Adélaïde's door swung wide, posted the Blasting Company's "Adelaide Parade" in the courting channel as her theme music.
 
 **ArcticFox** (after rolling a 1 at the lady's door, to the man who rolled a 6 the night before) — "I think you just have some form of satanic, unholy deal with the dice golem"
 
 **ArcticFox** — "I dropped to 2 from 3 lol" ... "Must be nice to have Dice Golem love you ;_;" — **etirflita**: "We are actually former lovers, but it was an amicable split" ... "Dice Golem just thinks about our time together and spits out 6s"
 
-**DancingHorse** — "'Zounds what an exciting month! How many duels do you think we'll have next month?" — **Jules Lavelle**: "I should expect at least two, if this keeps up."
+**DancingHorse** — "'Zounds what an exciting month! How many duels do you think we'll have next month?" — **Lithros**: "I should expect at least two, if this keeps up."
 
 ---
 
