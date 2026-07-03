@@ -48,7 +48,7 @@
 | 6 | **Anton Dechets** | Mar 1628 – May 1628 | "An absolute trash person"; rejected by the Gascon Regiment itself, an officer within thirty days anyway. Chest-shot by a booby-trapped smugglers' cannon. *"Even in death a holy man."* |
 | 7 | **Abelard Soucy** | May 1628 – end | Survived. Son of the Earl of Périgord; avid horseman; his army career "as anticlimactic as his time in Paris" — which, in this family, constitutes a miracle. |
 
-## Blastagarded
+## WillWorker
 
 | # | Character | Span | Fate |
 |---|-----------|------|------|
@@ -108,4 +108,4 @@
 
 ---
 
-*Also of the company: **Tumal**, **Coonsan**, **Quisoves Pugnat**, **Riddle**, **Enzocles**, and **WillWorker** — travelers who passed through Paris briefly, whose characters' names the record mostly declined to keep. And **Dice Golem**, who outlived everyone.*
+*Also of the company: **Tumal**, **Coonsan**, **Quisoves Pugnat**, **Riddle**, and **Enzocles** — travelers who passed through Paris briefly, whose characters' names the record mostly declined to keep. And **Dice Golem**, who outlived everyone.*
