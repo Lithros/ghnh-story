@@ -36,7 +36,7 @@ The fall had broken the rebellion's back: the Duke of Soubise taken at Île de R
 
 ## The order of battle
 
-**Narrator** — "Blastagarded [Hercule Bonaparte], Curtis Sinnoch, and Jules Lavelle are deployed with the rest of the Royal Foot Guards. Anonymouse [Alphonse Devereux] and harry [Clemens Charron] are attached to the Frontier Regiment under the command of Col. Jean-Yves De la Croix, currently serving out a sentence for mass public indecency for a drunken Noel dare gone wrong."
+**Narrator** — "WillWorker [Hercule Bonaparte], Curtis Sinnoch, and Jules Lavelle are deployed with the rest of the Royal Foot Guards. Anonymouse [Alphonse Devereux] and harry [Clemens Charron] are attached to the Frontier Regiment under the command of Col. Jean-Yves De la Croix, currently serving out a sentence for mass public indecency for a drunken Noel dare gone wrong."
 
 *(The table saluted Colonel De la Croix's vignette with 🎅 🍆 🥶.)*
 
@@ -62,7 +62,7 @@ Opposite them: scattered pockets of traitor militia, the last armed Protestants 
 
 ### The Royal Foot Guards at the river
 
-**Narrator** — "Independently ranging, the Royal Foot Guards happen upon a contingent of Protestant troops waiting to ferry across the Sèvre Niortaise. Once across, the traitors are sure to burn the boats, eliminating any chance of capture. Blastagarded, what happens next is up to you."
+**Narrator** — "Independently ranging, the Royal Foot Guards happen upon a contingent of Protestant troops waiting to ferry across the Sèvre Niortaise. Once across, the traitors are sure to burn the boats, eliminating any chance of capture. WillWorker, what happens next is up to you."
 
 **Hercule Bonaparte** — "Jules Lavelle — Prepare and send dispatches for a full assault on their flank opposite the Frontier Regiment. Tell the men to offer no quarter and an make examples of those who do not flee in terror. We shall drive them from the shoreline away from their boats in the waiting arms of capture by the Frontier Regiment. And, if any do elude us, the memory of what happens to traitors will be forever etched into their minds, such that they will never raise a hand against France again. Task and position Curtis Sinnoch with the important duty of securing any path back to their boats once we have pushed them away from the shore. Last thing we want is some thinking they can double back."
 
@@ -90,9 +90,9 @@ Opposite them: scattered pockets of traitor militia, the last armed Protestants 
 
 ### Hercule Bonaparte — Brevet Colonel, Royal Foot Guards
 
-**Narrator** — "Blastagarded, your rolls are as follows: Death 15, Mention 10, Promotion 10, Crowns 5"
+**Narrator** — "WillWorker, your rolls are as follows: Death 15, Mention 10, Promotion 10, Crowns 5"
 
-**Blastagarded (player)** — "Taking 3 Reckless Bravery"
+**WillWorker (player)** — "Taking 3 Reckless Bravery"
 
 > 🎲 Hercule Bonaparte rolls 2d6 *(#Death, target 12 after reckless bravery)* — **3**
 
@@ -126,7 +126,7 @@ Opposite them: scattered pockets of traitor militia, the last armed Protestants 
 
 **Narrator** — "You have been promoted to the rank of full Colonel."
 
-**Blastagarded (player)** — "This bypasses the SL requirement, right?"
+**WillWorker (player)** — "This bypasses the SL requirement, right?"
 
 **Narrator** — "yes, though it doesn't affect your SL, you just ignore the requirement"
 
@@ -238,13 +238,13 @@ The no-quarter ambush on the Sèvre Niortaise made the Royal Foot Guards' winter
 
 ## Table talk
 
-**Narrator** — "if we can get orders in by wednesday night I can run the next month thursday or saturday … there will be a campaign to resolve after all" · **Abelard Soucy** — *(posts The Band Perry, "If I Die Young")*
+**Narrator** — "if we can get orders in by wednesday night I can run the next month thursday or saturday … there will be a campaign to resolve after all" · **DancingHorse** — *(posts The Band Perry, "If I Die Young")*
 
-**Blastagarded** — "@Narrator Royal Guard heads out." · **Jean Renault** — "Ding!"
+**WillWorker** — "@Narrator Royal Guard heads out." · **ArcticFox** — "Ding!"
 
-**Blastagarded** — "Is it a d6 or 2d6?" · **Narrator** — "d6" *(the commander of the Royal Foot Guards, moments before annihilating a militia)*
+**WillWorker** — "Is it a d6 or 2d6?" · **Narrator** — "d6" *(the commander of the Royal Foot Guards, moments before annihilating a militia)*
 
-**Blastagarded** — "It is also my fourth mention. Do I roll for title?" · **Narrator** — "Yes, we'll do this in order" · **Blastagarded** — "Okay, just wanted to flag it."
+**WillWorker** — "It is also my fourth mention. Do I roll for title?" · **Narrator** — "Yes, we'll do this in order" · **WillWorker** — "Okay, just wanted to flag it."
 
 **Narrator** — "(Alphonse elected to go out in a blaze of glory)" — 🔥🔥, plank, plank
 

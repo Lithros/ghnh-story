@@ -124,7 +124,7 @@ Before long, the Dragoons become aware of the new arrivals, particularly the new
 
 *Aveline, still hoping to salvage something from the wreck of his parry, appealed to the Narrator:*
 
-**Ghôst Touchard** (out of character) — "So I suppose I cannot riposte an unsuccessful parry?"
+**etirflita** (out of character) — "So I suppose I cannot riposte an unsuccessful parry?"
 
 **Narrator** — "you suppose right"
 
@@ -284,19 +284,19 @@ Before long, the Dragoons become aware of the new arrivals, particularly the new
 
 ## Table talk
 
-**Ghôst Touchard** (that morning, before the game-month even opened) — "My character is going to die in a duel whether he wants to or not" — **Jules Lavelle**: "yeah that seems to be the case...."
+**etirflita** (that morning, before the game-month even opened) — "My character is going to die in a duel whether he wants to or not" — **Jules Lavelle**: "yeah that seems to be the case...."
 
-**Ghôst Touchard** — "Guys, I am now a private in a regiment, which means like half of my month will be shot. If I survive April and still manage to get into a duel in May... I feel like Zuko."
+**etirflita** — "Guys, I am now a private in a regiment, which means like half of my month will be shot. If I survive April and still manage to get into a duel in May... I feel like Zuko."
 
-**Jules Lavelle** — "( @Abelard Soucy is taking a nap IRL so we gotta wait a bit for the fun )" — and, after fielding an afternoon of riposte-rules questions from the doomed man: "believe in the heart of the routines"
+**Jules Lavelle** — "( @DancingHorse is taking a nap IRL so we gotta wait a bit for the fun )" — and, after fielding an afternoon of riposte-rules questions from the doomed man: "believe in the heart of the routines"
 
-**Careless Ocelot** — "...Does it pay?" — **Ghôst Touchard**: "What, dueling? I think it pays more if you aren't dueling and bet on the outcome!"
+**Careless Ocelot** — "...Does it pay?" — **etirflita**: "What, dueling? I think it pays more if you aren't dueling and bet on the outcome!"
 
-**Blastagarded** — "Is the a reason there wasn't a break roll on the block?" — **Narrator**: "Break rolls only happen when using weapons of different type"
+**WillWorker** — "Is the a reason there wasn't a break roll on the block?" — **Narrator**: "Break rolls only happen when using weapons of different type"
 
-**Ghôst Touchard** (learning that enemy regimentals must duel *every* time they meet, unless heavily wounded) — "So if we are heavily wounded we could toady? ;p" ... "I did drop from 143 to 39, so there's that"
+**etirflita** (learning that enemy regimentals must duel *every* time they meet, unless heavily wounded) — "So if we are heavily wounded we could toady? ;p" ... "I did drop from 143 to 39, so there's that"
 
-**Ghôst Touchard** — "(Side note, a canesword would be epic)" — **Blastagarded**: "(Just reskin an existing weapon)"
+**etirflita** — "(Side note, a canesword would be epic)" — **WillWorker**: "(Just reskin an existing weapon)"
 
 ---
 

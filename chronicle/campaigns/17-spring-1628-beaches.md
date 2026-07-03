@@ -16,7 +16,7 @@ The bloodiest single afternoon of the whole war — four player characters dead 
 
 *"Unusually enthusiastic" was no exaggeration. In the days before the resolution the volunteers had lined up cheerfully:*
 
-**Blastagarded** — "Ding to SL7 and Volunteer."
+**WillWorker** — "Ding to SL7 and Volunteer."
 
 **Curtis Sinnoch** — "Volunteer for war!"
 
@@ -32,15 +32,15 @@ The bloodiest single afternoon of the whole war — four player characters dead 
 
 **Narrator** — "The French forces include:
 
-Bg. General @Ghôst Touchard commanding the Royal Northern Highland Border regiment.
+Bg. General @etirflita commanding the Royal Northern Highland Border regiment.
 
-Marquis Col. @Curtis Sinnoch, commanding the Royal Foot Guards, with Baron Lt. Col. @Jules Lavelle commanding the 1st Battalion, and Pvt. @Joseph Bousain serving in C Company.
+Marquis Col. @Curtis Sinnoch, commanding the Royal Foot Guards, with Baron Lt. Col. @Jules Lavelle commanding the 1st Battalion, and Pvt. @sirsfurther serving in C Company.
 
 Pvt. @Slade Imbee, serving in the King's Musketeers F Company under Lt. Col. Adhemar Lucy (MA 5).
 
-Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Jean Renault and his Crown Prince Cuirassiers 1st Squadron, and Cpts. @Blastagarded and @Abelard Soucy leading companies."
+Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @ArcticFox and his Crown Prince Cuirassiers 1st Squadron, and Cpts. @WillWorker and @DancingHorse leading companies."
 
-**Narrator** — "Correction: @Ghôst Touchard commands a battalion under Col. Matthieu Barrault (MA 4)."
+**Narrator** — "Correction: @etirflita commands a battalion under Col. Matthieu Barrault (MA 4)."
 
 **Narrator** — "Col. LaRue agrees to follow Bg. Gen. Thibodeaux's advice in all matters."
 
@@ -61,9 +61,9 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Jean R
 
 **Pierre d'Amboise** — "Monsieur, for many years I have devoted myself to the study of books and laws. I have left the fighting of wars to others. But now I have seen the field of battle, and though it is a terrible thing, I cannot take my mind away from the glory to be found there in the service of France. I understand at last why soldiers boast of their deeds on the field and I wish to share in their boasts!"
 
-**Curtis Sinnoch** — "Ah man of letters, are you? Books and laws are all fine, but understanding military history - such is the true value of the written word! To read orders and missives, to understand what is happening both at home and abroad, is a mark of true command! @Joseph Bousain - we will gladly take you and your letters. Be prepared - any cowardly behavior will be dealt with extreme prejudice - we shall not sully the honor of France!"
+**Curtis Sinnoch** — "Ah man of letters, are you? Books and laws are all fine, but understanding military history - such is the true value of the written word! To read orders and missives, to understand what is happening both at home and abroad, is a mark of true command! @sirsfurther - we will gladly take you and your letters. Be prepared - any cowardly behavior will be dealt with extreme prejudice - we shall not sully the honor of France!"
 
-**Narrator** — "@Joseph Bousain, purchasing a commission?"
+**Narrator** — "@sirsfurther, purchasing a commission?"
 
 **Pierre d'Amboise** — "Most certainly, I shall purchase it with the blood of the King's enemies on the field of battle!"
 
@@ -81,7 +81,7 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Jean R
 
 **Narrator** — "By the time the French forces have made the march from Paris, the English have already made their landing. They've landed on beaches up and down the coast, and are transporting convoys of goods overland to reach the city, the sea routes being too heavily defended. It falls to the regimental commanders to find a plan to clear the beaches, brush, and coastal forests of the enemy."
 
-**Narrator** — "As the ranking officer, @Ghôst Touchard should lay out the plan of deployment with @Curtis Sinnoch advising."
+**Narrator** — "As the ranking officer, @etirflita should lay out the plan of deployment with @Curtis Sinnoch advising."
 
 *Then, with the correction that Thibodeaux commanded only a battalion, the plan passed to the Marquis:*
 
@@ -95,9 +95,9 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Jean R
 
 **Curtis Sinnoch** — "My glorious compatriots and men-at-arms! Once again, the villainous English are attempting to subvert France herself and corrupt our people! We will show them no quarter, nor should we expect any! The Royal Foot Guard will set up in the forests along with the King's Musketeers - we will ambush and pick off any unexpecting forces. Baron Lt. Col, @Jules Lavelle, be on eye in particular for any caravans transporting weapons and ammunition - you have full permission to engage with extreme force as you see fit."
 
-**Curtis Sinnoch** — "Col. LaRue - if your men can harass the English as they unload on the beaches - set upon them before they can defend themselves, and then withdraw to the dunes and forests when they attempt to counter, we will have Lt. Col. @Jean Renault's Calvary ready to tear them apart with a counter charge."
+**Curtis Sinnoch** — "Col. LaRue - if your men can harass the English as they unload on the beaches - set upon them before they can defend themselves, and then withdraw to the dunes and forests when they attempt to counter, we will have Lt. Col. @ArcticFox's Calvary ready to tear them apart with a counter charge."
 
-**Curtis Sinnoch** — "Col. Matthieu Barrault, your fine soldiers are some of the best France has to offer. With the might and brains of @Ghôst Touchard, I believe you have the ability to break any force the Sea Dogs launch at us. Whereas the Frontier Regiment will operate as a hammer throwing their ranks into discord, you shall operate as a scalpel, sabotaging landing spots, eliminating officers, and engaging in any targets of opportunity you may find - my only request is to arrange with captains @Blastagarded and @Abelard Soucy any beach operations you perform to make sure we have an adequate rearguard in the event they attempt any trickery of their own. TO THE GLORY OF FRANCE!"
+**Curtis Sinnoch** — "Col. Matthieu Barrault, your fine soldiers are some of the best France has to offer. With the might and brains of @etirflita, I believe you have the ability to break any force the Sea Dogs launch at us. Whereas the Frontier Regiment will operate as a hammer throwing their ranks into discord, you shall operate as a scalpel, sabotaging landing spots, eliminating officers, and engaging in any targets of opportunity you may find - my only request is to arrange with captains @WillWorker and @DancingHorse any beach operations you perform to make sure we have an adequate rearguard in the event they attempt any trickery of their own. TO THE GLORY OF FRANCE!"
 
 ### The Royal Foot Guards — Marquis Col. Curtis Sinnoch
 
@@ -123,7 +123,7 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Jean R
 
 ### Thibodeaux's battalion, RNHB — Bg. Gen. Marius Thibodeaux
 
-**Narrator** — "@Ghôst Touchard, give your orders and roll. You will receive a -1 to MA for your commander's poor result."
+**Narrator** — "@etirflita, give your orders and roll. You will receive a -1 to MA for your commander's poor result."
 
 **Marius Thibodeaux** — "We will be hunting officers, but let us make some sport of it! Each rank is assigned points, whoever has the highest tally at the end of the onslaught will be toasted at the Blue Gables next month!"
 
@@ -149,7 +149,7 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Jean R
 
 ### Crown Prince Cuirassiers 1st Squadron — Lt. Col. Jean Renault
 
-**Narrator** — "@Jean Renault, you will receive a -1 to MA for determining your battle result due to your commander's awful showing."
+**Narrator** — "@ArcticFox, you will receive a -1 to MA for determining your battle result due to your commander's awful showing."
 
 **Jean Renault** — "Oof"
 
@@ -161,7 +161,7 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Jean R
 
 *The two captains under LaRue had no command rolls of their own to make:*
 
-**Blastagarded** — "@Narrator No battle roll for me?"
+**WillWorker** — "@Narrator No battle roll for me?"
 
 **Narrator** — "Captains don't have a command" — "You just inherit a result from your colonel"
 
@@ -226,7 +226,7 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Jean R
 
 ### Marius Thibodeaux — Brigadier General, RNHB — the galleon
 
-**Narrator** — "@Ghôst Touchard, your rolls are Death 10, Mention 10, Promotion 5, Crowns 5"
+**Narrator** — "@etirflita, your rolls are Death 10, Mention 10, Promotion 5, Crowns 5"
 
 **Marius Thibodeaux** — "Reckless Bravery 2!"
 
@@ -234,7 +234,7 @@ Col. Raoul LaRue (MA 2), commanding the Frontier Regiment, with Lt. Col. @Jean R
 
 *Five grim-face reactions and three planks piled onto the roll. Five minutes of silence, then a single word from the player:*
 
-**Ghôst Touchard** — "Angélique....."
+**etirflita** — "Angélique....."
 
 **Narrator** — "The English lack any of the polish or refinement of the French, battling like madmen, stinking of rum and their own excrement as they come out of the woods in endless lines, gap-toothed grins and wide eyes the last sight many of the gallant French soldiers see. Not Bg. Gen. Thibodeaux, though, who leads a fighting retreat back to the beach, shooting and stabbing his way from horseback, carving a bloody path even through the line of Reavers who stand basking in their slaughter of the Frontier Regiment.
 
@@ -254,9 +254,9 @@ They never see the galleon rise up out of the surf behind them, carried high on 
 
 ### Jean Renault — Lieutenant Colonel, Crown Prince Cuirassiers 1st Squadron
 
-**Narrator** — "@Jean Renault, your rolls are Death 10, Mention 12, Promotion 9, Crowns 7"
+**Narrator** — "@ArcticFox, your rolls are Death 10, Mention 12, Promotion 9, Crowns 7"
 
-**Ghôst Touchard** — "What's the worst that could happen?"
+**etirflita** — "What's the worst that could happen?"
 
 *Renault's first roll went out on the wrong dice — an error nobody caught until after the loot was counted.*
 
@@ -275,7 +275,7 @@ They never see the galleon rise up out of the surf behind them, carried high on 
 
 **Narrator** — "While taking a break from riding in circles, your men notice a sparkling ring on the side of the road, and hand it to you. It's worth 100 crowns."
 
-**Narrator** — "wait, @Jean Renault, did you properly roll 2d6 for death?"
+**Narrator** — "wait, @ArcticFox, did you properly roll 2d6 for death?"
 
 **Jean Renault** — "I thought I did" — "Want I should re-roll it?" — "I dont see the addition symbols"
 
@@ -289,7 +289,7 @@ They never see the galleon rise up out of the surf behind them, carried high on 
 
 ### Jean Shawinigan — Captain, under Col. LaRue — the temporal paradox
 
-**Narrator** — "While we wait, @Blastagarded, your rolls are Death 6, Mention 7, Promotion 6. No chance for loot."
+**Narrator** — "While we wait, @WillWorker, your rolls are Death 6, Mention 7, Promotion 6. No chance for loot."
 
 *The player answered the ugly numbers with the fullest confession his time-traveling character ever made:*
 
@@ -317,7 +317,7 @@ Reports from nearby soldiers are scattered and confused as to what came next. Al
 
 ### Pierre d'Amboise — Private, C Company, Royal Foot Guards
 
-**Narrator** — "@Joseph Bousain, your rolls are Death 13, Mention 10, Promotion 10, Crowns 7."
+**Narrator** — "@sirsfurther, your rolls are Death 13, Mention 10, Promotion 10, Crowns 7."
 
 **Pierre d'Amboise** — "As the Royal Foot Guards march towards the battle, Pierre feels that everything looks all too familliar. He ruminates on this strange feeling for a long time before it dawns on him that this was the exact situation which faced General Antonius during the Sicilian Revolt of 268. After a moment or two of contemplation, he recalls the various crucial mistakes which Antonius made on that occassion.
 
@@ -333,21 +333,21 @@ Just as Pierre begins the explain the similarity between the present situation a
 
 'Right sonny, now you can go where the real fighting is'"
 
-**Joseph Bousain** — "Pierre, involuntarily, uses reckless bravery 3"
+**sirsfurther** — "Pierre, involuntarily, uses reckless bravery 3"
 
 > 🎲 Pierre d'Amboise rolls 2d6 — **10** (Death target 13, less 3 for involuntary Reckless Bravery: he dies)
 
-**Joseph Bousain** — "Oh well"
+**sirsfurther** — "Oh well"
 
 *The table briefly tried to save him with arithmetic:*
 
 **CitrusNotes** — "Aren't you still alive? You failed to succeed your death role" — "Your death is 13, you rolled 10, you're good"
 
-**Joseph Bousain** — "Reckless bravery 3"
+**sirsfurther** — "Reckless bravery 3"
 
-**Jean Renault** — "He chose to be brave"
+**ArcticFox** — "He chose to be brave"
 
-**Joseph Bousain** — "Can't believe he didnt read my wall of text"
+**sirsfurther** — "Can't believe he didnt read my wall of text"
 
 **CitrusNotes** — "Oooooo, I did read the flavor, I just neglected to do any math"
 
@@ -355,7 +355,7 @@ Just as Pierre begins the explain the similarity between the present situation a
 
 ### Anton Dechets — Captain, Gascon Regiment — the smuggler's cannon
 
-**Narrator** — "@Abelard Soucy, your rolls are Death 6, Mention 7, Promotion 6. No chance for loot."
+**Narrator** — "@DancingHorse, your rolls are Death 6, Mention 7, Promotion 6. No chance for loot."
 
 **Anton Dechets** — "Anton looks around. The battlefield is...an utter trash heap of misery and all the worst parts of humanity. It feels like he belongs, for some inexplicable reason. With a faint smile, his heart swells and he sidles into battle."
 
@@ -418,11 +418,11 @@ He continues his careful trek through the woods, his fellows musketeers at his s
 
 *Pierre d'Amboise's player marched his next man into Paris before the tombstones were even posted, ending the introduction with a question the beaches had already answered once:*
 
-**Joseph Bousain** — "At last, he has completed his journey. Will he find his mother on the streets of Paris? Will he discover the identity of his true father? Or will he be dashed to pieces in a foolish brawl or on the field of a foreign land?"
+**sirsfurther** — "At last, he has completed his journey. Will he find his mother on the streets of Paris? Will he discover the identity of his true father? Or will he be dashed to pieces in a foolish brawl or on the field of a foreign land?"
 
 *And Marius's player walked a new pauper in off the carriage from the provinces:*
 
-**Ghôst Touchard** — "Ah, Paris! The city in which I will die a pauper! My father runs a restaurant of which you may have heard, Le Maison de Gaufre? Well, it's a franchise, he doesn't own the whole chain, but he's practically a manager! Anyway, he skimmed some of the nightly deposit to scrounge up enough carriage fare for me to come here and make it big!"
+**etirflita** — "Ah, Paris! The city in which I will die a pauper! My father runs a restaurant of which you may have heard, Le Maison de Gaufre? Well, it's a franchise, he doesn't own the whole chain, but he's practically a manager! Anyway, he skimmed some of the nightly deposit to scrounge up enough carriage fare for me to come here and make it big!"
 
 *On 15 December the Minister of War rolled up the next season:*
 
@@ -432,21 +432,21 @@ He continues his careful trek through the woods, his fellows musketeers at his s
 
 ## Table talk
 
-**Ghôst Touchard** *(mid-battle, an hour before his death roll)* — "#campaign is just the waiting room for #cemetery"
+**etirflita** *(mid-battle, an hour before his death roll)* — "#campaign is just the waiting room for #cemetery"
 
-**Blastagarded** — "Seems like dice golem is in an all-or-nothing mood today." · **Ghôst Touchard** — "@Dice Golem has been trying to kill me for years" · **Dice Golem** *(minutes later, mangling a command)* — "Marius Thibodeaux: An error was thrown when evaluating your expression; please check for extra spaces in notations or missing math operators."
+**WillWorker** — "Seems like dice golem is in an all-or-nothing mood today." · **etirflita** — "@Dice Golem has been trying to kill me for years" · **Dice Golem** *(minutes later, mangling a command)* — "Marius Thibodeaux: An error was thrown when evaluating your expression; please check for extra spaces in notations or missing math operators."
 
-**Jean Renault** — "This campaign has been a slaughter" · **Joseph Bousain** — "I was just getting to like that guy" — "I guess it's called reckless bravery for a reason"
+**ArcticFox** — "This campaign has been a slaughter" · **sirsfurther** — "I was just getting to like that guy" — "I guess it's called reckless bravery for a reason"
 
-**Abelard Soucy** *(replying to "This campaign has been a slaughter," forty minutes before Anton stepped onto the skiff)* — "A slaughter, you say?"
+**DancingHorse** *(replying to "This campaign has been a slaughter," forty minutes before Anton stepped onto the skiff)* — "A slaughter, you say?"
 
-**Blastagarded** — "I debated trying to bump my odds with cowardice, but I had already written my flavor thinking the roll would be an 8 or something, not a 6." — "So I just ran with it."
+**WillWorker** — "I debated trying to bump my odds with cowardice, but I had already written my flavor thinking the roll would be an 8 or something, not a 6." — "So I just ran with it."
 
-**Abelard Soucy** — "(I hated that character so much)"
+**DancingHorse** — "(I hated that character so much)"
 
-**Joseph Bousain** — "Should have gone for reckless bravery 6" · **Blastagarded** — "Nah, gotta leave room for lady luck." — "What's the point of playing a game with dice, if you make it mathematically impossible for them to matter."
+**sirsfurther** — "Should have gone for reckless bravery 6" · **WillWorker** — "Nah, gotta leave room for lady luck." — "What's the point of playing a game with dice, if you make it mathematically impossible for them to matter."
 
-**Joseph Bousain** *(rolling posthumous dice: a 4, then a 12)* — "I want to see something...." — "The loot that cld have been" · **Jean Renault** — "Thats why you never make those rolls after you die lol"
+**sirsfurther** *(rolling posthumous dice: a 4, then a 12)* — "I want to see something...." — "The loot that cld have been" · **ArcticFox** — "Thats why you never make those rolls after you die lol"
 
 ---
 

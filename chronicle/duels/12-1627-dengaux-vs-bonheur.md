@@ -360,21 +360,21 @@ The twelfth duel of the game, and the second fought at Red Phillips in as many m
 
 ## Table talk
 
-**Joseph Bousain** (the day before the challenge, in the OOC channel) — "Can I duel people for not promoting me?" — **Jules Lavelle**: "promotion is not something given, but something earned" — **Blastagarded** (who had just asked an unrelated question about recruitment): "Why do people always think my questions are about them..."
+**sirsfurther** (the day before the challenge, in the OOC channel) — "Can I duel people for not promoting me?" — **Jules Lavelle**: "promotion is not something given, but something earned" — **WillWorker** (who had just asked an unrelated question about recruitment): "Why do people always think my questions are about them..."
 
-**Ghôst Touchard** (the night before the duel) — "@Abelard Soucy, were you the first to actually die from a duel?" — **Abelard Soucy**: "Can't have possibly been the first... There was the guy who didn't want to fight the duel and ended up getting a dagger to the eye..." ... "So yes, I have the highest deaths from dueling"
+**etirflita** (the night before the duel) — "@DancingHorse, were you the first to actually die from a duel?" — **DancingHorse**: "Can't have possibly been the first... There was the guy who didn't want to fight the duel and ended up getting a dagger to the eye..." ... "So yes, I have the highest deaths from dueling"
 
-**Joseph Bousain** — "can I duel him next week when we're at Red Philips or do we have to arrange it specifically?" — **Jules Lavelle**: "You have to duel right now unless he chickens out"
+**sirsfurther** — "can I duel him next week when we're at Red Philips or do we have to arrange it specifically?" — **Jules Lavelle**: "You have to duel right now unless he chickens out"
 
-**Abelard Soucy** (fifteen minutes to first blood) — "Getting myself ready!" — **Joseph Bousain**: "Practicing my lunges"
+**DancingHorse** (fifteen minutes to first blood) — "Getting myself ready!" — **sirsfurther**: "Practicing my lunges"
 
-**Abelard Soucy** (mid-duel) — "darn it- I should have expected an ingroup member to actually be a good duelist" ... "but I really squandered by first 10 rounds by setting my expectations too low" — **Blastagarded**: "And in my error, I thought you had the higher endurance."
+**DancingHorse** (mid-duel) — "darn it- I should have expected an ingroup member to actually be a good duelist" ... "but I really squandered by first 10 rounds by setting my expectations too low" — **WillWorker**: "And in my error, I thought you had the higher endurance."
 
-**Blastagarded** (as Robert approached the coach) — "But will Dice Golem see the victory with favorable eyes..."
+**WillWorker** (as Robert approached the coach) — "But will Dice Golem see the victory with favorable eyes..."
 
-**Abelard Soucy** (after the 6 landed) — "I'm so SAD" — **Ghôst Touchard**: "But you're alive.. so you've got that going for you!" ... "To the bawdyhouse! Lol"
+**DancingHorse** (after the 6 landed) — "I'm so SAD" — **etirflita**: "But you're alive.. so you've got that going for you!" ... "To the bawdyhouse! Lol"
 
-**Joseph Bousain** — "Perhaps we could accompany each other to the doctor's" — **Abelard Soucy**: "I think someone is going to need to carry me" ... "Well fought, Sirs" — **Joseph Bousain**: "You were a worthy opponent"
+**sirsfurther** — "Perhaps we could accompany each other to the doctor's" — **DancingHorse**: "I think someone is going to need to carry me" ... "Well fought, Sirs" — **sirsfurther**: "You were a worthy opponent"
 
 ---
 

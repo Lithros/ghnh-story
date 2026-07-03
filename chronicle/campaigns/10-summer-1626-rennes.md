@@ -130,7 +130,7 @@ This was the summer the war turned inward. No Habsburgs, no Huguenot republic �
 
 *A morning-after clarification in the OOC channel established the fine print — Marius's Social Level trailed his new eminence:*
 
-**Ghôst Touchard** — "To clarify, with a promotion I am just at that new rank, no fee? Also, what if the rank is 1 SL above my current SL? Lastly, this promotion would count for 'end of August' salary, correct?"
+**etirflita** — "To clarify, with a promotion I am just at that new rank, no fee? Also, what if the rank is 1 SL above my current SL? Lastly, this promotion would count for 'end of August' salary, correct?"
 
 **Jules Lavelle** *(the GM)* — "No fee. I had you down as sl 7, my bad. You get the brevet rank. Still counts the same you just go back down if you can't get your sl up in one year … End of August pay yes"
 
@@ -216,7 +216,7 @@ Rennes fell, the Chalais conspirators went to Nantes in irons, and every player 
 
 *The morning after the resolution, Maj. Ladagnous volunteered the Picardy Musketeers 2nd Battalion — Guerinet included — straight into the Fall campaign:*
 
-**Jean Rochant** — "@Abelard Soucy Right back into the fray then?"
+**Jean Rochant** — "@DancingHorse Right back into the fray then?"
 
 **Marius Thibodeaux** — "I imagine you'll have a few sleepless nights on the front in the coming days"
 
@@ -234,17 +234,17 @@ Rennes fell, the Chalais conspirators went to Nantes in irons, and every player 
 
 ## Table talk
 
-**Ghôst Touchard** — "Btw, @Jean Renault and I have a reverse suicide pact in game; if either of us lives, the other one does too! (We're both going to die, aren't we?)" · **Jules Lavelle** — "Death is virtually guaranteed" *(two days before the campaign; neither died)*
+**etirflita** — "Btw, @ArcticFox and I have a reverse suicide pact in game; if either of us lives, the other one does too! (We're both going to die, aren't we?)" · **Jules Lavelle** — "Death is virtually guaranteed" *(two days before the campaign; neither died)*
 
-**Narrator** — "Happy birthday to @Jean Renault, Laurence Caillat, and Adelaide Blaise." · **Curtis Sinnoch** — "Ah, Adelaide Blaise. I hope she is doing well" *(a minute before the campaign began, at 11:39 PM)*
+**Narrator** — "Happy birthday to @ArcticFox, Laurence Caillat, and Adelaide Blaise." · **Curtis Sinnoch** — "Ah, Adelaide Blaise. I hope she is doing well" *(a minute before the campaign began, at 11:39 PM)*
 
-**Ghôst Touchard** — "Hoping my MA of 7 comes in handy.." *(🤞 — he then rolled a 1)*
+**etirflita** — "Hoping my MA of 7 comes in handy.." *(🤞 — he then rolled a 1)*
 
-**Jean Renault** — "Wait … Im doing this wrong" · **Narrator** — "wait … 2d6s" *(🤣, on discovering the entire first pass at fate had been rolled on the wrong dice)*
+**ArcticFox** — "Wait … Im doing this wrong" · **Narrator** — "wait … 2d6s" *(🤣, on discovering the entire first pass at fate had been rolled on the wrong dice)*
 
-**Ghôst Touchard** — "(second campaign in a row with no player fatalities!)" *(😮)*
+**etirflita** — "(second campaign in a row with no player fatalities!)" *(😮)*
 
-**Jean Renault** — "So are we finally going back to Paris?" · **Ghôst Touchard** — "Let's not rush to conclusions... we haven't seen who's been picked for autumn campaign yet!" · **Jules Lavelle** — "nobody gets picked. NPCs may volunteer. but you're in command!" · **Ghôst Touchard** — "Then yes, we're going to Paris!" · **Jean Renault** — "Huzzah! To drinking!" *(🥂 🥂 🥂)*
+**ArcticFox** — "So are we finally going back to Paris?" · **etirflita** — "Let's not rush to conclusions... we haven't seen who's been picked for autumn campaign yet!" · **Jules Lavelle** — "nobody gets picked. NPCs may volunteer. but you're in command!" · **etirflita** — "Then yes, we're going to Paris!" · **ArcticFox** — "Huzzah! To drinking!" *(🥂 🥂 🥂)*
 
 ---
 

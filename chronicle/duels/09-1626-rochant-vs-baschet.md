@@ -368,19 +368,19 @@ Jean stands at the gate, hand on his weapon, fury in his eyes."
 
 ## Table talk
 
-**Jean Renault** (as the Narrator resolved January week by week) — "Weeks One through Three pass without incident" ... "THERE IS BLOODSHED ON WEEK 4!" — **Jules Lavelle**: "we'll see how much...tonight" — **Jean Renault**: "On the next episode!" — **Curtis Sinnoch** (four hours later, still waiting): "NEXT TIME, ON DRAGON BALL Z" ... "That was like 5 damn episodes"
+**ArcticFox** (as the Narrator resolved January week by week) — "Weeks One through Three pass without incident" ... "THERE IS BLOODSHED ON WEEK 4!" — **Jules Lavelle**: "we'll see how much...tonight" — **ArcticFox**: "On the next episode!" — **Curtis Sinnoch** (four hours later, still waiting): "NEXT TIME, ON DRAGON BALL Z" ... "That was like 5 damn episodes"
 
-**Abelard Soucy** (real-world December, having just been challenged to the death) — "/ooc time to go sledding!" — **Jean Renault**: "Woo!"
+**DancingHorse** (real-world December, having just been challenged to the death) — "/ooc time to go sledding!" — **ArcticFox**: "Woo!"
 
-**Ghôst Touchard** (ten days before the duel) — "Hey @Jean Renault, do you have any duels booked for this month? ;p" — **Jean Renault**: "That all depends on whether @Abelard Soucy avoids me or faces me!"
+**etirflita** (ten days before the duel) — "Hey @ArcticFox, do you have any duels booked for this month? ;p" — **ArcticFox**: "That all depends on whether @DancingHorse avoids me or faces me!"
 
-**Jean Renault** (after winning Laurence Caillat with a 6) — "It turns out all you need to do to win the hearts of a mistress... is to break Dice Golem" ... "Either way, now @Abelard Soucy has a new girl to try and steal!"
+**ArcticFox** (after winning Laurence Caillat with a 6) — "It turns out all you need to do to win the hearts of a mistress... is to break Dice Golem" ... "Either way, now @DancingHorse has a new girl to try and steal!"
 
-**Jean Renault** (learning the duel mechanics minutes before fighting) — "Who goes first?" ... "So I know if I have to plan 6 or 12 moves lol" — **Jules Lavelle**: "amand has advantage. is your exp still 13?" ... "yes and you need to add 2 rests to your 12 turn sequence" — **Jean Renault**: "In the beginning? Or where?" — **Jules Lavelle**: "anywhere" — **Jean Renault**: "Gotcha, they'll be there"
+**ArcticFox** (learning the duel mechanics minutes before fighting) — "Who goes first?" ... "So I know if I have to plan 6 or 12 moves lol" — **Jules Lavelle**: "amand has advantage. is your exp still 13?" ... "yes and you need to add 2 rests to your 12 turn sequence" — **ArcticFox**: "In the beginning? Or where?" — **Jules Lavelle**: "anywhere" — **ArcticFox**: "Gotcha, they'll be there"
 
-**Abelard Soucy** (eight minutes after taking a cutlass to the throat) — posted The Band Perry's "If I Die Young" music video, without comment.
+**DancingHorse** (eight minutes after taking a cutlass to the throat) — posted The Band Perry's "If I Die Young" music video, without comment.
 
-**Ghôst Touchard** (as the new character sheet went up) — "Catching up to me in # of chars, @Abelard Soucy" — **Abelard Soucy**: "2" ... "much sooner than anticipated!"
+**etirflita** (as the new character sheet went up) — "Catching up to me in # of chars, @DancingHorse" — **DancingHorse**: "2" ... "much sooner than anticipated!"
 
 ---
 

@@ -65,7 +65,7 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 *A perfect assault — a decisive victory without one man lost to the enemy. The men of the central thrust settled their personal fates on the spot (see The reckoning below, where that phrase "not a single casualty" gets its asterisk). Then the left flank stirred:*
 
-**Narrator** — "@Blastagarded, please roll for your battle result." — "Your forces are prepared to advance on the flank."
+**Narrator** — "@WillWorker, please roll for your battle result." — "Your forces are prepared to advance on the flank."
 
 **Sir Hercule Bonaparte** — "Alright men, the enemy is cornered, so now is the time for patience. There is no need for unnecessary recklessness, we control the tempo, not them. And while I know many of you will wish this as an opportunity for vengeance, when you encounter cowards you are to show them mercy and take them prisoner. Do not give our quarry reason to believe they must fight in desperation to the last. Show them a golden bridge on which they may have some hope of seeing tomorrow and their morale shall crumble with barely any effort on our part."
 
@@ -91,13 +91,13 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 ### Lucien Vaillancourt — the rotten plank
 
-**Narrator** — "@Ghôst Touchard, your rolls are Death 11, Mention 11, Promotion 10, Crowns 8"
+**Narrator** — "@etirflita, your rolls are Death 11, Mention 11, Promotion 10, Crowns 8"
 
 **Lucien Vaillancourt** — "I shall take reckless bravery for -1"
 
 > 🎲 Lucien Vaillancourt rolls 2d6 — **12** *(reactions: grim ×3)*
 
-**Ghôst Touchard** — "LOL"
+**etirflita** — "LOL"
 
 **Narrator** — "Did I say not a single casualty?"
 
@@ -139,9 +139,9 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 *His targets: Death 16, Mention 12, Promotion 11, Crowns 7. He shaved five points off everything:*
 
-**Blastagarded** — "Reckless Bravery 5"
+**WillWorker** — "Reckless Bravery 5"
 
-**Ghôst Touchard** — "May you have better luck than I did"
+**etirflita** — "May you have better luck than I did"
 
 > 🎲 Hercule Bonaparte rolls 2d6 (death) — **7** — survives
 > 🎲 Hercule Bonaparte rolls 2d6 (mention) — **4** — no mention
@@ -158,7 +158,7 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 **Narrator** — "@Jules Lavelle, your rolls are Death 15, Mention 12, Promotion 11, Crowns 9"
 
-**Ghôst Touchard** — "poltroonery!"
+**etirflita** — "poltroonery!"
 
 **Jules Lavelle** — "Reckless bravery of 3. I'm no wannabe Spider-Man"
 
@@ -178,7 +178,7 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 **Careless Ocelot** — "wooo"
 
-**Ghôst Touchard** — "SWEET RELEASE"
+**etirflita** — "SWEET RELEASE"
 
 **Careless Ocelot** — "kaplow!"
 
@@ -213,9 +213,9 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 ### Jean Rochant — pirate booty
 
-**Narrator** — "@Jean Renault, your rolls are Death 12, Mention 12, Promotion 10, Crowns 12"
+**Narrator** — "@ArcticFox, your rolls are Death 12, Mention 12, Promotion 10, Crowns 12"
 
-**Ghôst Touchard** — "Bravery of -13! Go for it!"
+**etirflita** — "Bravery of -13! Go for it!"
 
 **Jean Rochant** — "Bravery -2!"
 
@@ -237,7 +237,7 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 *A brief audit followed — hadn't Jean's loot target been 12? —*
 
-**Ghôst Touchard** — "I believe that was alphonse's loot" — "Jean had a target of 12...."
+**etirflita** — "I believe that was alphonse's loot" — "Jean had a target of 12...."
 
 **Narrator** — "he took -2"
 
@@ -264,7 +264,7 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 **Narrator** — "In the middle of the victory party, the 2nd Battalion Commander of the Cardinal's Guard and his captains sneak away from the official celebration to break into the Duke of Soubise's wine supply. Unfortunately, it is discovered that the Duke had the wine poisoned before his capture, when all three men are found dead the next morning." *(reactions: grim ×4)*
 
-**Ghôst Touchard** — "(Sounds like a few open positions!)"
+**etirflita** — "(Sounds like a few open positions!)"
 
 **Jean Rochant** — "Anyone we know?"
 
@@ -304,9 +304,9 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 *And on the 7th, the heroes came home from Ré to discover what Paris had been doing while they bled — Amand Baschet had spent the fall courting Jean's mistress:*
 
-**Jean Rochant** — "I return from the front, after honorably defending France under the command of @Anonymouse only to discovery that my dearest Adelaide Blaise has been stolen away by the dishonorable snake @Abelard Soucy, who took advantage of my service to king and country to take advantage and become, as the colloquialism in the colonies goes 'Mr. Steal Yo' Girl.' As a result, I issue a December challenge to @Abelard Soucy, while not for Mme. Blaise's hand, but for his dishonorable actions."
+**Jean Rochant** — "I return from the front, after honorably defending France under the command of @Anonymouse only to discovery that my dearest Adelaide Blaise has been stolen away by the dishonorable snake @DancingHorse, who took advantage of my service to king and country to take advantage and become, as the colloquialism in the colonies goes 'Mr. Steal Yo' Girl.' As a result, I issue a December challenge to @DancingHorse, while not for Mme. Blaise's hand, but for his dishonorable actions."
 
-**Jean Rochant** — "And as you will note, I do not blame Adelaide, but rather that coward @Abelard Soucy, who sits in Paris while the rest of us stumble on the beaches and fight for country!"
+**Jean Rochant** — "And as you will note, I do not blame Adelaide, but rather that coward @DancingHorse, who sits in Paris while the rest of us stumble on the beaches and fight for country!"
 
 **Jules Lavelle** — "He is a cavalryman; he was in need of a sturdy mount."
 
@@ -316,19 +316,19 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 ## Table talk
 
-**Jules Lavelle** *(the morning of the battle)* — "Dear Dice Golem, please blow up Curtis. Thank you" · **Ghôst Touchard** — "/roll 1d6 #to see how badly he blows up" *(rolls a 5)* · **Jules Lavelle** — "Good enough for me"
+**Jules Lavelle** *(the morning of the battle)* — "Dear Dice Golem, please blow up Curtis. Thank you" · **etirflita** — "/roll 1d6 #to see how badly he blows up" *(rolls a 5)* · **Jules Lavelle** — "Good enough for me"
 
-**Ghôst Touchard** *(freshly dead)* — "I blew all my 6s on death rolls, I'll roll 1s for char gen lol"
+**etirflita** *(freshly dead)* — "I blew all my 6s on death rolls, I'll roll 1s for char gen lol"
 
-**Ghôst Touchard** — "Did everyone have a nice Planksgiving?" *(reactions: plank ×5)*
+**etirflita** — "Did everyone have a nice Planksgiving?" *(reactions: plank ×5)*
 
-**Ghôst Touchard** — "My characters arriving in Paris" — "My characters leaving Paris"
+**etirflita** — "My characters arriving in Paris" — "My characters leaving Paris"
 
-**Blastagarded** — "Yeah, I had that thought from the announcement: *Narrator — November passes without incident.* Tell that to Lucien and Pain" *(reactions: plank ×4)*
+**WillWorker** — "Yeah, I had that thought from the announcement: *Narrator — November passes without incident.* Tell that to Lucien and Pain" *(reactions: plank ×4)*
 
 **Jules Lavelle** — "25% casualties on the off season is a good result!"
 
-**Jean Renault** — "Ah, I just remember the amusing precedent to his death, that they flawlessly stormed the fort" — "Except for Lucien" · **Ghôst Touchard** — "What a bastard"
+**ArcticFox** — "Ah, I just remember the amusing precedent to his death, that they flawlessly stormed the fort" — "Except for Lucien" · **etirflita** — "What a bastard"
 
 **Jules Lavelle** *(in memoriam Pain Loafmann, via tweet)* — "a french baker is found dead in his shop. next to him is a suicide note. it reads: 'bread is pain'"
 

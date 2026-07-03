@@ -72,7 +72,7 @@ The tenth duel of the game, and the first fought without a quarrel of any kind. 
 
 **Marius Thibodeaux** — "(Jean can't come, he's fighting in the summer campaign)"
 
-**Curtis Sinnoch** — "Ah, if only Jean Renault were here, I'm sure he would love it!"
+**Curtis Sinnoch** — "Ah, if only ArcticFox were here, I'm sure he would love it!"
 
 **Jules Lavelle** — "This is acceptable to my schedule. I shall endeavor to impress my lady."
 
@@ -258,19 +258,19 @@ The tenth duel of the game, and the first fought without a quarrel of any kind. 
 
 The whole affair was framed, out of character, as a jinx made flesh. On the night the challenge was issued:
 
-**Ghôst Touchard** — "You know, it's been a while since we've had a duel.."
+**etirflita** — "You know, it's been a while since we've had a duel.."
 
 > 🎲 `/roll 1d1 #for jinx` — Marius Thibodeaux rolled 1d1: (1) = 1
 
-**Jean Renault** — "If we go to witness the duel, can we go as toadys?"
+**ArcticFox** — "If we go to witness the duel, can we go as toadys?"
 
-**Jean Renault** — "DUELKINGS DAILY FANTASY" — "BET ON ALL THE DUELS" — "AND MMA" — "(I cant use FanDuel because that already exists)"
+**ArcticFox** — "DUELKINGS DAILY FANTASY" — "BET ON ALL THE DUELS" — "AND MMA" — "(I cant use FanDuel because that already exists)"
 
-**Ghôst Touchard** — "F(r)an(ce)Duel"
+**etirflita** — "F(r)an(ce)Duel"
 
-**Ghôst Touchard** — "ooc: When is kickoff? And will there be a halftime show?"
+**etirflita** — "ooc: When is kickoff? And will there be a halftime show?"
 
-**Ghôst Touchard** *(as Jules cried "En Garde!" to open the game's namesake pastime)* — "Ooc: I see what you did there"
+**etirflita** *(as Jules cried "En Garde!" to open the game's namesake pastime)* — "Ooc: I see what you did there"
 
 **Curtis Sinnoch** *(as his single slash landed for a third of Jules's health)* — "(OOC: 32...)"
 
@@ -278,7 +278,7 @@ The whole affair was framed, out of character, as a jinx made flesh. On the nigh
 
 **Narrator** — "Happy birthday to Jules Lavelle!"
 
-**Jean Renault** — "For his birthday he got his teeth kicked in!"
+**ArcticFox** — "For his birthday he got his teeth kicked in!"
 
 **Curtis Sinnoch** — "Also, will the gazette report on the spectacle that was a friendly duel?"
 

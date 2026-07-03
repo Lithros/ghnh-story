@@ -346,17 +346,17 @@ The eleventh duel of the game, and on paper the most lopsided ever fought: Gueri
 
 ## Table talk
 
-**Ghôst Touchard** (as January 1627 opened with the courtship ambush) — "Kicking it off with some debauchery I see.." — and, as Guerinet's letter campaign built to its roll: "@Dice Golem is lying in wait to ruin someone's day.."
+**etirflita** (as January 1627 opened with the courtship ambush) — "Kicking it off with some debauchery I see.." — and, as Guerinet's letter campaign built to its roll: "@Dice Golem is lying in wait to ruin someone's day.."
 
 **laiv.wire** (upon the Narrator's announcement that his mistress was being courted) — "!!!!!!!!!!!!!!!!!!!"
 
-**Ghôst Touchard** (on Guerinet's "( I'll be using a rapier)") — "those are words I haven't heard in some time!"
+**etirflita** (on Guerinet's "( I'll be using a rapier)") — "those are words I haven't heard in some time!"
 
-**Ghôst Touchard** (the morning of the duel, posting a Magic: The Gathering card illustration titled "Dueling Rapier") — "This came across my timeline and made me think of @Abelard Soucy and the upcoming duel" — **Abelard Soucy**: "I'll take it as a good luck token!" — *and at 10:25 that night, four minutes after the beheading:* "Well @Ghôst Touchard . It didn't work" ... "Time to roll a new character"
+**etirflita** (the morning of the duel, posting a Magic: The Gathering card illustration titled "Dueling Rapier") — "This came across my timeline and made me think of @DancingHorse and the upcoming duel" — **DancingHorse**: "I'll take it as a good luck token!" — *and at 10:25 that night, four minutes after the beheading:* "Well @etirflita . It didn't work" ... "Time to roll a new character"
 
 **Narrator** (mid-duel, after round six passed in pure trash talk) — "Wait, did we actually get actions for round 6" — **laiv.wire**: "we did not, we just exchanged words, not blows" — **Narrator**: "sorry, I jumped the gun. make sure you declared round 6"
 
-**Jean Renault** (the next day, surveying two characters lost to duels over stolen mistresses) — "Katherine's characters need to be careful when dueling"
+**ArcticFox** (the next day, surveying two characters lost to duels over stolen mistresses) — "Katherine's characters need to be careful when dueling"
 
 ---
 

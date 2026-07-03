@@ -22,12 +22,12 @@ A swarm of new baronets, created by Charles V to bolster the officer corps of th
 
 **Narrator** — "Forces Deploying:
 
--Bg. Gen. @Ghôst Touchard in command of the 1st Brigade of Foot
+-Bg. Gen. @etirflita in command of the 1st Brigade of Foot
 -Marquis Col. @Curtis Sinnoch in command of the Royal Foot Guards, including Lt. Col. @Jules Lavelle
--Maj. @Jean Renault in command of the Crown Prince Cuirassiers 3rd Squadron
--Cap. @Abelard Soucy leading the Princess Louisa's Light Dragoons C Troop
+-Maj. @ArcticFox in command of the Crown Prince Cuirassiers 3rd Squadron
+-Cap. @DancingHorse leading the Princess Louisa's Light Dragoons C Troop
 -Sub. @CitrusNotes with the Frontier Regiment
--@Joseph Bousain, without rank, who has been temporarily assigned the rank of Private in the Frontier Regiment"
+-@sirsfurther, without rank, who has been temporarily assigned the rank of Private in the Frontier Regiment"
 
 *The NPC commanders, in the Narrator's own words:*
 
@@ -60,11 +60,11 @@ A swarm of new baronets, created by Charles V to bolster the officer corps of th
 
 ## The record
 
-**Narrator** — "As the senior officer on the field, it falls to @Ghôst Touchard [Bg. Gen. Marius Thibodeaux] to provide the overall plan of battle."
+**Narrator** — "As the senior officer on the field, it falls to @etirflita [Bg. Gen. Marius Thibodeaux] to provide the overall plan of battle."
 
 **Narrator** — "The enemy is loosely arranged in pockets scattered over the countryside. No frontage presents itself; the tall hedges separating one field from the next guarantee isolated fighting. The rising smoke and screaming peasants make it a trivial matter to find the enemy."
 
-**Narrator** — "@Jean Renault, @Curtis Sinnoch are invited to give their orders and roll as well."
+**Narrator** — "@ArcticFox, @Curtis Sinnoch are invited to give their orders and roll as well."
 
 ### Princess Louisa's Light Dragoons — Col. Bertrand Beauvais
 
@@ -88,7 +88,7 @@ A swarm of new baronets, created by Charles V to bolster the officer corps of th
 
 **Jean Renault** — "@Narrator My troupe and I will use cavalry skirmish tactics, hit and run attacks"
 
-**Narrator** — "@Jean Renault go ahead and roll. Due to Col. Kaplan's incompetence, you will receive a -1 to your MA for this calculation."
+**Narrator** — "@ArcticFox go ahead and roll. Due to Col. Kaplan's incompetence, you will receive a -1 to your MA for this calculation."
 
 > 🎲 Maj. Renault's command roll: 1d6 — **2** (at −1 MA)
 
@@ -100,7 +100,7 @@ A swarm of new baronets, created by Charles V to bolster the officer corps of th
 
 > 🎲 Bg. Gen. Thibodeaux's command roll: 1d6 — **3**
 
-**Narrator** — "@Ghôst Touchard's 1st Brigade scatters to meet the enemy on equal terms. The Picardy Musketeers make great headway, flushing out the enemy wherever he is found. The Royal Marines, unfortunately, flounder so far from shore, unable to operate independently in the thick underbrush. The result is 3 - Inconclusive."
+**Narrator** — "@etirflita's 1st Brigade scatters to meet the enemy on equal terms. The Picardy Musketeers make great headway, flushing out the enemy wherever he is found. The Royal Marines, unfortunately, flounder so far from shore, unable to operate independently in the thick underbrush. The result is 3 - Inconclusive."
 
 ### The Royal Foot Guards — Marquis Col. Curtis Sinnoch
 
@@ -150,7 +150,7 @@ A swarm of new baronets, created by Charles V to bolster the officer corps of th
 
 ### Primo Tremblay — Captain, C Troop, Princess Louisa's Light Dragoons
 
-**Narrator** — "@Abelard Soucy, your rolls are Death 11, Mention 10, Promotion 9, Crowns 8."
+**Narrator** — "@DancingHorse, your rolls are Death 11, Mention 10, Promotion 9, Crowns 8."
 
 *Primo had spent the autumn hiding in a scarecrow and the months since under a −4 SP cloud of disgrace. This winter he chose redemption:*
 
@@ -170,7 +170,7 @@ A swarm of new baronets, created by Charles V to bolster the officer corps of th
 
 *His squadron crushed beneath him, Renault rolled as a major for a military result and then faced the dice himself.*
 
-**Narrator** — "@Jean Renault, your rolls are Death 9, Mention 6, Promotion 4, No chance for crowns"
+**Narrator** — "@ArcticFox, your rolls are Death 9, Mention 6, Promotion 4, No chance for crowns"
 
 **Jean Renault** — "For France!"
 
@@ -210,13 +210,13 @@ A swarm of new baronets, created by Charles V to bolster the officer corps of th
 
 ### Pierre d'Amboise — Private (temporary), Frontier Regiment
 
-**Narrator** — "@Joseph Bousain, your rolls are Death 6, Mention 10, No chance for promotion, Crowns 11"
+**Narrator** — "@sirsfurther, your rolls are Death 6, Mention 10, No chance for promotion, Crowns 11"
 
 > 🎲 Pierre d'Amboise rolls 2d6 — **2** (Death target 6: survives)
 > 🎲 Pierre d'Amboise rolls 2d6 — **5** (Mention target 10: no mention)
 > 🎲 Pierre d'Amboise rolls 2d6 — **11** (Crowns target 11: loot!)
 
-**Narrator** — "@Joseph Bousain, roll 1d6 for loot."
+**Narrator** — "@sirsfurther, roll 1d6 for loot."
 
 > 🎲 Pierre d'Amboise rolls d6 — **2**
 
@@ -224,7 +224,7 @@ A swarm of new baronets, created by Charles V to bolster the officer corps of th
 
 ### Marius Thibodeaux — Brigadier General, 1st Brigade of Foot
 
-**Narrator** — "@Ghôst Touchard, your rolls are Death 13, Mention 12, Promotion 7, Crowns 5"
+**Narrator** — "@etirflita, your rolls are Death 13, Mention 12, Promotion 7, Crowns 5"
 
 **Marius Thibodeaux** — "Reckless bravery ×3"
 
@@ -239,11 +239,11 @@ A swarm of new baronets, created by Charles V to bolster the officer corps of th
 
 **Narrator** — "+4 SP for 3 months, then +1 for life"
 
-**Narrator** — "@Ghôst Touchard roll 2d6 for loot."
+**Narrator** — "@etirflita roll 2d6 for loot."
 
 > 🎲 Marius Thibodeaux rolls 2d6 — **3**
 
-**Ghôst Touchard** — "sad trombone"
+**etirflita** — "sad trombone"
 
 **Narrator** — "As your regiments run back and forth after the enemy, a messenger arrives from the rear. 'Personal consideration from His Majesty, sir!' shouts the messenger, tossing a pouch of coins onto the command table. It contains 150 crowns."
 
@@ -314,17 +314,17 @@ A swarm of new baronets, created by Charles V to bolster the officer corps of th
 
 ## Table talk
 
-**Jean Renault** *(after the mention roll)* — "I thought I had to get under a 6 for a mention?" · **Narrator** — "it's all OVER" — "why don't you think you're dead"
+**ArcticFox** *(after the mention roll)* — "I thought I had to get under a 6 for a mention?" · **Narrator** — "it's all OVER" — "why don't you think you're dead"
 
-**Jean Renault** — "Oh only death is under >.<" · **Narrator** — "no. they're all over" — "if you roll higher than the death number you die"
+**ArcticFox** — "Oh only death is under >.<" · **Narrator** — "no. they're all over" — "if you roll higher than the death number you die"
 
-**Blastagarded** — "Isn't it the number or higher, not just higher?" · **Narrator** — "yes"
+**WillWorker** — "Isn't it the number or higher, not just higher?" · **Narrator** — "yes"
 
-**Jean Renault** — "Been a while since I've seen combat!" — "Woo!"
+**ArcticFox** — "Been a while since I've seen combat!" — "Woo!"
 
 **Curtis Sinnoch** — "(200 and not 400?)" · **Narrator** — "On a result of 1, the award is 2d6x50" — "on a result of 2, it's 2d6x100" · **Curtis Sinnoch** — "Ah, good to know!"
 
-**Ghôst Touchard** — "Should I roll for loot?" · **Jules Lavelle** — "Yes will let you know the number of dice in a few"
+**etirflita** — "Should I roll for loot?" · **Jules Lavelle** — "Yes will let you know the number of dice in a few"
 
 **Narrator** — "Going forward, please @ the Narrator with SL dings to ensure accurate bookkeeping."
 

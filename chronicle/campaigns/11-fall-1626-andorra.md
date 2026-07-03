@@ -12,9 +12,9 @@ The fall season opened not with a war but with a peace. On the night of 16 April
 
 *The escort had been assembling for weeks of game time. The Picardy Musketeers were volunteered clear back in February (real time), the moment the Rennes campaign closed:*
 
-**Jules Lavelle (GM)** — "Picardy Musketeers 2nd Battalion Commander Maj. Augustin Ladagnous has decided to volunteer his unit for service in the Fall campaign. @Abelard Soucy will be deploying."
+**Jules Lavelle (GM)** — "Picardy Musketeers 2nd Battalion Commander Maj. Augustin Ladagnous has decided to volunteer his unit for service in the Fall campaign. @DancingHorse will be deploying."
 
-**Jean Rochant** — "@Abelard Soucy Right back into the fray then?"
+**Jean Rochant** — "@DancingHorse Right back into the fray then?"
 
 **Marius Thibodeaux** — "I imagine you'll have a few sleepless nights on the front in the coming days"
 
@@ -38,11 +38,11 @@ The fall season opened not with a war but with a peace. On the night of 16 April
 
 **Narrator** — "The Frontier Regiment is commanded by Col. Thierry Boulle, a steady leader whose lack of ambition or imagination is, perhaps, considered an asset by his Red Eminence for the purposes of this undertaking."
 
-**Narrator** — "Maj. Augustin Ladagnous has volunteered his Picardy Musketeers 2nd Battalion, including @Abelard Soucy, to serve under Col. Boulle." *(musket)*
+**Narrator** — "Maj. Augustin Ladagnous has volunteered his Picardy Musketeers 2nd Battalion, including @DancingHorse, to serve under Col. Boulle." *(musket)*
 
-**Narrator** — "The Royal Foot Guards, commanded by @Blastagarded, have also seen fit to tag along, perhaps to keep an eye on the Cardinal for the King."
+**Narrator** — "The Royal Foot Guards, commanded by @WillWorker, have also seen fit to tag along, perhaps to keep an eye on the Cardinal for the King."
 
-**Narrator** — "The Royal Marines, commanded by @Ghôst Touchard, have attached themselves to the mission, presumably in case any rowboats need boarding." *(plank ×4)*
+**Narrator** — "The Royal Marines, commanded by @etirflita, have attached themselves to the mission, presumably in case any rowboats need boarding." *(plank ×4)*
 
 | Character | Rank / post | Unit |
 |---|---|---|
@@ -85,7 +85,7 @@ Every roll of the deadliest night of the campaign war was made off-site, at roll
 
 ### The Marines wheel about
 
-**Narrator** — "@Ghôst Touchard, your forces wheel around madly, trying to make contact with the enemy up close. Roll for your battle result."
+**Narrator** — "@etirflita, your forces wheel around madly, trying to make contact with the enemy up close. Roll for your battle result."
 
 **Marius Thibodeaux** — "1d6, n'est-ce pas?"
 
@@ -95,7 +95,7 @@ Every roll of the deadliest night of the campaign war was made off-site, at roll
 
 ### The 1st Battalion in disarray
 
-**Narrator** — "@Jean Renault, your 1st Battalion is in disarray and in need of your leadership. Your commander seems to have little sense of the situation at hand. Roll for your battle result."
+**Narrator** — "@ArcticFox, your 1st Battalion is in disarray and in need of your leadership. Your commander seems to have little sense of the situation at hand. Roll for your battle result."
 
 **Jean Rochant** — "1d6 for that, right?" — "Im new to command"
 
@@ -105,7 +105,7 @@ Every roll of the deadliest night of the campaign war was made off-site, at roll
 
 ### The Cardinal's syrupy voice
 
-**Narrator** — "@Blastagarded, the Cardinal's syrupy voice drifts to you from within his coach, reminding you of the consequences of failure. Roll for your battle result."
+**Narrator** — "@WillWorker, the Cardinal's syrupy voice drifts to you from within his coach, reminding you of the consequences of failure. Roll for your battle result."
 
 > 🎲 Hercule Bonaparte rolls 1d6 for his battle result — **5**
 
@@ -137,7 +137,7 @@ Every roll of the deadliest night of the campaign war was made off-site, at roll
 
 ### Marius Thibodeaux — Colonel, Royal Marines
 
-**Narrator** — "@Ghôst Touchard, your rolls are Death 13, Mention 12, Promotion 9, Crowns 10."
+**Narrator** — "@etirflita, your rolls are Death 13, Mention 12, Promotion 9, Crowns 10."
 
 **Marius Thibodeaux** — "1x bravery, please"
 
@@ -149,7 +149,7 @@ Every roll of the deadliest night of the campaign war was made off-site, at roll
 
 ### Jean Rochant — Lieutenant Colonel, 1st Battalion, Royal Marines
 
-**Narrator** — "@Jean Renault, your rolls are Death 13, Mention 12, Promotion 9, Crowns 10."
+**Narrator** — "@ArcticFox, your rolls are Death 13, Mention 12, Promotion 9, Crowns 10."
 
 **Jean Rochant** — "reckless x1 for me!"
 
@@ -167,7 +167,7 @@ Every roll of the deadliest night of the campaign war was made off-site, at roll
 
 ### Hercule Bonaparte — Colonel, Royal Foot Guards
 
-**Narrator** — "@Blastagarded, your rolls are Death 13, Mention 10, Promotion 8, Crowns 5."
+**Narrator** — "@WillWorker, your rolls are Death 13, Mention 10, Promotion 8, Crowns 5."
 
 **Hercule Bonaparte** — "Having yet to see the fate of Jean Rochant and feeling compelled to show his grit after so long away from the front Hercule orders his men about with the confidence that no bullets will find him today
 Reckless Bravery 2" *(🤯 ×2)*
@@ -192,7 +192,7 @@ Reckless Bravery 2" *(🤯 ×2)*
 
 ### Guerinet Durand — Captain, 2nd Battalion, Picardy Musketeers
 
-**Narrator** — "@Abelard Soucy, your rolls are Death 9, Mention 10, Promotion 8, Crowns 8"
+**Narrator** — "@DancingHorse, your rolls are Death 9, Mention 10, Promotion 8, Crowns 8"
 
 **Guerinet Durand** — "Guerinet grits his teeth, desperate to make it home to Paris to finally reap the spoils of the last campaign. Debauchery awaits!"
 
@@ -266,7 +266,7 @@ And **Jean Rochant** — orphan, ex-private, cutlass-thrower, lieutenant-colonel
 
 **Hercule Bonaparte** — "@Curtis Sinnoch Don't redecorate the office just yet, but enjoy the chair.  I don't intend to be coming back, if it can be helped." *(plank ×2)*
 
-**Curtis Sinnoch** — "@Blastagarded I'll do my best - maybe bring in some fine cognac and restock the cabinet, but I'll leave a furniture alone!"
+**Curtis Sinnoch** — "@WillWorker I'll do my best - maybe bring in some fine cognac and restock the cabinet, but I'll leave a furniture alone!"
 
 *Rochant's gravestone was posted to the cemetery five days later. The image drew three 🎣 reactions — a fish out of water to the last.*
 
@@ -274,19 +274,19 @@ And **Jean Rochant** — orphan, ex-private, cutlass-thrower, lieutenant-colonel
 
 ## Table talk
 
-**Ghôst Touchard** *(eight days after Rennes)* — "(second campaign in a row with no player fatalities!)" · **Abelard Soucy** *(six weeks later, the week of the resolution)* — "There's the optimism we're known for!" · **Ghôst Touchard** — "I've got an MA of 7 I think. We'll hopefully be fine :)" · **Jean Renault** — "Nat 1" · **Ghôst Touchard** — "Don't go waving the French flag just yet!" · **Jean Renault** — "hon hon hon" *(eight days before Jean Rochant bled out in a cabbage field)*
+**etirflita** *(eight days after Rennes)* — "(second campaign in a row with no player fatalities!)" · **DancingHorse** *(six weeks later, the week of the resolution)* — "There's the optimism we're known for!" · **etirflita** — "I've got an MA of 7 I think. We'll hopefully be fine :)" · **ArcticFox** — "Nat 1" · **etirflita** — "Don't go waving the French flag just yet!" · **ArcticFox** — "hon hon hon" *(eight days before Jean Rochant bled out in a cabbage field)*
 
-**Abelard Soucy** — "@Ghôst Touchard what did you do to Dice Golem?" · **Ghôst Touchard** — "A necessary evil.." — "My former lover, DG, is merely sleeping... in the seine.."
+**DancingHorse** — "@etirflita what did you do to Dice Golem?" · **etirflita** — "A necessary evil.." — "My former lover, DG, is merely sleeping... in the seine.."
 
-**Jean Renault** — "I dont have physical Dice" — "TO GOOGLE" — "Also how can DG be down T_T"
+**ArcticFox** — "I dont have physical Dice" — "TO GOOGLE" — "Also how can DG be down T_T"
 
-**Abelard Soucy** — "Oh wow, @Jules Lavelle is going to be insufferable now" · **laiv.wire** — "Now?" · **Jules Lavelle** — "Ahem. Noblesse oblige, my good people. Permit me to condescend."
+**DancingHorse** — "Oh wow, @Jules Lavelle is going to be insufferable now" · **laiv.wire** — "Now?" · **Jules Lavelle** — "Ahem. Noblesse oblige, my good people. Permit me to condescend."
 
-**Blastagarded** — "So am I reading this correctly that the BG promo is a step back in status?" · **Narrator** — "It is a step back. Since you still hold your permanent rank I think you should use whichever number is higher." — "but when brig. gen. becomes your permanent rank, yeah it'll be a pure step down. there are perks to being the king's BFF"
+**WillWorker** — "So am I reading this correctly that the BG promo is a step back in status?" · **Narrator** — "It is a step back. Since you still hold your permanent rank I think you should use whichever number is higher." — "but when brig. gen. becomes your permanent rank, yeah it'll be a pure step down. there are perks to being the king's BFF"
 
-**Jean Renault** *(three days later)* — "Do I not get a Gravestone?" · **Blastagarded** — "Hush dead man." *(👻 ×2)* · **Jules Lavelle** — "you will get a gravestone, don't worry. I'm still processing your death"
+**ArcticFox** *(three days later)* — "Do I not get a Gravestone?" · **WillWorker** — "Hush dead man." *(👻 ×2)* · **Jules Lavelle** — "you will get a gravestone, don't worry. I'm still processing your death"
 
-**Ghôst Touchard** *(after the Narrator announced no NPC volunteers for winter)* — "@Dice Golem /roll1d100 #odds he put out the hit on Jean" *(the bot threw an error rather than answer)* — "mmhmm. sure" *(👻)*
+**etirflita** *(after the Narrator announced no NPC volunteers for winter)* — "@Dice Golem /roll1d100 #odds he put out the hit on Jean" *(the bot threw an error rather than answer)* — "mmhmm. sure" *(👻)*
 
 ---
 

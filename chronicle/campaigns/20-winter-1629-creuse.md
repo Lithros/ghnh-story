@@ -32,11 +32,11 @@ The Frontier Regiment and volunteers have been deployed to intercept, and hopefu
 
 ## The order of battle
 
-**Narrator** — "Bg. Gen. @Curtis Sinnoch commands the 1st Brigade of Foot, including Cpts. @CitrusNotes and @Blastagarded with the Picardy Musketeers, led by Maj. Ghislain Maitron.
+**Narrator** — "Bg. Gen. @Curtis Sinnoch commands the 1st Brigade of Foot, including Cpts. @CitrusNotes and @WillWorker with the Picardy Musketeers, led by Maj. Ghislain Maitron.
 
 Lt. Col. @Jules Lavelle leads the Royal Foot Guards.
 
-The Frontier Regiment, led by Col. Lucien Lièvremont, a seasoned and celebrated officer, has awarded temporary commissions to Lt. Col. @Jean Renault and his Crown Prince Cuirassiers 1st Squadron, as well as Cpt. @Abelard Soucy. Sub. @Slade Imbee and Pvt. @Joseph Bousain fill the ranks."
+The Frontier Regiment, led by Col. Lucien Lièvremont, a seasoned and celebrated officer, has awarded temporary commissions to Lt. Col. @ArcticFox and his Crown Prince Cuirassiers 1st Squadron, as well as Cpt. @DancingHorse. Sub. @Slade Imbee and Pvt. @sirsfurther fill the ranks."
 
 *In character terms: Brigadier General Curtis Sinnoch in overall command of the 1st Brigade of Foot; Captains Armand Dufour and Albert Blastagarde in acting command of the Picardy Musketeers' 1st and 3rd Battalions (the entire command staff having died at La Rochelle); Lieutenant Colonel Jules Lavelle with the Royal Foot Guards; Lieutenant Colonel Jean Renault's cuirassier squadron, Captain Abelard Soucy, Subaltern Slade Imbee, and Private Joseph Bousain all attached to Colonel Lièvremont's Frontier Regiment. Every player character in the game marched.*
 
@@ -132,7 +132,7 @@ The result is 3 - Pyrrhic victory."
 
 **Narrator** — "The result is 3 - Pyrrhic victory"
 
-**Narrator** — "@Jean Renault, gain 1 MA for out-commanding your superior"
+**Narrator** — "@ArcticFox, gain 1 MA for out-commanding your superior"
 
 *Rohan escaped south. The battle was, on paper, a French victory; the field said otherwise.*
 
@@ -142,11 +142,11 @@ The result is 3 - Pyrrhic victory."
 
 ### Albert Blastagarde — Captain, Picardy Musketeers (acting commander, 3rd Battalion)
 
-**Narrator** — "@Blastagarded, your rolls are Death 8, Mention 6, Promotion 7, Crowns 5."
+**Narrator** — "@WillWorker, your rolls are Death 8, Mention 6, Promotion 7, Crowns 5."
 
 > 🎲 Albert Blastagarde rolls 2d6 — **10** (Death target 8: dies)
 
-**Blastagarded** — "Worth"
+**WillWorker** — "Worth"
 
 **Narrator** — "The iron horror has done its work, and can now rest. But there is no rest for the makeshift scaffolding constructed to support it and assist its aim. Certain compromises had to be made to accommodate something so unwieldy that could also be readily turned, raised, and lowered.
 
@@ -192,7 +192,7 @@ The harbinger of the future slowly, implacably, inevitably descends on its inven
 
 ### Joseph Bousain — Private, 13th Fusiliers, D Company
 
-**Narrator** — "@Joseph Bousain, your rolls are Death 7, Mention 9, Promotion 8. No chance for crowns."
+**Narrator** — "@sirsfurther, your rolls are Death 7, Mention 9, Promotion 8. No chance for crowns."
 
 **Joseph Bousain** — "Bleary eyed from a wine soaked night with some of the other D company privates, Joseph finds himself marching near the back of the company, just in front of Cpt Matthieu Hachette, a man used to commanding from the back. Although Joseph hardly possesses the greatest military mind of his age, the snatches he catches of his Cpt's plans (Well, I'm sure the Huguenots won't think to hide in those trees, Artillery? Never could stand the stuff myself, far too loud, I'm sure we'll be fine with a good old fashioned infantry charge, Ah yes, but if the marsh blocks off our retreat, our men will fight all the harder!) do not fill him with confidence. From the corner of his eye, Joseph catches a glimpse of 'Le Vaporisateur' and is immediately entranced. The private next to him has a rather different reaction. 'MONSTROSITY!! What an infernal machine!' He yelps involuntarily. At this, Hachette springs up in his saddle. 'Talking in the ranks?? What's this!? Why aren't you disciplining that man subaltern?' The platoon's subaltern, long tired of Hachette's inconsistent disciplinary approach sighs and reaches for the private. At this, Joseph spies an opportunity, even with his short time in the company, he is familiar with Hachette's bizarrely idiosyncratic approach to the discipline and the chain of command, and knows well his fondness for volunteers. Joseph volunteers to discipline the man himself. Hachette is pleased by this display of enthusiasm and is sure to make a note of the name Joseph gives him (Albert Demachy). Joseph grabs his victim and marches off into the forest to 'discipline' him, but instead leads him up to 'Le Vaporisateur' in the hope of being able to witness it in action. As they watch the machine collapse, Joseph decides instead to steal some of the spare ammunition which he hopes to lob into the crowds of Huguenots."
 
@@ -200,7 +200,7 @@ The harbinger of the future slowly, implacably, inevitably descends on its inven
 > 🎲 "mention" — Joseph Bousain rolls 2d6 — **6** (Mention target 9: no mention)
 > 🎲 "promotion" — Joseph Bousain rolls 2d6 — **9** (Promotion target 8: promoted)
 
-**Narrator** — "@Joseph Bousain, having no regiment, you are ineligible for promotion."
+**Narrator** — "@sirsfurther, having no regiment, you are ineligible for promotion."
 
 **Joseph Bousain** — "Aren't I in the 13th fusiliers"
 
@@ -233,7 +233,7 @@ Armand collapses to the ground, clutching at the stump while his remaining men s
 
 ### Abelard Soucy — Captain, attached to the Frontier Regiment
 
-**Narrator** — "@Abelard Soucy, your rolls are Death 8, Mention 9, Promotion 8. No chance for crowns."
+**Narrator** — "@DancingHorse, your rolls are Death 8, Mention 9, Promotion 8. No chance for crowns."
 
 > 🎲 Abelard Soucy rolls 1d6 death — **2** (survives)
 > 🎲 Abelard Soucy rolls 1d6 mentions — **2** (no mention)
@@ -288,17 +288,17 @@ Just as the life goes out of the officer's eyes, an explosive shell from another
 
 **Curtis Sinnoch** *(at the volunteer call, 13 May)* — "As BG General, I'm voluntolding EVERYUONE I CAN"
 
-**Blastagarded** — "Woohoo!  I don't have to think about my orders."
+**WillWorker** — "Woohoo!  I don't have to think about my orders."
 
-**CitrusNotes** — "I volunteer!" · **Jean Renault** — "Volunteer!"
+**CitrusNotes** — "I volunteer!" · **ArcticFox** — "Volunteer!"
 
-**Blastagarded** *(having just rolled his character's death after firing Le Vaporisateur)* — "Worth"
+**WillWorker** *(having just rolled his character's death after firing Le Vaporisateur)* — "Worth"
 
 **Curtis Sinnoch** *(declining any reckless-bravery modifier)* — "No roll modifications - rolling flat"
 
-**Ghôst Touchard** *(replying to a Blastagarded image, mid-resolution)* — "I prefer 'merdeocracy'"
+**etirflita** *(replying to a WillWorker image, mid-resolution)* — "I prefer 'merdeocracy'"
 
-**Joseph Bousain** — "Aren't I in the 13th fusiliers" · **Narrator** — "Apologies, my form wasn't updated. Congratulations to to Subaltern Bousain!"
+**sirsfurther** — "Aren't I in the 13th fusiliers" · **Narrator** — "Apologies, my form wasn't updated. Congratulations to to Subaltern Bousain!"
 
 **Curtis Sinnoch** *(on making his title check)* — "Huzzah!  Got it!"
 

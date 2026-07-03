@@ -18,7 +18,7 @@ A year and a half after the gentlemen first bled in the Alpine valley (see [Fall
 
 *The expedition itself had been raised weeks earlier, in the April rain, by volunteers. Major Marius Thibodeaux of the Royal Marines had been planning it since the winter thaw:*
 
-**Marius Thibodeaux** — "@Jean Renault what say you to fighting for our country in May? There's too much rain in April to do much but loaf about and drink. By May we should be invigorated and our hearts will be overflowing with wine and patriotism!"
+**Marius Thibodeaux** — "@ArcticFox what say you to fighting for our country in May? There's too much rain in April to do much but loaf about and drink. By May we should be invigorated and our hearts will be overflowing with wine and patriotism!"
 
 **Jules Lavelle** — "Look at this guy seeking advice from a...subaltern??? Such bonhomie in the Royal Marines; can't be good for morale."
 
@@ -28,7 +28,7 @@ A year and a half after the gentlemen first bled in the Alpine valley (see [Fall
 
 **Marius Thibodeaux** — "The Royal Marines intend to serve our great nation in May!" — "Then yep, I volunteer the 1st Battalion"
 
-**Jules Lavelle** — "@Blastagarded, the Royal Foot Guards' 2nd Battalion will be deploying, whether or not the regiment goes, though I do hope to serve once more under your inspiring leadership."
+**Jules Lavelle** — "@WillWorker, the Royal Foot Guards' 2nd Battalion will be deploying, whether or not the regiment goes, though I do hope to serve once more under your inspiring leadership."
 
 **Hercule Bonaparte** — "@Jules Lavelle Of course the regiment shall be marching in full. I wouldn't have it any other way. We can have our mettle getting rusty, can we?"
 
@@ -60,7 +60,7 @@ Opposite them: the Spanish and Papal garrison of Poschiavo, behind fresh fortifi
 
 ### The planning tent
 
-**Narrator** — "@Blastagarded, Gilles Morançais meets you in the planning tent and offers his opinion of the tactical situation. 'Right up the middle,' he declares. 'Spaniards and Italians. Good for basking in the sun, and not much else. We'll rout them with ease.'" *(the table: ☀️ ☀️)*
+**Narrator** — "@WillWorker, Gilles Morançais meets you in the planning tent and offers his opinion of the tactical situation. 'Right up the middle,' he declares. 'Spaniards and Italians. Good for basking in the sun, and not much else. We'll rout them with ease.'" *(the table: ☀️ ☀️)*
 
 **Hercule Bonaparte** — "Then lets use that laziness to our advantage. This is a siege after all. It's their job to stew nervously waiting for us to act. The forces of Venice and Savoy are taking care of their side of the valley, we'll take care of ours. Send messengers advising everyone in the Valley that once the siege begins in earnest, any hint of resistance will be offered no quarter. But for now, anyone who wants to leave the Valley unarmed and in peace may do so.
 
@@ -96,7 +96,7 @@ Fret not, Col. Morançais. We'll be going right up the middle. There's nowhere e
 
 ### Marius at the gate
 
-**Narrator** — "@Ghôst Touchard, roll to see your battalion through the charge!"
+**Narrator** — "@etirflita, roll to see your battalion through the charge!"
 
 > 🎲 Marius Thibodeaux rolls 1d6 for his battle result — **5**
 
@@ -148,7 +148,7 @@ Fret not, Col. Morançais. We'll be going right up the middle. There's nowhere e
 
 ### Marius Thibodeaux — Major, 1st Battalion, Royal Marines
 
-**Narrator** — "@Ghôst Touchard , your rolls are Death 12, Mention 8, Promotion 6, Crowns 6"
+**Narrator** — "@etirflita , your rolls are Death 12, Mention 8, Promotion 6, Crowns 6"
 
 *The man who smashed the gate declined reckless bravery and rolled straight:*
 
@@ -176,7 +176,7 @@ Fret not, Col. Morançais. We'll be going right up the middle. There's nowhere e
 
 ### Hercule Bonaparte — Colonel, Royal Foot Guards
 
-**Narrator** — "@Blastagarded , your rolls are Death 16, Mention 12, Promotion 11, Crowns 7"
+**Narrator** — "@WillWorker , your rolls are Death 16, Mention 12, Promotion 11, Crowns 7"
 
 **Hercule Bonaparte** — "While we wait for Curtis, dare I say, I too was a bit of an adrenaline junky. Why, I got close enough to see the walls of the town with my own naked eyes. Reckless Bravery 4."
 
@@ -244,7 +244,7 @@ Fret not, Col. Morançais. We'll be going right up the middle. There's nowhere e
 
 *The Marines' subaltern rolled the next morning, without reckless bravery:*
 
-**Narrator** — "@Jean Renault , your rolls are Death 10, Mention 9, Promotion 7, Crowns 7"
+**Narrator** — "@ArcticFox , your rolls are Death 10, Mention 9, Promotion 7, Crowns 7"
 
 > 🎲 Jean Rochant rolls 2d6 *(Death, target 10)* — **2**
 
@@ -288,19 +288,19 @@ The money did not stay idle. The next morning — **Narrator**: "The Minister of
 
 ## Table talk
 
-**Ghôst Touchard** — "/roll 1d6 #to see how much @Dice Golem hates me after all this time" *(it came up 1)* — "I'll believe it when I live"
+**etirflita** — "/roll 1d6 #to see how much @Dice Golem hates me after all this time" *(it came up 1)* — "I'll believe it when I live"
 
-**Blastagarded** — "a middling roll for a middling plan" *(on the 3 that stranded the alliance without siege equipment)*
+**WillWorker** — "a middling roll for a middling plan" *(on the 3 that stranded the alliance without siege equipment)*
 
 **Curtis Sinnoch** — "What am I rolling, a d6?" · **Narrator** — "(you will yes)"
 
-**Jean Renault** — "I almost took reckless bravery too lol" · **Ghôst Touchard** — "If you had, you would have rolled a 12 instead lol" · **Jean Renault** — "Nah, wouldve rolled an 8 lol"
+**ArcticFox** — "I almost took reckless bravery too lol" · **etirflita** — "If you had, you would have rolled a 12 instead lol" · **ArcticFox** — "Nah, wouldve rolled an 8 lol"
 
-**Jean Renault** — "Can I buy a knighthood?" *(hours after Curtis got his for free)* · **Narrator** — "@Jean Renault no, titles must be earned"
+**ArcticFox** — "Can I buy a knighthood?" *(hours after Curtis got his for free)* · **Narrator** — "@ArcticFox no, titles must be earned"
 
-**Jean Renault** — "Also my horse's name is 'Dice Daemon'" · **Ghôst Touchard** — "All three of my horses are just called 'putain'. I have a stable full and they let me ride them for money."
+**ArcticFox** — "Also my horse's name is 'Dice Daemon'" · **etirflita** — "All three of my horses are just called 'putain'. I have a stable full and they let me ride them for money."
 
-**Ghôst Touchard** — "But hopefully the campaign will be kind once again, and we will come back even richer!" · **Jules Lavelle** — "and then you die!" *(plank ×3)*
+**etirflita** — "But hopefully the campaign will be kind once again, and we will come back even richer!" · **Jules Lavelle** — "and then you die!" *(plank ×3)*
 
 ---
 

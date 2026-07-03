@@ -32,13 +32,13 @@ Two and a half weeks later at the table — with the game clock run forward to N
 
 ## The order of battle
 
-The volunteer dice of early September had picked their victims on 6s: the **Queen's Own Carabiniers** ("Bye @Curtis Sinnoch," said the Narrator), **Grand Duke Max's Dragoons** ("Bye @Abelard Soucy"), the **1st Squadron of Princess Louisa's Light Dragoons**, and the **3rd Battalion of the Royal Marines** ("Bye @Anonymouse").
+The volunteer dice of early September had picked their victims on 6s: the **Queen's Own Carabiniers** ("Bye @Curtis Sinnoch," said the Narrator), **Grand Duke Max's Dragoons** ("Bye @DancingHorse"), the **1st Squadron of Princess Louisa's Light Dragoons**, and the **3rd Battalion of the Royal Marines** ("Bye @Anonymouse").
 
-**Narrator** — "Barring exerting Influence on their commanders, @Curtis Sinnoch , @Abelard Soucy , and @Anonymouse will be campaigning in the Fall season"
+**Narrator** — "Barring exerting Influence on their commanders, @Curtis Sinnoch , @DancingHorse , and @Anonymouse will be campaigning in the Fall season"
 
-Pierre de Tête escaped the rolls at once — "Grand Duke Max's Dragoons. @Abelard Soucy has been chosen for the position [of Dragoon Brigade Major]. … As such, he has been removed from volunteering for campaign." Jules Lavelle was likewise named Brigade Major of the Horse Guards, Léonce Masse of the Picardy Musketeers was chosen for the First Brigade "by virtue of being related to General Masse," and Gaël Houdin of the 53rd Fusiliers took the 2nd Brigade.
+Pierre de Tête escaped the rolls at once — "Grand Duke Max's Dragoons. @DancingHorse has been chosen for the position [of Dragoon Brigade Major]. … As such, he has been removed from volunteering for campaign." Jules Lavelle was likewise named Brigade Major of the Horse Guards, Léonce Masse of the Picardy Musketeers was chosen for the First Brigade "by virtue of being related to General Masse," and Gaël Houdin of the 53rd Fusiliers took the 2nd Brigade.
 
-**Ghôst Touchard (player)** — "This is for the entire season, n'est-ce pas?"
+**etirflita (player)** — "This is for the entire season, n'est-ce pas?"
 
 **Jules Lavelle (GM)** — "The people being volunteered are gone until December"
 
@@ -56,9 +56,9 @@ Pierre de Tête escaped the rolls at once — "Grand Duke Max's Dragoons. @Abela
 
 *And Guy de Cavoye — a bastard son newly arrived in Paris, a subaltern in the Royal Foot Guards for exactly one week — volunteered himself:*
 
-**Guy de Cavoye** — "After a week of duty I break the news to my commander that I will not be able to report for duty next month as I, @Ghôst Touchard, am volunteering to fight for my country!"
+**Guy de Cavoye** — "After a week of duty I break the news to my commander that I will not be able to report for duty next month as I, @etirflita, am volunteering to fight for my country!"
 
-**Narrator** — "Col. Bouchard looks at @Ghôst Touchard as though he has lost his mind."
+**Narrator** — "Col. Bouchard looks at @etirflita as though he has lost his mind."
 
 **Guy de Cavoye** — "One hopes he can find it on the battlefield.."
 
@@ -68,7 +68,7 @@ Pierre de Tête escaped the rolls at once — "Grand Duke Max's Dragoons. @Abela
 
 When the siege lines were drawn, the Narrator sorted the volunteers:
 
-**Narrator** — "@Curtis Sinnoch , @Ghôst Touchard , and @Anonymouse are fighting. Curtis serves under his regiment. Guy and Alphonse have been placed into the chain of command of the Frontier Regiment itself."
+**Narrator** — "@Curtis Sinnoch , @etirflita , and @Anonymouse are fighting. Curtis serves under his regiment. Guy and Alphonse have been placed into the chain of command of the Frontier Regiment itself."
 
 | Character | Rank / post | Serving with |
 |---|---|---|
@@ -118,7 +118,7 @@ The two NPC colonels got their vignettes in a single breath:
 
 ### Guy de Cavoye — Subaltern, with the Frontier Regiment
 
-**Narrator** — "@Ghôst Touchard, roll for Death against an 11, Reckless Bravery or Poltroonery notwithstanding."
+**Narrator** — "@etirflita, roll for Death against an 11, Reckless Bravery or Poltroonery notwithstanding."
 
 **Guy de Cavoye** — "2d6, n'est-ce pas?"
 
@@ -170,11 +170,11 @@ On Captain 2's eleven: **Narrator** — "Death!" *(a player reacted: 🍰)*
 
 > 🎲 1d6 — **3** · Major **11**
 
-**Ghôst Touchard (player)** — "Woof"
+**etirflita (player)** — "Woof"
 
 **Narrator** — "He actually survived. He was a battalion commander who did better than his superior on his own roll — so he got a +1"
 
-**Ghôst Touchard (player)** — "Nice!"
+**etirflita (player)** — "Nice!"
 
 > 🎲 Captain 5 **7** · Captain 6 **9**
 
@@ -241,7 +241,7 @@ The ledger of the fall: no player character dead, one Q.O.C. captain fallen, Alp
 
 **Alphonse Devereux** — "@Curtis Sinnoch, I would love to catch up with you after this campaign to trade tales. Would you care to host at Hunter's this month?"
 
-*There was no rest in it. Within the same sitting the Narrator was already rolling for the Winter Campaign — "Royal Foot Guards are going on campaign. Bye @Ghôst Touchard" … "53rd Fusiliers are going. Bye @Jean Renault and @laiv.wire" — and Guy, twice a volunteer now, saluted:*
+*There was no rest in it. Within the same sitting the Narrator was already rolling for the Winter Campaign — "Royal Foot Guards are going on campaign. Bye @etirflita" … "53rd Fusiliers are going. Bye @ArcticFox and @laiv.wire" — and Guy, twice a volunteer now, saluted:*
 
 **Guy de Cavoye** — "At least I shall be paid my regiment's salary this time!"
 
@@ -249,15 +249,15 @@ The ledger of the fall: no player character dead, one Q.O.C. captain fallen, Alp
 
 ## Table talk
 
-**Ghôst Touchard** — "Naturally my highest roll was for.. death." *(his 9 against Death, next to a 5 and a 6 for everything worth having)*
+**etirflita** — "Naturally my highest roll was for.. death." *(his 9 against Death, next to a 5 and a 6 for everything worth having)*
 
-**Blastagarded** — "Too bad Dice Golem can't do multiple rolls in one block." · **Ghôst Touchard** — "You can use the emoji to reroll" · **Blastagarded** — "/roll 5d17 #testing" *(Dice Golem: "Hercule Bonaparte rolled 5d17: (13+14+10+8+3) = 48")* · **Blastagarded** — "Neat" *(this, in the middle of the officers' death rolls)*
+**WillWorker** — "Too bad Dice Golem can't do multiple rolls in one block." · **etirflita** — "You can use the emoji to reroll" · **WillWorker** — "/roll 5d17 #testing" *(Dice Golem: "Hercule Bonaparte rolled 5d17: (13+14+10+8+3) = 48")* · **WillWorker** — "Neat" *(this, in the middle of the officers' death rolls)*
 
 **Narrator** — "oh wait captain 6 is alphonse"
 
 **Narrator** — "and anyway you wouldn't have R.B.'d" · **Anonymouse** — "I might have at 13."
 
-**Jean Renault** — "So if our regiment volunteers for campaign, how long are we there for? The whole season?" · **Ghôst Touchard** — "Yup, get the love letter home to your mistress ready! (Although, no expenses helps!)"
+**ArcticFox** — "So if our regiment volunteers for campaign, how long are we there for? The whole season?" · **etirflita** — "Yup, get the love letter home to your mistress ready! (Although, no expenses helps!)"
 
 ---
 

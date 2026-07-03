@@ -133,7 +133,7 @@ At last, Louis arrives. 'my apologies, monsieur, this err...' *he glances around
 
 *(The table reacted: 😱 😱 😱. And a note for the record —)*
 
-**Blastagarded** — "*Sabre"
+**WillWorker** — "*Sabre"
 
 ### Round Three
 
@@ -222,7 +222,7 @@ Temporal distortion within reasonable safety limits"
 
 *Louis Laveuse died on the club floor at ninety damage taken in eleven rounds — a splintered cheekbone, a sabre in the collarbone, and a cut that opened him in a perfect crimson circle. Jean finished at forty-four, upright, his biometrics already forecasting recovery. The dueling record ends mid-scene on the owner's facepalm; the bookkeeping was settled at the table:*
 
-**Blastagarded** — "Narrator — That counts as a Neutral Win for SP purposes?"
+**WillWorker** — "Narrator — That counts as a Neutral Win for SP purposes?"
 
 **Narrator** — "neutral win AND killing"
 
@@ -256,17 +256,17 @@ Come. I have no wish to celebrate over a dead fool. I'll walk you home and call 
 
 ## Table talk
 
-**Jean Renault** (the day the lady changed hands) — "It feels like Adélaïde Blaise gets passed around" ... "Shes flaky sure, but her suitors also seem to die" — **Blastagarded**: "Makes me glad I factored in a suitor hedge into my spend."
+**ArcticFox** (the day the lady changed hands) — "It feels like Adélaïde Blaise gets passed around" ... "Shes flaky sure, but her suitors also seem to die" — **WillWorker**: "Makes me glad I factored in a suitor hedge into my spend."
 
 **Narrator** (chasing monthly orders) — "Waiting on orders from Curtis Sinnoch, Jean Renault, CitrusNotes, Joseph Bousain. Waiting on Jean S. as well but he used his time travel powers to know when he would get in and forewarn me."
 
-**Joseph Bousain** — "Waiting to here when certain ppl are free for.duels" — **Blastagarded**: "Nothing to wait for, no challenges have actually been issued publicly. Just rumored about." — **Joseph Bousain**: "I HEREBY CHALLENGE YOU TO A DUEL GOOD SIR!" — **Blastagarded**: "Wrong channel"
+**sirsfurther** — "Waiting to here when certain ppl are free for.duels" — **WillWorker**: "Nothing to wait for, no challenges have actually been issued publicly. Just rumored about." — **sirsfurther**: "I HEREBY CHALLENGE YOU TO A DUEL GOOD SIR!" — **WillWorker**: "Wrong channel"
 
-**Blastagarded** (four characters, four years, zero duels until now) — "After all this time, I finally get to duel!!!!!"
+**WillWorker** (four characters, four years, zero duels until now) — "After all this time, I finally get to duel!!!!!"
 
-**Blastagarded** (scheduling a killing) — "I'm just winding down at the office. I can do this now or later in the evening after I get home." — **Joseph Bousain**: "I'm abt to go to bed actually, how abt tomorrow?"
+**WillWorker** (scheduling a killing) — "I'm just winding down at the office. I can do this now or later in the evening after I get home." — **sirsfurther**: "I'm abt to go to bed actually, how abt tomorrow?"
 
-**Joseph Bousain** (waiting on a delayed GM, fully in character) — "Another brandy, Jean?"
+**sirsfurther** (waiting on a delayed GM, fully in character) — "Another brandy, Jean?"
 
 ---
 

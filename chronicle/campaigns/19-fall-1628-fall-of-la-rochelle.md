@@ -18,11 +18,11 @@ La Rochelle was already lost when the fall season opened. After the summer's fai
 
 *The deployment had been settled weeks earlier, in the off-season channel, when the Narrator called for volunteering rolls:*
 
-**Narrator** — "The following players should roll 1d6 to see if their commanders are volunteering them for the Fall Campaign: @Slade Imbee @Jean Renault @CitrusNotes"
+**Narrator** — "The following players should roll 1d6 to see if their commanders are volunteering them for the Fall Campaign: @Slade Imbee @ArcticFox @CitrusNotes"
 
 > 🎲 Armand Dufour rolls 1d6 — **6** (his commander volunteers the regiment)
 
-**Narrator** — "The Picardy Musketeers, including @CitrusNotes, @Blastagarded, and @Ghôst Touchard, will be deploying this season (unless anyone wishes to use Influence on the commander -- a mere Major!)"
+**Narrator** — "The Picardy Musketeers, including @CitrusNotes, @WillWorker, and @etirflita, will be deploying this season (unless anyone wishes to use Influence on the commander -- a mere Major!)"
 
 **Armand Dufour** — "To glory!"
 
@@ -38,11 +38,11 @@ La Rochelle was already lost when the fall season opened. After the summer's fai
 
 **Narrator** — "Deploying:
 
-Bg. Gen. @Curtis Sinnoch leading the 1st Brigade, including in the Picardy Musketeers Captains @CitrusNotes and @Blastagarded, and Pvt. @Ghôst Touchard.
+Bg. Gen. @Curtis Sinnoch leading the 1st Brigade, including in the Picardy Musketeers Captains @CitrusNotes and @WillWorker, and Pvt. @etirflita.
 
 Lt. Col. @Jules Lavelle commanding the Royal Foot Guards.
 
-@Joseph Bousain has volunteered as a private in the Frontier Regiment."
+@sirsfurther has volunteered as a private in the Frontier Regiment."
 
 **Narrator** — "The Frontier Regiment is commanded by Col. Thomas Alard, a savvy veteran of the Spanish Campaigns."
 
@@ -71,7 +71,7 @@ Composing himself, Curtis heads to the 1st battalion HQ and sends his men to gat
 
 *The speech drew a 😈. In the OOC channel, two minutes after the campaign was announced, Côme Touchard's player had already set a different tone:*
 
-**Ghôst Touchard** *(OOC)* — "Leeeeeeeroyyyyyy Jeeeeenkiiiiiins!"
+**etirflita** *(OOC)* — "Leeeeeeeroyyyyyy Jeeeeenkiiiiiins!"
 
 ### The 1st Brigade — Bg. Gen. Curtis Sinnoch
 
@@ -122,11 +122,11 @@ You've all trained and studied well, and all have full permission to deviate fro
 
 **Narrator** — "@Curtis Sinnoch, your rolls are Death 12, Mention 12, Promotion 6, Crowns 6"
 
-**Narrator** — "@CitrusNotes and @Blastagarded, your rolls are Death 8, Mention 10, Promotion 7, Crowns 11"
+**Narrator** — "@CitrusNotes and @WillWorker, your rolls are Death 8, Mention 10, Promotion 7, Crowns 11"
 
-**Narrator** — "@Ghôst Touchard, your rolls are Death 7, Mention 10, Promotion 7, Crowns 12"
+**Narrator** — "@etirflita, your rolls are Death 7, Mention 10, Promotion 7, Crowns 12"
 
-**Narrator** — "@Joseph Bousain, your rolls are Death 6, Mention 10, Promotion 7, Crowns 11"
+**Narrator** — "@sirsfurther, your rolls are Death 6, Mention 10, Promotion 7, Crowns 11"
 
 **Narrator** — "@Jules Lavelle, your rolls are Death 12, Mention 10, Promotion 7, Crowns 8"
 
@@ -238,7 +238,7 @@ The wounds swiftly turn gangrenous, and he expires in a hospital tent a few days
 
 *The Picardy Musketeers' officer corps had fared far worse than the players:*
 
-**Narrator** — "Due to the deaths of nearly the entire command staff of the Picardy Musketeers, @CitrusNotes and @Blastagarded have been given acting command of 1st and 3rd Battalion, respectively." *(the announcement drew a 👏)*
+**Narrator** — "Due to the deaths of nearly the entire command staff of the Picardy Musketeers, @CitrusNotes and @WillWorker have been given acting command of 1st and 3rd Battalion, respectively." *(the announcement drew a 👏)*
 
 *And then the Cardinal closed the theater:*
 
@@ -250,13 +250,13 @@ The wounds swiftly turn gangrenous, and he expires in a hospital tent a few days
 
 ## Table talk
 
-**Ghôst Touchard** *(in general-ooc, two minutes after the campaign was announced)* — "Leeeeeeeroyyyyyy Jeeeeenkiiiiiins!"
+**etirflita** *(in general-ooc, two minutes after the campaign was announced)* — "Leeeeeeeroyyyyyy Jeeeeenkiiiiiins!"
 
 **Curtis Sinnoch** *(mid-speech, in his official checkpoint orders)* — "We know the Narrator is a Jackass, and you have full permission to hunt down his kin."
 
 **Curtis Sinnoch** *(opening his resolution)* — "Straight Rolls across the board! For Life!" *…and, on hitting his crowns target:* "Dolla Dolla Bills Y'all!"
 
-**Ghôst Touchard** *(having rolled exactly his modified death number)* — "Whoops"
+**etirflita** *(having rolled exactly his modified death number)* — "Whoops"
 
 **CitrusNotes** *(in general-ooc, minutes after his rolls)* — "Well! I survived and some coin in the pocket. Can't complain all things considered"
 

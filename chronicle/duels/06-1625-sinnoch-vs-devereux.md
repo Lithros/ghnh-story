@@ -189,13 +189,13 @@ Hunter's has be notified of your attendance on the 4th week of January. A Sinnoc
 
 **Narrator** — "(Alphonse, you need none. You're just that good.)" — **Anonymouse**: "(It doesn't have anything to do with the fact that he's using a dagger?)" — **Curtis Sinnoch**: "OOC: Nah, I have garbage EXP. Rolled a 4 on 3d6"
 
-**Jean Renault** (whose character was away at the Frontier) — "Sucks Im not in paris to see if the elephant helps in the duel" ... "Or to see the elephant!" — **Ghôst Touchard**: "Ah, to be in the peanut gallery!"
+**ArcticFox** (whose character was away at the Frontier) — "Sucks Im not in paris to see if the elephant helps in the duel" ... "Or to see the elephant!" — **etirflita**: "Ah, to be in the peanut gallery!"
 
-**Ghôst Touchard** (that same afternoon, sensing where the courting scene was heading) — "What happens if 3+ people court the same lady on the same week?" — **Jules Lavelle**: "that's a really good question"
+**etirflita** (that same afternoon, sensing where the courting scene was heading) — "What happens if 3+ people court the same lady on the same week?" — **Jules Lavelle**: "that's a really good question"
 
-**harry** (on the proposed three-way melee rules) — "Maybe only even numbers of combatants can duel and must duel as doubles" ... "one on another's shoulders" — **Ghôst Touchard**: "Mecha Shiva!"
+**harry** (on the proposed three-way melee rules) — "Maybe only even numbers of combatants can duel and must duel as doubles" ... "one on another's shoulders" — **etirflita**: "Mecha Shiva!"
 
-**Blastagarded** (on the ancient question of three-way sword duels) — "Worked for The Good, the Bad, and the Ugly."
+**WillWorker** (on the ancient question of three-way sword duels) — "Worked for The Good, the Bad, and the Ugly."
 
 ---
 

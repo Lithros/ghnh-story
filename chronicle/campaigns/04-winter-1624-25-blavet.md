@@ -48,9 +48,9 @@ The Huguenot rebellion had put a fleet to sea, and the winter's work began on th
 
 *Seven players answered the muster call — but the staff officers were promptly sent back to their desks:*
 
-**Narrator** — "Correction. Jules Lavelle is serving as brigade major and not allowed to volunteer. His month is wasted" — "Same goes for Abelard Soucy [Pierre de Tête]."
+**Narrator** — "Correction. Jules Lavelle is serving as brigade major and not allowed to volunteer. His month is wasted" — "Same goes for DancingHorse [Pierre de Tête]."
 
-**Narrator** — "Ghôst Touchard [Guy de Cavoye] campaigns with the Royal Foot Guards. Curtis Sinnoch has volunteered his battalion, operating under the Frontier Regiment. Blastagarded [Hercule Bonaparte] has volunteered his battalion, operating under the Frontier Regiment. Jean Renault [Leon Mandelbrot] and laiv.wire [Henri Toulouse] campaign with the 53rd Fusiliers."
+**Narrator** — "etirflita [Guy de Cavoye] campaigns with the Royal Foot Guards. Curtis Sinnoch has volunteered his battalion, operating under the Frontier Regiment. WillWorker [Hercule Bonaparte] has volunteered his battalion, operating under the Frontier Regiment. ArcticFox [Leon Mandelbrot] and laiv.wire [Henri Toulouse] campaign with the 53rd Fusiliers."
 
 | Character | Rank / post | Unit |
 |---|---|---|
@@ -64,7 +64,7 @@ The Huguenot rebellion had put a fleet to sea, and the winter's work began on th
 
 Above them all stood **the Duke of Vendôme**, in overall command of the landing; **Colonel Sébastien Besson** of the 53rd Fusiliers; and **Colonel Bouchard** of the Royal Foot Guards.
 
-**Jean Renault (player)** — "WE'RE ALL GONNA DIE"
+**ArcticFox (player)** — "WE'RE ALL GONNA DIE"
 
 ---
 
@@ -76,7 +76,7 @@ Above them all stood **the Duke of Vendôme**, in overall command of the landing
 
 **Guy de Cavoye** — "Watch for planks!"
 
-**Jean Renault (player)** — *(reading the orders back)* "Vendôme commands the 53rd and his own battalions to storm the fort directly. … Fuuuck"
+**ArcticFox (player)** — *(reading the orders back)* "Vendôme commands the 53rd and his own battalions to storm the fort directly. … Fuuuck"
 
 **Henri Toulouse** — "Ouais..."
 
@@ -86,9 +86,9 @@ Above them all stood **the Duke of Vendôme**, in overall command of the landing
 
 **Narrator** — "Vendôme's orders are muddled and confused. The landing boats are tossed into disarray."
 
-**Jean Renault (player)** — "Oh thats bad"
+**ArcticFox (player)** — "Oh thats bad"
 
-**Narrator** — "Blastagarded, roll 1d6 for your battle result. You will have a -1 modifier to your MA due to your commander's incompetence." *(and the same to Curtis Sinnoch)*
+**Narrator** — "WillWorker, roll 1d6 for your battle result. You will have a -1 modifier to your MA due to your commander's incompetence." *(and the same to Curtis Sinnoch)*
 
 *The King's Musketeers' 3rd Battalion went in first:*
 
@@ -120,7 +120,7 @@ Above them all stood **the Duke of Vendôme**, in overall command of the landing
 
 > 🎲 Hercule Bonaparte rolls 1d6 — **1**
 
-**Blastagarded (player)** — "oof"
+**WillWorker (player)** — "oof"
 
 **Narrator** — "Hercule's battalion, without horses, is utterly unprepared for the intensity of fighting amphibiously. They suffer horrible losses as they find themselves repelled back into the sea."
 
@@ -136,15 +136,15 @@ Duke Soubise names himself 'Admiral of the Protestant Church.'"
 
 ### Leon Mandelbrot — Captain, C Company, 53rd Fusiliers
 
-**Narrator** — "Jean Renault, your rolls are: Death 9, Mention 9, Promotion 7, Crowns 7 … Poltroonery/Reckless Bravery?" *(The arithmetic, as the Narrator explained it: "for a Siege 2, the base is Death 8, Mention 9, Promotion 7, Crowns 8 — as a Captain you get +1 to Death and -1 to Crowns.")*
+**Narrator** — "ArcticFox, your rolls are: Death 9, Mention 9, Promotion 7, Crowns 7 … Poltroonery/Reckless Bravery?" *(The arithmetic, as the Narrator explained it: "for a Siege 2, the base is Death 8, Mention 9, Promotion 7, Crowns 8 — as a Captain you get +1 to Death and -1 to Crowns.")*
 
-**Jean Renault (player)** — "Neither … Wait … Then Reckless bravery at TWO"
+**ArcticFox (player)** — "Neither … Wait … Then Reckless bravery at TWO"
 
 **Narrator** — "Death 6 … er … 7"
 
 > 🎲 Leon Mandelbrot rolls 2d6 — **7** (Death target 7 after reckless bravery: dies)
 
-**Jean Renault (player)** — "NOOOOO"
+**ArcticFox (player)** — "NOOOOO"
 
 **Guy de Cavoye** — "LEON!"
 
@@ -154,7 +154,7 @@ Duke Soubise names himself 'Admiral of the Protestant Church.'"
 
 **Guy de Cavoye** — "Sniff the way he lived"
 
-**Jean Renault (player)** — "Such is Life"
+**ArcticFox (player)** — "Such is Life"
 
 **Henri Toulouse** — "\<Ghost of Etienne de Mercouer\> Fancy seeing you here."
 
@@ -182,31 +182,31 @@ Duke Soubise names himself 'Admiral of the Protestant Church.'"
 
 > 🎲 Henri Toulouse rolls 2d6 — **5** (Crowns target 8: no loot)
 
-**Jean Renault (player)** — "The Ghost of Leon Mandelbrot smiles upon Henri. Best of luck with these privates!"
+**ArcticFox (player)** — "The Ghost of Leon Mandelbrot smiles upon Henri. Best of luck with these privates!"
 
 **Henri Toulouse** — "Ah. I am quite used to destitution. … Welp. C'mon, lads, and all that rah rah, I suppose."
 
 ### Guy de Cavoye — Subaltern, Royal Foot Guards
 
-**Narrator** — "Ghôst Touchard, your rolls are Death 12, Mention 9, Promotion 8, Crowns 5"
+**Narrator** — "etirflita, your rolls are Death 12, Mention 9, Promotion 8, Crowns 5"
 
-**Ghôst Touchard (player)** — "I'll have to take a reckless bravery of 2"
+**etirflita (player)** — "I'll have to take a reckless bravery of 2"
 
 **Guy de Cavoye** — "Guy blows a kiss to his betrothed, @Dice Golem"
 
 > 🎲 Guy de Cavoye rolls 2d6 — **10** (Death target 10 after reckless bravery: dies)
 
-**Ghôst Touchard (player)** — "merde"
+**etirflita (player)** — "merde"
 
 **Narrator** — "Someone has not been getting enough lacrosse practice in."
 
 **Narrator** — "Guy has exploded."
 
-**Jean Renault (player)** — "Reckless bravery … Not the way to go"
+**ArcticFox (player)** — "Reckless bravery … Not the way to go"
 
-**Ghôst Touchard (player)** — "It's been the death of me twice"
+**etirflita (player)** — "It's been the death of me twice"
 
-**Pierre de Tête (Abelard Soucy, at the table)** — "Apparently, it's a great way to go"
+**Pierre de Tête (DancingHorse, at the table)** — "Apparently, it's a great way to go"
 
 ### Curtis Sinnoch — Major, 3rd Battalion, King's Musketeers
 
@@ -262,9 +262,9 @@ Two player characters died in the surf and smoke at Blavet — **Leon Mandelbrot
 
 The NPC officers fared little better. In the Royal Foot Guards the Lieutenant-Colonel and three captains were killed (rolls of 9, 8, 9, and 11 against their death numbers); Curtis's own battalion of the King's Musketeers lost no officers; the Crown Prince Cuirassiers lost a captain —
 
-**Narrator** — "Couldn't lead him out of that one, Blastagarded...."
+**Narrator** — "Couldn't lead him out of that one, WillWorker...."
 
-**Blastagarded (player)** — "That man was an idiot. If I could, I would have prompted his horse to his position."
+**WillWorker (player)** — "That man was an idiot. If I could, I would have prompted his horse to his position."
 
 — and the 53rd Fusiliers lost their Lieutenant-Colonel, a Major, and Captain D. Except:
 
@@ -272,11 +272,11 @@ The NPC officers fared little better. In the Royal Foot Guards the Lieutenant-Co
 
 **laiv.wire (player)** — "Double death"
 
-**Jean Renault (player)** — "NOOOOOOO … Wait … Does that mean I come back to life?"
+**ArcticFox (player)** — "NOOOOOOO … Wait … Does that mean I come back to life?"
 
 **Narrator** — "you come back to life. your lungs are still full of water. you drown again immediately"
 
-**Jean Renault (player)** — "Worth"
+**ArcticFox (player)** — "Worth"
 
 In the promotion rolls that followed, a Major and a Captain of the Royal Foot Guards and a Captain of the 53rd Fusiliers were advanced. Then came the spring musters: the Dragoon Guards were volunteered ("As Brigade Major, Jules is exempted from service," the Narrator noted), and both Curtis Sinnoch and Hercule Bonaparte chose to lead their battalions out yet again — toward Nantes, and the Huguenot army now marching in triumph from Blavet.
 
@@ -304,19 +304,19 @@ In the promotion rolls that followed, a Major and a Captain of the Royal Foot Gu
 
 ## Table talk
 
-**Narrator** — "This is a Siege." · **Jean Renault** — "WE'RE ALL GONNA DIE"
+**Narrator** — "This is a Siege." · **ArcticFox** — "WE'RE ALL GONNA DIE"
 
 **Curtis Sinnoch** — "Reckless Bravery of -4" · **Narrator** — "no … I mean...whoa … good luck"
 
-**Jean Renault** *(after Leon's death roll)* — "Dice Golem … So unfair … I had confidence … But Dice Golem did not … I wanted the mention" · **Abelard Soucy** — "The recklessness! Why?"
+**ArcticFox** *(after Leon's death roll)* — "Dice Golem … So unfair … I had confidence … But Dice Golem did not … I wanted the mention" · **DancingHorse** — "The recklessness! Why?"
 
-**Ghôst Touchard** — "It's been the death of me twice" *(reckless bravery, having now killed both Jean-Luc Aveline and Guy de Cavoye)* · **Abelard Soucy** — "Apparently, it's a great way to go"
+**etirflita** — "It's been the death of me twice" *(reckless bravery, having now killed both Jean-Luc Aveline and Guy de Cavoye)* · **DancingHorse** — "Apparently, it's a great way to go"
 
-**Blastagarded** — "It appears the fates had it in for Leon" *(on Leon dying a second time in the NPC death rolls)*
+**WillWorker** — "It appears the fates had it in for Leon" *(on Leon dying a second time in the NPC death rolls)*
 
-**Blastagarded** — "I'm surprised you haven't written some kind of script for the death rolls for each regiment." · **Jules Lavelle (GM)** — "working on it. figuring out the best database is the tricky part"
+**WillWorker** — "I'm surprised you haven't written some kind of script for the death rolls for each regiment." · **Jules Lavelle (GM)** — "working on it. figuring out the best database is the tricky part"
 
-**Blastagarded** *(on the Soubise bounty)* — "Go get 'em, Ray! I mean, @harry!"
+**WillWorker** *(on the Soubise bounty)* — "Go get 'em, Ray! I mean, @harry!"
 
 ---
 

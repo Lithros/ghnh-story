@@ -1,10 +1,10 @@
 # Appendix A — Dramatis Personae
 
-*The twelve players of Great Hearts, Noble Hearts (and their Narrator), and every character they buried or carried to the end. Players are listed by the Discord display name they bore when the archive was exported (which is, in most cases, the name of their final character — the server's custom was to rename yourself for each new life, and to haunt the interval under names like "Ghost of Godefroy de Beaufosse"). The Narrator ran the world, the Gazette, the cemetery, and — under his player account — characters of his own.*
+*The twelve players of Great Hearts, Noble Hearts (and their Narrator), and every character they buried or carried to the end. Players are listed by their handles; where the archive's export shows something different, that is noted — the server's custom was to rename yourself for each new life (and to haunt the interval under names like "Ghost of Godefroy de Beaufosse"), so several players were exported wearing their final character's name. The Narrator — handle **Lithros** — ran the world, the Gazette, and the cemetery, and, under his player account, characters of his own.*
 
 ---
 
-## The Narrator / Jules Lavelle (the GM)
+## Lithros — the Narrator (GM)
 
 | # | Character | Span | Fate |
 |---|-----------|------|------|
@@ -17,7 +17,9 @@
 |---|-----------|------|------|
 | 1 | **Curtis Sinnoch** | Mar 1624 – end | **The only founding character to survive the entire game.** Son of the Viscount Sinnoch. Queen's Own Carabiniers → King's Musketeers → Colonel of the Royal Foot Guards. Knight (1626), Baron (1627), Marquis by grace of Richelieu (1627), Minister of Justice (1627–29), Brigadier-General (1628), **Earl and Brevet Lieutenant-General** (1629). Six-plus Mentions in Despatches. Slayer of clavicles, thrower of the dagger that enraged the elephant Hannibal. |
 
-## Ghôst Touchard
+## etirflita
+
+*(appears in the export as “Ghôst Touchard”)*
 
 | # | Character | Span | Fate |
 |---|-----------|------|------|
@@ -27,7 +29,9 @@
 | 4 | **Marius Thibodeaux** | Dec 1625 – May 1628 | The fastest rise in the army: captain to **knighted brevet Brigadier-General** in thirty months; captor of the Duke of Buckingham. Crushed on a beach by a galleon riding a freak wave. *"His ship had just come in."* |
 | 5 | **Côme Touchard** | Jun 1628 – Oct 1628 | Penniless Picardy private; Adélaïde Blaise's eighth lover. Survived the cabbage-cart ambush, then died of gangrene from an enraged greengrocer's bite. *"Lived and died by the skin of his teeth."* |
 
-## Jean Renault
+## ArcticFox
+
+*(appears in the export as “Jean Renault,” the name of his final character)*
 
 | # | Character | Span | Fate |
 |---|-----------|------|------|
@@ -36,7 +40,9 @@
 | 3 | **Jaques Peugeot** | Jan 1627 – Feb 1627 | Arrived vowing "to shake up the city, or die trying." Managed the latter in one month, leaping into the burning harbor of Saint-Hélier. *"Couldn't stick the landing."* |
 | 4 | **Jean Renault** | Feb 1627 – end | Survived. Cuirassier who declined a joust with panache and looted the cross of Lancelot du Lac; Lieutenant-Colonel; out-generaled his own superiors on the Creuse and inherited his dead squadron's 1,700-crown tontine. Spoke the war's last line: *"Party at the horse guards for those who survived!"* |
 
-## Abelard Soucy — *seven characters, the table record*
+## DancingHorse — *seven characters, the table record*
+
+*(appears in the export as “Abelard Soucy,” the name of her final character)*
 
 | # | Character | Span | Fate |
 |---|-----------|------|------|
@@ -48,7 +54,9 @@
 | 6 | **Anton Dechets** | Mar 1628 – May 1628 | "An absolute trash person"; rejected by the Gascon Regiment itself, an officer within thirty days anyway. Chest-shot by a booby-trapped smugglers' cannon. *"Even in death a holy man."* |
 | 7 | **Abelard Soucy** | May 1628 – end | Survived. Son of the Earl of Périgord; avid horseman; his army career "as anticlimactic as his time in Paris" — which, in this family, constitutes a miracle. |
 
-## Blastagarded
+## WillWorker
+
+*(appears in the export as “Blastagarded”)*
 
 | # | Character | Span | Fate |
 |---|-----------|------|------|
@@ -84,7 +92,9 @@
 |---|-----------|------|------|
 | 1 | **Alphonse Devereux** | Mar 1624 – Feb 1626 | STR 16, CON 5; rode the elephant Hannibal through Curtis's pie display and into legend; Colonel of the Royal Marines. Went to the winter war without his Marines and "elected to go out in a blaze of glory" — a musketball between the eyes. (No stone survives; the player left Paris with him.) |
 
-## Joseph Bousain
+## sirsfurther
+
+*(appears in the export as “Joseph Bousain,” the name of his final character)*
 
 | # | Character | Span | Fate |
 |---|-----------|------|------|

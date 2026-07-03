@@ -34,15 +34,15 @@ The enemy this spring was not across the Channel but in the very heartland — E
 
 **Marius Thibodeaux** — "Hell, why not. Let's make it a party- Picardy Musketeers as well!" *(🎊)*
 
-**Hercule Bonaparte** — "Hopefully @Abelard Soucy and @Joseph Bousain are recovered from their injuries by the time we get to the front."
+**Hercule Bonaparte** — "Hopefully @DancingHorse and @sirsfurther are recovered from their injuries by the time we get to the front."
 
 **Marius Thibodeaux** — "What they need is some battlefield camaraderie to heal those wounded hearts." *(❤️‍🩹)*
 
 **Robert d'Engaux** — "'It was only a scratch' wheezes Robert"
 
-**Marius Thibodeaux** — "I've never steered anyone under my command wrong, you'll be just fine under my wing, @Joseph Bousain! cough-"
+**Marius Thibodeaux** — "I've never steered anyone under my command wrong, you'll be just fine under my wing, @sirsfurther! cough-"
 
-**Hercule Bonaparte** — "I believe that should be directed at @Abelard Soucy.  @Joseph Bousain is a Dragoon of exceptional promise."
+**Hercule Bonaparte** — "I believe that should be directed at @DancingHorse.  @sirsfurther is a Dragoon of exceptional promise."
 
 **Pépin Bonheur** — "I am prepared to do my duty" *(🧨)*
 
@@ -53,17 +53,17 @@ The enemy this spring was not across the Channel but in the very heartland — E
 *The Narrator read the final roster:*
 
 **Narrator** — "Deploying:
--@Blastagarded's Dragoon Brigade, including @Joseph Bousain in Princess Louisa's Light Dragoons
--@Ghôst Touchard's 1st Brigade of Foot, including @Abelard Soucy in the Picardy Musketeers
+-@WillWorker's Dragoon Brigade, including @sirsfurther in Princess Louisa's Light Dragoons
+-@etirflita's 1st Brigade of Foot, including @DancingHorse in the Picardy Musketeers
 -@Curtis Sinnoch's Royal Foot Guards, including @Jules Lavelle
--@Jean Renault's Crown Prince Cuirassiers, 3rd Squadron
+-@ArcticFox's Crown Prince Cuirassiers, 3rd Squadron
 -@laiv.wire's 53rd Fusiliers, 3rd Battalion (acting)
 
 And assorted other squadrons/battalions."
 
 *In character terms: Bg. Gen. **Hercule Bonaparte** led the Dragoon Brigade, with **Robert d'Engaux** commanding the 1st Squadron of Princess Louisa's Light Dragoons under Col. Martin Breguet; Bvt. Bg. Gen. **Marius Thibodeaux** led the 1st Brigade of Foot — the remnant Royal Marines and the Picardy Musketeers of Col. Sylvestre Côté, with **Pépin Bonheur** in the ranks; Col. **Curtis Sinnoch** led the Royal Foot Guards, with **Jules Lavelle** at the head of the 1st Battalion; Maj. **Jean Renault** rode with the Crown Prince Cuirassiers' 3rd Squadron; and Cpt. **Henri Toulouse** held acting command of the 53rd Fusiliers' 3rd Battalion.*
 
-**Narrator** — "The top commanding officers on the field, @Blastagarded, @Ghôst Touchard, @Curtis Sinnoch, @Jean Renault, and @laiv.wire must array their forces, give their orders, and roll."
+**Narrator** — "The top commanding officers on the field, @WillWorker, @etirflita, @Curtis Sinnoch, @ArcticFox, and @laiv.wire must array their forces, give their orders, and roll."
 
 ---
 
@@ -87,7 +87,7 @@ And assorted other squadrons/battalions."
 
 **Jean Renault** — "The Crown Prince Cuirassiers will use their superior speed and agility to harass the enemies as they find them."
 
-**Narrator** — "@Jean Renault, you only command the 3rd Squadron. Roll when ready."
+**Narrator** — "@ArcticFox, you only command the 3rd Squadron. Roll when ready."
 
 > 🎲 Jean Renault rolls 1d6 — **2**
 
@@ -115,7 +115,7 @@ And assorted other squadrons/battalions."
 
 **Narrator** — "His horses balk, carrying their roaring riders out of the battle. The result is Inconclusive (BR 4)."
 
-**Narrator** — "@Joseph Bousain, you may try to save the day for your 1st Squadron. Give your orders and roll 1d6"
+**Narrator** — "@sirsfurther, you may try to save the day for your 1st Squadron. Give your orders and roll 1d6"
 
 *While the town burned, its burner watched:*
 
@@ -125,7 +125,7 @@ And assorted other squadrons/battalions."
 
 > 🎲 Robert d'Engaux rolls 1d6 — **6** *(👏)*
 
-**Narrator** — "@Joseph Bousain, the merchant is the wealthiest man in town. So wealthy, in fact, that he has hired his own guards to protect against the rowdy and corrupt traitor army gathering in his town. The well-trained mercenaries open fire on your men at perfect range. The numbers are on your side, but your men came unprepared for battle, and are cut down in droves before they overcome the mercenaries in bloody hand-to-hand combat. Is loot worth this cost? Your result is Pyrrhic victory (BR 3)." *(😢)*
+**Narrator** — "@sirsfurther, the merchant is the wealthiest man in town. So wealthy, in fact, that he has hired his own guards to protect against the rowdy and corrupt traitor army gathering in his town. The well-trained mercenaries open fire on your men at perfect range. The numbers are on your side, but your men came unprepared for battle, and are cut down in droves before they overcome the mercenaries in bloody hand-to-hand combat. Is loot worth this cost? Your result is Pyrrhic victory (BR 3)." *(😢)*
 
 **Robert d'Engaux** — "Less to share with"
 
@@ -151,7 +151,7 @@ And assorted other squadrons/battalions."
 
 ### Pépin Bonheur — the twirling two-by-four
 
-**Narrator** — "@Abelard Soucy, your rolls are Death 9, Mention 7, Promotion 8, Crowns 4"
+**Narrator** — "@DancingHorse, your rolls are Death 9, Mention 7, Promotion 8, Crowns 4"
 
 **Pépin Bonheur** — "No modifiers for me: death"
 
@@ -185,7 +185,7 @@ And assorted other squadrons/battalions."
 
 ### Marius Thibodeaux — a general at last
 
-**Narrator** — "@Ghôst Touchard, your rolls are Death 13, Mention 11, Promotion 7. No chance for loot."
+**Narrator** — "@etirflita, your rolls are Death 13, Mention 11, Promotion 7. No chance for loot."
 
 **Marius Thibodeaux** — "Knowing my luck, I will just do a straight roll"
 
@@ -208,7 +208,7 @@ And assorted other squadrons/battalions."
 
 ### Jean Renault — mentioned instead of promoted
 
-**Narrator** — "@Jean Renault, your rolls are Death 11, Mention 8, Promotion 6. No chance for loot."
+**Narrator** — "@ArcticFox, your rolls are Death 11, Mention 8, Promotion 6. No chance for loot."
 
 > 🎲 Jean Renault rolls 2d6 — **3** (Death target 11: survives)
 
@@ -219,7 +219,7 @@ And assorted other squadrons/battalions."
 
 **Jean Renault** — "Promoted?"
 
-**Narrator** — "@Jean Renault, no promotion is available. The rest of the regiment didn't go on campaign, and so have no risk of death to open slots for you. You are Mentioned in Despatches instead. Please roll 1d6"
+**Narrator** — "@ArcticFox, no promotion is available. The rest of the regiment didn't go on campaign, and so have no risk of death to open slots for you. You are Mentioned in Despatches instead. Please roll 1d6"
 
 > 🎲 Jean Renault rolls 1d6 — **6**
 
@@ -229,7 +229,7 @@ And assorted other squadrons/battalions."
 
 *First, the crown's gratitude:*
 
-**Narrator** — "@Blastagarded, for your impressive battle result while commanding a Brigade, you have earned a chance at a new title." *(😯)* · "Hercule, your last title check was a failure, so you need only a 2."
+**Narrator** — "@WillWorker, for your impressive battle result while commanding a Brigade, you have earned a chance at a new title." *(😯)* · "Hercule, your last title check was a failure, so you need only a 2."
 
 > 🎲 Hercule Bonaparte rolls 1d6 — **1** *(😅×3, plank ×3, 🎺×2)*
 
@@ -239,13 +239,13 @@ And assorted other squadrons/battalions."
 
 *Then the dice:*
 
-**Narrator** — "@Blastagarded, your rolls are Death 12, Mention 7, Promotion 6, Crowns 0 (automatic success)"
+**Narrator** — "@WillWorker, your rolls are Death 12, Mention 7, Promotion 6, Crowns 0 (automatic success)"
 
 **Hercule Bonaparte** — "Reckless Bravery 1"
 
 > 🎲 Hercule Bonaparte rolls 2d6 Death(11) — **(6+6) = 12** *(😱×2, grim ×2)*
 
-**Blastagarded** — "HA!" · "No Bothwells for you!"
+**WillWorker** — "HA!" · "No Bothwells for you!"
 
 **Narrator** — "As Hercule watches the fires burn, the glint in his eyes seems otherworldly. The burning horses running back towards him do nothing to stir the man with ice in his veins. Alongside the fleeing Light Dragoons, one strange rider goes unnoticed, tearing out of the flames. Hercule spots something strange about the man, and raises his sword. The hooded Duke of Soubise draws a pistol and fires a ball straight into the Brigadier-General's chest. Hercule falls from his horse without a sound, and the Duke flees into the night. The creeping flames overtake the noble Knight, and nothing remains but a dream of ambition." *(grim ×2, 🧐, plank)*
 
@@ -275,7 +275,7 @@ And assorted other squadrons/battalions."
 
 ### Robert d'Engaux — a brevet and a suspicious painting
 
-**Narrator** — "@Joseph Bousain, your rolls are Death 9, Mention 6, Promotion 6, Loot 4"
+**Narrator** — "@sirsfurther, your rolls are Death 9, Mention 6, Promotion 6, Loot 4"
 
 **Robert d'Engaux** — "I use reckless bravery 1"
 
@@ -333,15 +333,15 @@ Henri focuses on paperwork, after-action reports and death notices. He remains s
 
 *Between 6:09 and 6:17 that evening, the Narrator posted three headstones to the cemetery channel, one after another — Pépin Bonheur (☁️×2), Hercule Bonaparte (💍×2), Henri Toulouse (🥷×2). Three player characters dead in a single victorious afternoon; no campaign of the war had cost more. Back in Paris, the survivors organized the wakes:*
 
-**Robert d'Engaux** — "Upon his return from campaign, Robert writes to @Jean Renault and @laiv.wire to invite them to toady at Red Phillips on the 1st week of the next month"
+**Robert d'Engaux** — "Upon his return from campaign, Robert writes to @ArcticFox and @laiv.wire to invite them to toady at Red Phillips on the 1st week of the next month"
 
-**Jean Renault** — "I will happily celebrate with you then! However in turn, the second week, the officers of the horse will be toasting to those who fell on the second week! Would you, @Joseph Bousain , @Ghôst Touchard @Jules Lavelle, @laiv.wire, or anyone else want to join us in the celebration of life? We will curse the traitorous Duke's name!" *(🥂)*
+**Jean Renault** — "I will happily celebrate with you then! However in turn, the second week, the officers of the horse will be toasting to those who fell on the second week! Would you, @sirsfurther , @etirflita @Jules Lavelle, @laiv.wire, or anyone else want to join us in the celebration of life? We will curse the traitorous Duke's name!" *(🥂)*
 
 **Jules Lavelle** — "Thank you, but I do believe Hunter's will be more than enough for me."
 
 **Marius Thibodeaux** — "Empty Chairs at Empty Tables starts playing in Marius' head"
 
-**Curtis Sinnoch** — "It is with great sorrow I shall drink to the memory of good @Blastagarded - thought we had not always seen eye to eye, we both came through the rank's of the Kings Footmen and I shall fondly remember his acts for the glory of France.  I care not for standard social graces - @everyone who fought in that damned skirmish, I will be happy to host at Bothwell's at the end of the month, and I'll foot the bill.  Tis the only fitting way to pay our respects for a fallen Brigadier-General." · "Indeed!  Though Hercule may have been the first, he will certainly not be the last"
+**Curtis Sinnoch** — "It is with great sorrow I shall drink to the memory of good @WillWorker - thought we had not always seen eye to eye, we both came through the rank's of the Kings Footmen and I shall fondly remember his acts for the glory of France.  I care not for standard social graces - @everyone who fought in that damned skirmish, I will be happy to host at Bothwell's at the end of the month, and I'll foot the bill.  Tis the only fitting way to pay our respects for a fallen Brigadier-General." · "Indeed!  Though Hercule may have been the first, he will certainly not be the last"
 
 **Jules Lavelle** — "When he receives the news about Bg. Gen. Bonaparte, Jules Lavelle appears visibily deflated."
 
@@ -349,17 +349,17 @@ Henri focuses on paperwork, after-action reports and death notices. He remains s
 
 ## Table talk
 
-**Joseph Bousain** — "What happens if I don't pay back my debt?" · **Ghôst Touchard** — "If you die, you're golden. Debt free" *(👼)* · **Jean Renault** — "Use one credit card to pay the others!"
+**sirsfurther** — "What happens if I don't pay back my debt?" · **etirflita** — "If you die, you're golden. Debt free" *(👼)* · **ArcticFox** — "Use one credit card to pay the others!"
 
-**Jean Renault** — "Be EXTRA Brave" · **Ghôst Touchard** — "RECKLESSLY so" · "It's Spring forward, Fall back, right? Charge!" *(an hour later, Reckless Bravery 1 had killed Hercule)*
+**ArcticFox** — "Be EXTRA Brave" · **etirflita** — "RECKLESSLY so" · "It's Spring forward, Fall back, right? Charge!" *(an hour later, Reckless Bravery 1 had killed Hercule)*
 
-**Joseph Bousain** — "I was hoping to rifle through @Abelard Soucy 's wallet, but he chickened out" · **Abelard Soucy** — "I have a family!! Younger brothers and all that" · **Ghôst Touchard** — "*had..." · "Sorry- I'm trying to keep us safe! haha"
+**sirsfurther** — "I was hoping to rifle through @DancingHorse 's wallet, but he chickened out" · **DancingHorse** — "I have a family!! Younger brothers and all that" · **etirflita** — "*had..." · "Sorry- I'm trying to keep us safe! haha"
 
-**Blastagarded** — "What a run." · "Fire is a fickle mistress.  Hopefully next character I'm not hamstrung with 30 Endurance.  Have yet to actually duel." *(😭×2)* · "Sept of 1624 was when he was rolled" *(😖×2)* · "But I shall defer rolling it for a while and use the grief of the loss as an excuse to drink."
+**WillWorker** — "What a run." · "Fire is a fickle mistress.  Hopefully next character I'm not hamstrung with 30 Endurance.  Have yet to actually duel." *(😭×2)* · "Sept of 1624 was when he was rolled" *(😖×2)* · "But I shall defer rolling it for a while and use the grief of the loss as an excuse to drink."
 
-**Jules Lavelle** — "NORMALLY I would be more offended but considering you just lost the best character in the game, I'll let you lash out" · **Abelard Soucy** — "Seriously though, Hercule was the BEST character so far. He did the most intense social climbing." · **Curtis Sinnoch** — "I would argue, but it was lonely at the top, starting at SL11"
+**Jules Lavelle** — "NORMALLY I would be more offended but considering you just lost the best character in the game, I'll let you lash out" · **DancingHorse** — "Seriously though, Hercule was the BEST character so far. He did the most intense social climbing." · **Curtis Sinnoch** — "I would argue, but it was lonely at the top, starting at SL11"
 
-**Ghôst Touchard** — "Like 'if I roll 2d6 and get a high number I will survive?' No. You are dead, time to make a new character" *(grim)* · **Blastagarded** — "It teaches valuable lessons, such as \"3% happens\"."
+**etirflita** — "Like 'if I roll 2d6 and get a high number I will survive?' No. You are dead, time to make a new character" *(grim)* · **WillWorker** — "It teaches valuable lessons, such as \"3% happens\"."
 
 **Narrator** — "@gentlemen We are down to 7 active players, which is on the low side for interesting/dynamic play. Please think of any friends you may know who might be interested in playing and consider inviting them to check the server out." *(the three graves cost the table dearly, too — laiv.wire and harry went inactive that same evening)*
 

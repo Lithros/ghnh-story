@@ -264,19 +264,19 @@ I understand that we both covet a Majority in this Regiment, but I take great pr
 
 **Jules Lavelle** (the GM, scheduling his own character's beating) — "okay, we're doing this duel, but I won't have time until tonight"
 
-**Blastagarded** — "I'll take 'Situations I would not have anticipated when I was providing harry financial incentive to kill Jules Lavelle' for $400, Alex." — **Jules Lavelle**: "glad he isn't going to try to MURDER me" — **Ghôst Touchard**: "The day is young!" — **Curtis Sinnoch**: "Its just a disagreement this time, not young love!"
+**WillWorker** — "I'll take 'Situations I would not have anticipated when I was providing harry financial incentive to kill Jules Lavelle' for $400, Alex." — **Jules Lavelle**: "glad he isn't going to try to MURDER me" — **etirflita**: "The day is young!" — **Curtis Sinnoch**: "Its just a disagreement this time, not young love!"
 
-**Abelard Soucy** (as the pedigreed slammed the door on Hercule) — "Ouch, pedigree over talent..." — and later: "Blastagarded we need a cane flourishing gif, stat."
+**DancingHorse** (as the pedigreed slammed the door on Hercule) — "Ouch, pedigree over talent..." — and later: "WillWorker we need a cane flourishing gif, stat."
 
-**harry** (on the challenge being posted) — "wooo, let's see some fluids!" — followed by four days of waiting: **Blastagarded**: "#WhenWillThereBeBlood" "#StillWeekOne" — **Curtis Sinnoch**: "#I'veGotMyActionsReady" — **Jules Lavelle**: "#IDon't"
+**harry** (on the challenge being posted) — "wooo, let's see some fluids!" — followed by four days of waiting: **WillWorker**: "#WhenWillThereBeBlood" "#StillWeekOne" — **Curtis Sinnoch**: "#I'veGotMyActionsReady" — **Jules Lavelle**: "#IDon't"
 
-**Jean Renault** (arriving too late) — "Man, 17th century france sucks. I cant livestream the noble duel" — "I missed it, what was the cause of the duel even?"
+**ArcticFox** (arriving too late) — "Man, 17th century france sucks. I cant livestream the noble duel" — "I missed it, what was the cause of the duel even?"
 
 **Jules Lavelle** (litigating the provocation, post-defeat) — "yes, he said 'Hercule has a higher MA than Curtis, even though Curtis's is pretty high. So Hercule is a better choice'" — "the NERVE" — **Curtis Sinnoch**: "Nooooo, you said 'I know leadership when I see it and this Knight is obviously better then Curtis'" — **Jules Lavelle**: "see if your adjutant ever gives YOU good advice!"
 
 **Narrator** (a confession, hours after the commission was awarded) — "I missed one of Curtis's messages about using influence, so there shouldn't actually have been a tie"
 
-**Blastagarded** (surveying his new command) — "I am beginning to fear my success is going to get me killed."
+**WillWorker** (surveying his new command) — "I am beginning to fear my success is going to get me killed."
 
 ---
 

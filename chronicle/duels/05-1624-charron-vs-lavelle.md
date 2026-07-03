@@ -374,9 +374,9 @@ The fifth duel of the game, and the most elaborately staged: the insulted noblem
 
 *The next day, out of character, Hercule Bonaparte's player announced a status ding to Social Level 6 — and then explained where the momentum was coming from. The dinner-party duel had been a purchased hit all along:*
 
-**Blastagarded** — "OC: It helps when the man you paid to have beat/killed over a minor slight invites you to dinner."
+**WillWorker** — "OC: It helps when the man you paid to have beat/killed over a minor slight invites you to dinner."
 
-**Blastagarded** (to the Narrator, whose character had just been thrice skewered) — "OC: Clemens let you off. I had offered him another 50 Crowns to simply throw a dagger at you on the 50/50 he would do 90 to 120 damage."
+**WillWorker** (to the Narrator, whose character had just been thrice skewered) — "OC: Clemens let you off. I had offered him another 50 Crowns to simply throw a dagger at you on the 50/50 he would do 90 to 120 damage."
 
 **Jules Lavelle** — "what a good guy...."
 
@@ -390,17 +390,17 @@ The fifth duel of the game, and the most elaborately staged: the insulted noblem
 
 ## Table talk
 
-**Ghôst Touchard** (as Hercule's 15-crown "business matter" landed in the street channel) — "Does this count as companionship?"
+**etirflita** (as Hercule's 15-crown "business matter" landed in the street channel) — "Does this count as companionship?"
 
-**Blastagarded** (as the lions-and-fawns quarrel boiled over) — answered the street scene with a link to the Simpsons clip "Them's Fightin' Words"
+**WillWorker** (as the lions-and-fawns quarrel boiled over) — answered the street scene with a link to the Simpsons clip "Them's Fightin' Words"
 
 **Curtis Sinnoch** (in the duel channel, on the choice of sabres) — "Was hoping for a two-handed throw early on"
 
-**Ghôst Touchard** (as Clemens compared his host's estate vintage to "the long-aged liquors we would make at home as children") — "(terlet wine)"
+**etirflita** (as Clemens compared his host's estate vintage to "the long-aged liquors we would make at home as children") — "(terlet wine)"
 
-**harry** — "@Jules Lavelle what is your SL anyway" — **Ghôst Touchard**: "Almost was 0" — **Jules Lavelle**: "9"
+**harry** — "@Jules Lavelle what is your SL anyway" — **etirflita**: "Almost was 0" — **Jules Lavelle**: "9"
 
-**Blastagarded** — "@Narrator Up to SL6" — **Jules Lavelle**: "what a machine"
+**WillWorker** — "@Narrator Up to SL6" — **Jules Lavelle**: "what a machine"
 
 ---
 

@@ -36,7 +36,7 @@ Nantes had fallen in the spring; the Huguenots now held the whole Atlantic seabo
 
 **Narrator** — "Despite his poor showing last summer, the Field Marshal has placed the Field Army under the command of General Gilles Barbier once more."
 
-**Curtis Sinnoch** — "@Jean Renault this is for Fame, Fortune, and the glory of Paris!"
+**Curtis Sinnoch** — "@ArcticFox this is for Fame, Fortune, and the glory of Paris!"
 
 **Henri Toulouse** — "It's for your maman."
 
@@ -306,7 +306,7 @@ Under Barbier stood the whole Field Army: the 1st Division (Lt. General Pierre-P
 
 **Narrator** — "The Colonel of the Royal Foot Guards roars, 'FOR FRANCE!' and thrusts his rapier through Pierre's eye."
 
-**Abelard Soucy** — "well, he wasn't entirely wrong"
+**DancingHorse** — "well, he wasn't entirely wrong"
 
 *Clemens Charron of the mauled 13th Fusiliers rolled late that night (Death 8, Mention 10, Promotion 6, Crowns 11):*
 
@@ -395,31 +395,31 @@ Picardy Musketeers 1st Battalion commander
 
 **Curtis Sinnoch** — "Ah Pierre, gone too soon!  You were a rising star, and I had hoped to help elevate you to greatness!"
 
-*The same night his character died, Abelard Soucy was already rolling dice in the chargen channel: "Coming soon to Paris, the second son of a Knight, the very wealthy Amand Baschet." The name would land like a rapier-thrust of its own — for the army stayed in the field into the autumn, and in September a letter caught up with Jean Rochant:*
+*The same night his character died, DancingHorse was already rolling dice in the chargen channel: "Coming soon to Paris, the second son of a Knight, the very wealthy Amand Baschet." The name would land like a rapier-thrust of its own — for the army stayed in the field into the autumn, and in September a letter caught up with Jean Rochant:*
 
 **Jean Rochant** — "receives a letter from Mlle Blaise informing him that she could no longer stand waiting, after four long months of being unable to see him due to military service. She mentioned in passing being enamored with a new suitor, a Mr. Armand Baschet. It was a name that seemed to ring a distant bell, but now was one committed to memory."
 
-**Lucien Vaillancourt** — "@Ghôst Touchard receives a letter from the bawdyhouse informing him that after four long months, his spot on the wall of 'customer of the year' has been replaced by another John. Also they seem to have fewer crabs (perhaps due to his absence.)"
+**Lucien Vaillancourt** — "@etirflita receives a letter from the bawdyhouse informing him that after four long months, his spot on the wall of 'customer of the year' has been replaced by another John. Also they seem to have fewer crabs (perhaps due to his absence.)"
 
 ---
 
 ## Table talk
 
-**Ghôst Touchard** — "Hey, @Dice Golem.. you know how you always roll the exact number I need to die on campaign? Can we.. not do that this season?" *(rolls a 9)* · **Curtis Sinnoch** — "thats a death" · **Ghôst Touchard** — "Getting it out of the way now" · **Blastagarded** — "Quit taunting dice golem before you doom us all!"
+**etirflita** — "Hey, @Dice Golem.. you know how you always roll the exact number I need to die on campaign? Can we.. not do that this season?" *(rolls a 9)* · **Curtis Sinnoch** — "thats a death" · **etirflita** — "Getting it out of the way now" · **WillWorker** — "Quit taunting dice golem before you doom us all!"
 
-**Ghôst Touchard** — "Did you start mocking up everyone's tombstones for this campaign? I feel like we're going to be spamming #cemetery" · **Jean Renault** — "PLANKS FOR EVERYONE!"
+**etirflita** — "Did you start mocking up everyone's tombstones for this campaign? I feel like we're going to be spamming #cemetery" · **ArcticFox** — "PLANKS FOR EVERYONE!"
 
 **Jules Lavelle (GM)** — "this is a super low fatality group. you guys don't seem to want to murder each other much"
 
-**Blastagarded** *(mid-battle)* — "Well this is a massive cluster fuck...."
+**WillWorker** *(mid-battle)* — "Well this is a massive cluster fuck...."
 
-**Ghôst Touchard** — "How did the campaign go? Inconclusive"
+**etirflita** — "How did the campaign go? Inconclusive"
 
-**Jules Lavelle (GM)** — "god what a bloodbath" · **Jean Renault** — "So many dead … AND FOR WHAT? … FOR FRANCE!"
+**Jules Lavelle (GM)** — "god what a bloodbath" · **ArcticFox** — "So many dead … AND FOR WHAT? … FOR FRANCE!"
 
-**Abelard Soucy** — "Well, serves me right for getting in a fight with my own arm … army"
+**DancingHorse** — "Well, serves me right for getting in a fight with my own arm … army"
 
-**Ghôst Touchard** — "90% survival rate isn't too shabby for our ragtag bunch of frenchmen! (sorry, @Abelard Soucy)" · **Blastagarded** — "We were fortunate that a lot of the death rolls were 10+" · **Ghôst Touchard** — "Yeah, and Pain rolled between a 2 and a 6 lol"
+**etirflita** — "90% survival rate isn't too shabby for our ragtag bunch of frenchmen! (sorry, @DancingHorse)" · **WillWorker** — "We were fortunate that a lot of the death rolls were 10+" · **etirflita** — "Yeah, and Pain rolled between a 2 and a 6 lol"
 
 ---
 

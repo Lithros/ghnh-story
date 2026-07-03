@@ -16,7 +16,7 @@ Two years after the Frontier Regiments stormed its fortress, Île de Ré was aga
 
 *In the OOC channel that same night, the mood was set in one line:*
 
-**Ghôst Touchard** — "We're going to make the English go down so hard!"
+**etirflita** — "We're going to make the English go down so hard!"
 
 ---
 
@@ -31,7 +31,7 @@ Two years after the Frontier Regiments stormed its fortress, Île de Ré was aga
 *The NPC commanders, introduced in the Narrator's own words as the battle unfolded:*
 
 - **Gen. Serge Vaganay** — army commander, "regarded as the most dynamic and brilliant military mind ever to lead a French army in battle."
-- **Lt. Gen. Bernard Lefebvre** — 1st Division (reserve), "a distant cousin of @Blastagarded [Private Sébastien Lefebvre], has earned great respect for his sober, direct leadership and absolute refusal to surrender."
+- **Lt. Gen. Bernard Lefebvre** — 1st Division (reserve), "a distant cousin of @WillWorker [Private Sébastien Lefebvre], has earned great respect for his sober, direct leadership and absolute refusal to surrender."
 - **Bg. Gen. Frank Bouchard** — Guards Brigade.
 - **Lt. Gen. Jérémie De Michele** — Cavalry Division, "a young man of illustrious lineage."
 - **Bg. Gen. Denis Nee** — Horse Guards Brigade.
@@ -61,7 +61,7 @@ Two years after the Frontier Regiments stormed its fortress, Île de Ré was aga
 
 **Narrator** — "The orders are textbook. The battlefield is not. The cavalry finds itself terribly slowed by the marshy ground. Without their intelligence, the infantry are set upon from all sides as they advance, though at least they come expecting it. The result is Inconclusive (BR 4)."
 
-**Narrator** — "Lt. Gen. Bernard Lefebvre, a distant cousin of @Blastagarded, has earned great respect for his sober, direct leadership and absolute refusal to surrender. He deploys his infantry to cover the rear with great precision and care, setting up a defensive perimeter around the landing zone designed to be completely impenetrable to enemy spies and saboteurs."
+**Narrator** — "Lt. Gen. Bernard Lefebvre, a distant cousin of @WillWorker, has earned great respect for his sober, direct leadership and absolute refusal to surrender. He deploys his infantry to cover the rear with great precision and care, setting up a defensive perimeter around the landing zone designed to be completely impenetrable to enemy spies and saboteurs."
 
 > 🎲 Lt. Gen. Lefebvre: 1d6 — **5**
 
@@ -77,7 +77,7 @@ Two years after the Frontier Regiments stormed its fortress, Île de Ré was aga
 
 **Narrator** — "Col. @Curtis Sinnoch's Royal Foot Guards stand watch as the lower-ranking regiments clean up the mess from the civilian attack. He notices the sounds of the sea battle getting closer. Then, without further warning, an English galleon appears from behind a stony cliff, its decks aflame, bearing down directly on the landing site. Crazed English sailors, resigned to their fate, fire muskets from the rigging down into the assembled Guards. Col. Sinnoch, declare your orders and roll!"
 
-**Narrator** — "As the Guards Brigade deals with emergencies from behind the lines, the 1st Brigade of Foot under Bg. Gen. @Ghôst Touchard prepares to reinforce units in the field. Rather than wait for calls, the regimental commanders request to be set loose to maneuver, actively seeking out opportunities to reinforce, rather than risk being too late. Bg. Gen. Thibodeaux, declare your orders and roll!"
+**Narrator** — "As the Guards Brigade deals with emergencies from behind the lines, the 1st Brigade of Foot under Bg. Gen. @etirflita prepares to reinforce units in the field. Rather than wait for calls, the regimental commanders request to be set loose to maneuver, actively seeking out opportunities to reinforce, rather than risk being too late. Bg. Gen. Thibodeaux, declare your orders and roll!"
 
 **Bg. Gen. Marius Thibodeaux** — "The 1st Brigade of Foot will hold position awaiting calls for reinforcement in order to be deployed in a strategic manner. We will not split into guerrilla forces so a few commanders can gain glory at the expense of my men's lives."
 
@@ -109,7 +109,7 @@ Two years after the Frontier Regiments stormed its fortress, Île de Ré was aga
 
 **Narrator** — "The men and horse prove themselves disciplined, and the good order that characterizes the attack permeates the performance of the regiment. They make quick work of the starved, howling English. The result is Enemy driven from field (BR 2)."
 
-**Narrator** — "Maj. @Jean Renault of the Crown Prince Cuirassiers finds his squadron separated from the rest of the force by a single Troop of enemy cavalry. The crazed captain shouts something in his ugly Germanic tongue. He seems to be challenging Jean to, could it be, a joust? Jean, give your orders and roll."
+**Narrator** — "Maj. @ArcticFox of the Crown Prince Cuirassiers finds his squadron separated from the rest of the force by a single Troop of enemy cavalry. The crazed captain shouts something in his ugly Germanic tongue. He seems to be challenging Jean to, could it be, a joust? Jean, give your orders and roll."
 
 *Jean's answer would have to wait until the end of the battle — the table moved on to the Dragoons.*
 
@@ -119,7 +119,7 @@ Two years after the Frontier Regiments stormed its fortress, Île de Ré was aga
 
 **Narrator** — "The plan fails; the Dragoons are spotted before they can even get close to the siege zone. But Breguet's expertise in regimental command enables him to organize a fighting withdrawal that averts disaster for his men. The result is Inconclusive (BR 3)."
 
-**Narrator** — "With Col. Breguet running the brigade, it falls to Brevet Lt. Colonel @Joseph Bousain to lead Princess Louisa's Light Dragoons in battle. The alarm has been called, and hordes of enemy soldiers are pouring towards your embattled line. As Col. Breguet screams for you to disengage, your captains insist that these filthy English can be beaten, if only you can find the courage to stand and fight. Robert, give your orders and roll!"
+**Narrator** — "With Col. Breguet running the brigade, it falls to Brevet Lt. Colonel @sirsfurther to lead Princess Louisa's Light Dragoons in battle. The alarm has been called, and hordes of enemy soldiers are pouring towards your embattled line. As Col. Breguet screams for you to disengage, your captains insist that these filthy English can be beaten, if only you can find the courage to stand and fight. Robert, give your orders and roll!"
 
 **Robert d'Engaux** — "Men! These roast beef protestants are nothing to be afraid of! Let us show them the fiercesomeness of fighting Frenchman!"
 
@@ -133,7 +133,7 @@ Two years after the Frontier Regiments stormed its fortress, Île de Ré was aga
 
 > 🎲 Curtis Sinnoch: 1d6 — **4**
 
-**Narrator** — "@Joseph Bousain's orders are carried out perfectly, and his men even manage a full three volleys, sending the mad English reeling. Their charge, however, is met with surprising readiness by another fresh line behind the initial wave, who repel the dragoons in short order. The withdrawal continues as planned. The result is Inconclusive (BR 3)."
+**Narrator** — "@sirsfurther's orders are carried out perfectly, and his men even manage a full three volleys, sending the mad English reeling. Their charge, however, is met with surprising readiness by another fresh line behind the initial wave, who repel the dragoons in short order. The withdrawal continues as planned. The result is Inconclusive (BR 3)."
 
 **Narrator** — "@Curtis Sinnoch's Royal Foot Guard arrange themselves behind whatever cover the landing site offers. They return fire at the doomed English sailors, but before long, even the cannons of the flaming galleon begin to roar, scattering men and materiél across the shoreline. All seems lost until the disciplined volleys of the RFG land a lucky shot on the ship's pilot, who slumps against the wheel. The enemy vessel turns sharply, and instead of its inertia carrying it onto the beach, it falls onto its side in the shallows. English sailors are sent careening into the tide, the flames of their fury falling fruitlessly into the sea, to be shot dead by the Guard before they can rise again. The result is Enemy driven from field (BR 2)."
 
@@ -153,9 +153,9 @@ Two years after the Frontier Regiments stormed its fortress, Île de Ré was aga
 
 ### Marius Thibodeaux — knighted on the sand
 
-**Narrator** — "@Ghôst Touchard, gain +1 MA for outperforming your commander in this battle."
+**Narrator** — "@etirflita, gain +1 MA for outperforming your commander in this battle."
 
-**Narrator** — "@Ghôst Touchard, your rolls are Death 14, Mention 9, Promotion 8, Crowns 3"
+**Narrator** — "@etirflita, your rolls are Death 14, Mention 9, Promotion 8, Crowns 3"
 
 *Marius declared 1 reckless bravery.*
 
@@ -176,7 +176,7 @@ Two years after the Frontier Regiments stormed its fortress, Île de Ré was aga
 
 ### Robert d'Engaux — the rescue and the permanent rank
 
-**Narrator** — "@Joseph Bousain, your rolls are Death 11, Mention 12, Promotion 8, Crowns 8"
+**Narrator** — "@sirsfurther, your rolls are Death 11, Mention 12, Promotion 8, Crowns 8"
 
 **Robert d'Engaux** — "As Robert's troops withdraw, he notices that a small group of them have been cut off by the enemy soldiers. He signals to a few nearby horsemen to follow him and charges to their rescue" *(reckless bravery 1)*
 
@@ -221,7 +221,7 @@ Two years after the Frontier Regiments stormed its fortress, Île de Ré was aga
 
 **Narrator** — "Buckingham's field army has been shattered, but the siege camp maintains its defensive perimeter. With the sea battle being decided in favor of the French as well, it's only a matter of time before the English are driven from the island. Still, a portion of their forces remain strong and defensive, a siege within a siege."
 
-**Sir Marius Thibodeaux** — "Hopefully @Jean Renault is victorious against this remnant"
+**Sir Marius Thibodeaux** — "Hopefully @ArcticFox is victorious against this remnant"
 
 **Narrator** — "Knew I was forgetting someone" — "He won't be resolving until tomorrow"
 
@@ -298,21 +298,21 @@ Not one player character died on the Île de Ré — the first campaign in recen
 
 ## Table talk
 
-**Abelard Soucy** — "hmmmm, the campaign's been resolved and there's no new tombstones....?"
+**DancingHorse** — "hmmmm, the campaign's been resolved and there's no new tombstones....?"
 
-**Ghôst Touchard** — "Haha jinxed! @Jean Renault hasn't rolled" — "The death tax must be paid."
+**etirflita** — "Haha jinxed! @ArcticFox hasn't rolled" — "The death tax must be paid."
 
 **CitrusNotes** — "Dice Golem always needs a patsy. I'm sorry gentlemen, but the bad luck is looking for a new host"
 
-**Blastagarded** — "That's what happens when players are too attached to their characters to risk anything"
+**WillWorker** — "That's what happens when players are too attached to their characters to risk anything"
 
-**Ghôst Touchard** — "For not risking anything, I did pretty well  no promotion, but I survived, found loot, was mentioned, and was knighted"
+**etirflita** — "For not risking anything, I did pretty well  no promotion, but I survived, found loot, was mentioned, and was knighted"
 
-**Ghôst Touchard** — "Am I up to an MA of 8 now?!" · **Curtis Sinnoch** — "Welcome to the club!"
+**etirflita** — "Am I up to an MA of 8 now?!" · **Curtis Sinnoch** — "Welcome to the club!"
 
-**Jean Renault** *(on the cross of Lancelot du Lac)* — "Not selling that" — "That's a keepsake"
+**ArcticFox** *(on the cross of Lancelot du Lac)* — "Not selling that" — "That's a keepsake"
 
-**Joseph Bousain** — "Just noticed I have 3 enemies"
+**sirsfurther** — "Just noticed I have 3 enemies"
 
 ---
 

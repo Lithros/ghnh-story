@@ -26,15 +26,15 @@ Cardinal Richelieu himself has come to direct the siege efforts. With the bulk o
 
 **Narrator** — "Deploying to the field are:
 
-The 1st Brigade of Foot, under Bg. General @Ghôst Touchard [Sir Marius Thibodeaux];
+The 1st Brigade of Foot, under Bg. General @etirflita [Sir Marius Thibodeaux];
 
 The Royal Foot Guards, under Marquis-Colonel @Curtis Sinnoch, with Lt. Col. @Jules Lavelle commanding the 1st Battalion;
 
-Princess Louisa's Light Dragoons, under Lt. Col. @Joseph Bousain [Robert d'Engaux], with Cap. @Abelard Soucy [Primo Tremblay] leading F Troop;
+Princess Louisa's Light Dragoons, under Lt. Col. @sirsfurther [Robert d'Engaux], with Cap. @DancingHorse [Primo Tremblay] leading F Troop;
 
 Pvt. @CitrusNotes [Jerome Greybeck] serving in the Gascon Regiment's E Company;
 
-and Pvt. @Blastagarded [Sébastien Lefebvre] attached to a very confused Frontier Regiment."
+and Pvt. @WillWorker [Sébastien Lefebvre] attached to a very confused Frontier Regiment."
 
 *The NPC commanders, in the Narrator's own words:*
 
@@ -61,7 +61,7 @@ and Pvt. @Blastagarded [Sébastien Lefebvre] attached to a very confused Frontie
 
 ## The record
 
-**Narrator** — "As the ranking officer in the field, @Ghôst Touchard will detail the plan of deployment and roll."
+**Narrator** — "As the ranking officer in the field, @etirflita will detail the plan of deployment and roll."
 
 **Sir Marius Thibodeaux** — "The Royal Marines will be aiding in the siege effort to prevent the rejoining of the rebels and their leaders while the Picardy Musketeers will be systematically hunting the rebels in the nearby farmland."
 
@@ -141,7 +141,7 @@ and Pvt. @Blastagarded [Sébastien Lefebvre] attached to a very confused Frontie
 
 ### Sébastien Lefebvre — torn apart by grouse
 
-**Narrator** — "@Blastagarded, your rolls are Death 7, Mention 12, Promotion 8, Crowns 10"
+**Narrator** — "@WillWorker, your rolls are Death 7, Mention 12, Promotion 8, Crowns 10"
 
 **Sébastien Lefebvre** — "Unlike his compatriots, Sebastien knows how to hunt in a farmers field.  Keeping low to the ground and ears perked, he slowly moves towards the sound he's recognized since childhood, that of cooing grouse.  Avoiding disturbing the flock, he raises his rifle and thinks to himself, 'Tonight, I will eat well.'"
 
@@ -153,7 +153,7 @@ and Pvt. @Blastagarded [Sébastien Lefebvre] attached to a very confused Frontie
 
 ### Sir Marius Thibodeaux — the man who took Buckingham
 
-**Narrator** — "@Ghôst Touchard, your rolls are Death 14, Mention 9, Promotion 8, Crowns 3"
+**Narrator** — "@etirflita, your rolls are Death 14, Mention 9, Promotion 8, Crowns 3"
 
 **Sir Marius Thibodeaux** — "x2 bravery (and pray for anything but double sixes)"
 
@@ -164,7 +164,7 @@ and Pvt. @Blastagarded [Sébastien Lefebvre] attached to a very confused Frontie
 
 *From beyond the grave, the freshly dead Sébastien's player saluted the double-bravery declaration:*
 
-**Blastagarded** *(as the ghosts)* — "Somewhere in the back of his mind, Marius hears an approving chuckle from Hercule"
+**WillWorker** *(as the ghosts)* — "Somewhere in the back of his mind, Marius hears an approving chuckle from Hercule"
 
 > 🎲 Mention: 1d6 — **5** — **Narrator**: "+5 SP for 3 months, +1 thereafter"
 > 🎲 Loot: 2d6 — **8**
@@ -183,7 +183,7 @@ and Pvt. @Blastagarded [Sébastien Lefebvre] attached to a very confused Frontie
 
 ### Robert d'Engaux — never taken alive
 
-**Narrator** — "@Joseph Bousain, your rolls are Death 10, Mention 12, Promotion 7, Crowns 9"
+**Narrator** — "@sirsfurther, your rolls are Death 10, Mention 12, Promotion 7, Crowns 9"
 
 **Robert d'Engaux** — "Robert sees the enemy fleeing and cannot help but pursue them. Reckless bravery 1"
 
@@ -199,11 +199,11 @@ and Pvt. @Blastagarded [Sébastien Lefebvre] attached to a very confused Frontie
 
 **Narrator** — "@Curtis Sinnoch, your rolls are Death 15, Mention 10, Promotion 10, Crowns 5"
 
-**Blastagarded** *(as the ghosts)* — "Starts a ghost chant, '3 x Bravery! 3 x Bravery! 3 x Bravery!'"
+**WillWorker** *(as the ghosts)* — "Starts a ghost chant, '3 x Bravery! 3 x Bravery! 3 x Bravery!'"
 
 **Curtis Sinnoch** — "Bravery x2!"
 
-**Blastagarded** *(as the ghosts)* — "Ghostly booing"
+**WillWorker** *(as the ghosts)* — "Ghostly booing"
 
 > 🎲 "For Life!" 2d6 — **7**
 > 🎲 "For Mention!" 2d6 — **9**
@@ -221,11 +221,11 @@ and Pvt. @Blastagarded [Sébastien Lefebvre] attached to a very confused Frontie
 
 **Narrator** — "@Jules Lavelle, your rolls are Death 15, Mention 10, Promotion 10, Crowns 5"
 
-**Blastagarded** *(as the ghosts)* — "The Ghosts wait with baited breath"
+**WillWorker** *(as the ghosts)* — "The Ghosts wait with baited breath"
 
 **Jules Lavelle** — "We must put on a good show for the men. RB x2"
 
-**Blastagarded** *(as the ghosts)* — "Boo!  Hiss!"
+**WillWorker** *(as the ghosts)* — "Boo!  Hiss!"
 
 > 🎲 Death: 2d6 — **10**
 > 🎲 Mention: 2d6 — **8**
@@ -250,7 +250,7 @@ and Pvt. @Blastagarded [Sébastien Lefebvre] attached to a very confused Frontie
 
 *Four days later, the last man of the campaign faced his dice:*
 
-**Narrator** — "@Abelard Soucy, your rolls are Death 9, Mention 12, Promotion 7, Crowns 10"
+**Narrator** — "@DancingHorse, your rolls are Death 9, Mention 12, Promotion 7, Crowns 10"
 
 **Primo Tremblay** — "Primo has been less than brave this entire campaign, cowardly hiding in the rear of his troop or taking care of some hoof maladies on his steed. And for good reason! War is terrifying and he needs to survive to see his sisters well wedded."
 
@@ -271,7 +271,7 @@ and Pvt. @Blastagarded [Sébastien Lefebvre] attached to a very confused Frontie
 
 *The replacements were rolling in the chargen channel before the day was out. Robert's player introduced two arrivals:*
 
-**Joseph Bousain** — "Two Fresh arrivals in Paris: one a wealthy heiress from Normandy, Marie d'Rouen (SL:15)" — "The other, the bastard spawn of the Earl of Ambroise and a washerwoman, Louis Laveuse"
+**sirsfurther** — "Two Fresh arrivals in Paris: one a wealthy heiress from Normandy, Marie d'Rouen (SL:15)" — "The other, the bastard spawn of the Earl of Ambroise and a washerwoman, Louis Laveuse"
 
 *And the next day, in the streets en passant, Sébastien's player unveiled his own successor at the late Hercule Bonaparte's manor — one Jean Shawinigan, a stranded time traveler making the best of the seventeenth century:*
 
@@ -281,19 +281,19 @@ and Pvt. @Blastagarded [Sébastien Lefebvre] attached to a very confused Frontie
 
 ## Table talk
 
-**Ghôst Touchard** — "Remind me, the troops under my command are the Royal Marines and Picardy Musketeers?" · **Jules Lavelle** — "Correct" *(two minutes later he rolled the 6 that captured Buckingham)*
+**etirflita** — "Remind me, the troops under my command are the Royal Marines and Picardy Musketeers?" · **Jules Lavelle** — "Correct" *(two minutes later he rolled the 6 that captured Buckingham)*
 
 **Curtis Sinnoch** — "OOC: I've rolled a 12 before on death!  And someone needs to fix that Narrator - I am Marquis-Colonel!  Now I just need to become Commissar of Public Safety..."
 
-**Ghôst Touchard** — "How does promotion work?" *(asked by the serving Brigadier General, mid-reckoning)*
+**etirflita** — "How does promotion work?" *(asked by the serving Brigadier General, mid-reckoning)*
 
-**Jean Renault** — "The death rolls were all crazy high!"
+**ArcticFox** — "The death rolls were all crazy high!"
 
-**Joseph Bousain** — "Am I right in thinking I can only purchase up to major?" *(barely an hour after Robert refused to be taken alive, already pricing the next commission)*
+**sirsfurther** — "Am I right in thinking I can only purchase up to major?" *(barely an hour after Robert refused to be taken alive, already pricing the next commission)*
 
-**Jules Lavelle** *(GM, on new-character logistics)* — "You don't make a new mistress every time in this game, sorry for not explaining" · **Joseph Bousain** — "Marie d'Rouen quickly tires of the attractions of Paris and returns to her estate"
+**Jules Lavelle** *(GM, on new-character logistics)* — "You don't make a new mistress every time in this game, sorry for not explaining" · **sirsfurther** — "Marie d'Rouen quickly tires of the attractions of Paris and returns to her estate"
 
-**Blastagarded** — "I just had an, 'Oh shit! Orders are due today,' moment and thought I would share in case anyone else needed to have one." · **Jules Lavelle** — "Orders will be due Sunday. @Abelard Soucy is leaving us all high and dry" · **Blastagarded** — "The nerve!"
+**WillWorker** — "I just had an, 'Oh shit! Orders are due today,' moment and thought I would share in case anyone else needed to have one." · **Jules Lavelle** — "Orders will be due Sunday. @DancingHorse is leaving us all high and dry" · **WillWorker** — "The nerve!"
 
 ---
 

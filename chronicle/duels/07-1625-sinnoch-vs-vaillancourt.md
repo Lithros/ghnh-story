@@ -156,15 +156,15 @@ Mme. Brugière smiles. 'Some sport, then, messieurs?'"
 
 *The victor's contempt was, by the numbers, mercy — as both players immediately acknowledged out of character:*
 
-**Ghôst Touchard** — "(Just to note, I was down to 30 hp haha)"
+**etirflita** — "(Just to note, I was down to 30 hp haha)"
 
 **Curtis Sinnoch** — "(OOC - the next hit would have killed you!)"
 
-**Ghôst Touchard** — "(agreed!)" — "(I submitted all Blocks and a Rest with the intent to surrender)"
+**etirflita** — "(agreed!)" — "(I submitted all Blocks and a Rest with the intent to surrender)"
 
 **Curtis Sinnoch** — "(Gotta take those mandatory rests! Yeah... I realized the Cut was brutal)"
 
-**Ghôst Touchard** — "(The cut was half my total hp)"
+**etirflita** — "(The cut was half my total hp)"
 
 **The reckoning:** Lucien Vaillancourt — surrendered on Turn Seven with 90 of 120 endurance gone, 60 of it to a single cut that shattered his clavicle and showered the spectators with bone; no status forfeit, as he belonged to no regiment. Curtis Sinnoch — 48 endurance lost across three wounds, +1 base Expertise, and the field.
 
@@ -202,17 +202,17 @@ Adélaïde Blaise, alone in her apartments that night, receives a note that read
 
 ## Table talk
 
-**Ghôst Touchard** (asking the table who'd have the edge, the day before) — "Who has the advantage, (assuming it comes to blows)? Is it based on Expertise?" — **Narrator**: "You have the advantage. Curtis will have 2 extra mandatory Rests per sequence." — **Ghôst Touchard**: "He's been practicing"
+**etirflita** (asking the table who'd have the edge, the day before) — "Who has the advantage, (assuming it comes to blows)? Is it based on Expertise?" — **Narrator**: "You have the advantage. Curtis will have 2 extra mandatory Rests per sequence." — **etirflita**: "He's been practicing"
 
-**Curtis Sinnoch** (excusing a delay in submitting his orders) — "OOC: I'm finishing a Corporate Finance exam today - I'll try to get orders in tonight, or worst case, should be good tomorrow on the earlier side" — **Ghôst Touchard**: "OOC: good luck!"
+**Curtis Sinnoch** (excusing a delay in submitting his orders) — "OOC: I'm finishing a Corporate Finance exam today - I'll try to get orders in tonight, or worst case, should be good tomorrow on the earlier side" — **etirflita**: "OOC: good luck!"
 
-**Ghôst Touchard** (minutes before the duel began) — "Excited for the victor of the duel to roll a 1 on courting... wait, let me get that out of the way.." — */roll 1d6 #screwDG* — 🎲 **Lucien Vaillancourt rolled 1d6: (1) = 1** — **Jules Lavelle**: "holding you to that"
+**etirflita** (minutes before the duel began) — "Excited for the victor of the duel to roll a 1 on courting... wait, let me get that out of the way.." — */roll 1d6 #screwDG* — 🎲 **Lucien Vaillancourt rolled 1d6: (1) = 1** — **Jules Lavelle**: "holding you to that"
 
-**Blastagarded** (as Lucien surrendered) — "Welcome to Paris, beyotch!" — "Here's your beat down" — **Ghôst Touchard**: "haha *coughs up blood*"
+**WillWorker** (as Lucien surrendered) — "Welcome to Paris, beyotch!" — "Here's your beat down" — **etirflita**: "haha *coughs up blood*"
 
-**Ghôst Touchard** (counting his 30 remaining endurance) — "Glad I opted to visit the bawdyhouse this month"
+**etirflita** (counting his 30 remaining endurance) — "Glad I opted to visit the bawdyhouse this month"
 
-**Abelard Soucy** — "OOC: it seems Lucien may be your least successful character yet!" — **Ghôst Touchard**: "I'm sure through my bravery I will advance in rank...." — */roll 3d6 #but just out of curiosity..* — 🎲 **Lucien Vaillancourt rolled 3d6: (3+2+2) = 7** — **Ghôst Touchard**: "Lol"
+**DancingHorse** — "OOC: it seems Lucien may be your least successful character yet!" — **etirflita**: "I'm sure through my bravery I will advance in rank...." — */roll 3d6 #but just out of curiosity..* — 🎲 **Lucien Vaillancourt rolled 3d6: (3+2+2) = 7** — **etirflita**: "Lol"
 
 ---
 

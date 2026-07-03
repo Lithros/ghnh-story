@@ -204,21 +204,21 @@ The first duel of the game, fought in the first week of the first month, before 
 
 ## Table talk
 
-**Ghôst Touchard** — "(OC: I assume if I die week 1, I can roll a new character for next month, right? Haha)"
+**etirflita** — "(OC: I assume if I die week 1, I can roll a new character for next month, right? Haha)"
 
 **Jules Lavelle** — "yeppp definitely" ... "there's a reason naming your character is optional"
 
 **Jules Lavelle** — "also Godefroy lives in PST and has two kids so we may be waiting a bit for him. but that's the magic of this kind of game!" — to which **harry** replied: "god tell me about it"
 
-**laiv.wire** — "When did Godefroy produce a second heir?" **Jules Lavelle** — "2 months ago" **Ghôst Touchard** — "(Moi aussi! My youngest is like 11 weeks)"
+**laiv.wire** — "When did Godefroy produce a second heir?" **Jules Lavelle** — "2 months ago" **etirflita** — "(Moi aussi! My youngest is like 11 weeks)"
 
 **Jules Lavelle** — "DUEL! DUEL! DUEL!"
 
-**Abelard Soucy** — "The peanut gallery demands dramatizations of the duels" **Jules Lavelle** — "I promise there will be dramatic narration"
+**DancingHorse** — "The peanut gallery demands dramatizations of the duels" **Jules Lavelle** — "I promise there will be dramatic narration"
 
 **Jules Lavelle** — "it's just like high school; dating is a matter of life and death"
 
-**Ghôst Touchard** (moments after the duel ended, in the OOC channel) — "Well hell" ... "I may be nearly broke, but that was a blast"
+**etirflita** (moments after the duel ended, in the OOC channel) — "Well hell" ... "I may be nearly broke, but that was a blast"
 
 ---
 

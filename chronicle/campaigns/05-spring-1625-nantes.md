@@ -24,9 +24,9 @@ The winter had ended in humiliation at Blavet, and the spring began with the bil
 
 *The battalion volunteer rolls had gone out back in February. Among the units drawn for the front, two were no accident of the dice:*
 
-**Narrator** — "KM3 is the choice of @Curtis Sinnoch" · "CPC3 is the choice of @Blastagarded"
+**Narrator** — "KM3 is the choice of @Curtis Sinnoch" · "CPC3 is the choice of @WillWorker"
 
-**Narrator** — "@Curtis Sinnoch and @Blastagarded have volunteered on campaign."
+**Narrator** — "@Curtis Sinnoch and @WillWorker have volunteered on campaign."
 
 **Narrator** — "Each leads his battalion under the Frontier Regiment Colonel, who is Colonel Christian Solé this season."
 
@@ -53,7 +53,7 @@ Opposite them: the entire Huguenot field army, three men to every one of the Kin
 
 **Narrator** — "Unfortunately, the valorous part of the French Army is back in Paris. Mid-speech, Solé notices the Huguenots have begun their charge. He spurs his horse...away from the battlefield, leaving his adjutant to give orders."
 
-**Narrator** — "@Curtis Sinnoch and @Blastagarded, roll to determine your battle results as your positions are overrun by hordes of screaming Protestants."
+**Narrator** — "@Curtis Sinnoch and @WillWorker, roll to determine your battle results as your positions are overrun by hordes of screaming Protestants."
 
 ### The King's Musketeers hold the line
 
@@ -163,7 +163,7 @@ Opposite them: the entire Huguenot field army, three men to every one of the Kin
 
 **Narrator** — "Your SL is instantly raised to 10."
 
-**Blastagarded (player)** — "That's SIR Herule Bonaparte"
+**WillWorker (player)** — "That's SIR Herule Bonaparte"
 
 **Hercule Bonaparte** — "Hercule faces his knighthood with the same steel-eyed stone face he has become known for.  As the King presents the new knight to the Court, the exceptionally observant note a slight upward curl at the corners of his mouth"
 
@@ -187,7 +187,7 @@ No player character so much as bled at Nantes — the butcher's bill fell on the
 
 **Narrator** — "Field Operations for everybody!"
 
-**Jean Renault (player)** — "YAY!" — "WE ALL GET TO DIE!"
+**ArcticFox (player)** — "YAY!" — "WE ALL GET TO DIE!"
 
 ### Aftermath: Sir Bonaparte at Hunter's
 
@@ -201,19 +201,19 @@ No player character so much as bled at Nantes — the butcher's bill fell on the
 
 ## Table talk
 
-**Blastagarded** — "Was the knighthood roll for succeeding on Crowns?" · **Jules Lavelle (GM)** — "The knighthood roll was for getting a battle result 3 higher than your commander … You didn't succeed on crowns, you needed a 6 and got a 5" · **Blastagarded** — "Right.  I got confused. … Thought I had to roll under."
+**WillWorker** — "Was the knighthood roll for succeeding on Crowns?" · **Jules Lavelle (GM)** — "The knighthood roll was for getting a battle result 3 higher than your commander … You didn't succeed on crowns, you needed a 6 and got a 5" · **WillWorker** — "Right.  I got confused. … Thought I had to roll under."
 
-**Blastagarded** — "Mechanically, the knighthood makes me a noble now, right?" · **Jules Lavelle (GM)** — "Yep … For RP purposes higher nobles won't really consider you a noble until one more rank … But mechanically you are a noble" · **Blastagarded** — "Oh, I figure there is going to be some nouveau riche stuff going on.  But I figured the difference between being considered a commoner or nobility will be the difference between iodine or salt in the wound."
+**WillWorker** — "Mechanically, the knighthood makes me a noble now, right?" · **Jules Lavelle (GM)** — "Yep … For RP purposes higher nobles won't really consider you a noble until one more rank … But mechanically you are a noble" · **WillWorker** — "Oh, I figure there is going to be some nouveau riche stuff going on.  But I figured the difference between being considered a commoner or nobility will be the difference between iodine or salt in the wound."
 
-**Blastagarded** — "I guess this means I don't get to take advantage of the +10SP for being knighted...." · **Narrator** — "You'll get it the month you come back" · **Abelard Soucy** — "@Blastagarded you just need to live long enough!"
+**WillWorker** — "I guess this means I don't get to take advantage of the +10SP for being knighted...." · **Narrator** — "You'll get it the month you come back" · **DancingHorse** — "@WillWorker you just need to live long enough!"
 
-**Ghôst Touchard** *(on Pain Loafmann's pending sentence, right after the fall of Nantes)* — "So.. Pain doesn't start his sentence until next month, correct?" · **Narrator** — "Correct" · **Ghôst Touchard** — "Dodged that bullet"
+**etirflita** *(on Pain Loafmann's pending sentence, right after the fall of Nantes)* — "So.. Pain doesn't start his sentence until next month, correct?" · **Narrator** — "Correct" · **etirflita** — "Dodged that bullet"
 
-**Ghôst Touchard** *(on the summer muster)* — "Did you start mocking up everyone's tombstones for this campaign? I feel like we're going to be spamming #cemetery" · **Jean Renault** — "PLANKS FOR EVERYONE!" · **Ghôst Touchard** — "Planks for the memories!"
+**etirflita** *(on the summer muster)* — "Did you start mocking up everyone's tombstones for this campaign? I feel like we're going to be spamming #cemetery" · **ArcticFox** — "PLANKS FOR EVERYONE!" · **etirflita** — "Planks for the memories!"
 
-**Jules Lavelle (GM)** — "this is a super low fatality group. you guys don't seem to want to murder each other much" · **Ghôst Touchard** — "I went from 3 to 6, then 8, now 3 again. … It's quicker to die constantly and luck out with a good chargen roll"
+**Jules Lavelle (GM)** — "this is a super low fatality group. you guys don't seem to want to murder each other much" · **etirflita** — "I went from 3 to 6, then 8, now 3 again. … It's quicker to die constantly and luck out with a good chargen roll"
 
-**Curtis Sinnoch** — "I've been trying my darndest to level people up to my SL … and now with @Blastagarded up here, its not so lonely!" · **Blastagarded** — "The knighthood was an unexpected boost, but it has been quite the slog going from SL3 to SL10."
+**Curtis Sinnoch** — "I've been trying my darndest to level people up to my SL … and now with @WillWorker up here, its not so lonely!" · **WillWorker** — "The knighthood was an unexpected boost, but it has been quite the slog going from SL3 to SL10."
 
 ---
 

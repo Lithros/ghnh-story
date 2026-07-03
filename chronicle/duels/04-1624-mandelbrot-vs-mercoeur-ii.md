@@ -320,17 +320,17 @@ But no. It is none other than Jules Lavelle, clutching a gorgeous crystal neckla
 
 **laiv.wire** (the day after the challenge) — "The rematch of the century may have to wait. Moving today, so depending on timing, we may have to resolve another time."
 
-**laiv.wire** (duel morning) — "Alright, alright, alright. Pretty much squared away, I can throw down this gauntlet later today." — **Jules Lavelle**: "Don't throw your life away" — **Ghôst Touchard**: "Says the man on the front lines"
+**laiv.wire** (duel morning) — "Alright, alright, alright. Pretty much squared away, I can throw down this gauntlet later today." — **Jules Lavelle**: "Don't throw your life away" — **etirflita**: "Says the man on the front lines"
 
-**Jules Lavelle** — "my life isn't WORTH anything!" — **Jean Renault**: "Yay medieval nihilism!" — **laiv.wire**: "No, I do think he means quite literally on the societal value scale."
+**Jules Lavelle** — "my life isn't WORTH anything!" — **ArcticFox**: "Yay medieval nihilism!" — **laiv.wire**: "No, I do think he means quite literally on the societal value scale."
 
-**Jules Lavelle** (hours before Leon's courting roll) — "the winner of that duel is going to roll a 1. you know it, I know it, Dice Golem sure as hell knows it" — the winner rolled a 3, and **Jean Renault** confessed: "I was actually holding my breath for that roll"
+**Jules Lavelle** (hours before Leon's courting roll) — "the winner of that duel is going to roll a 1. you know it, I know it, Dice Golem sure as hell knows it" — the winner rolled a 3, and **ArcticFox** confessed: "I was actually holding my breath for that roll"
 
-**Ghôst Touchard** — "and yet, if anyone wants to put 10 crowns against it- I say someone ends up with her this month!" — **Abelard Soucy** (writing from the war): "If I make partake in a bet from the Front, I'll take you up on that. 10 crowns says the lady's standards are too high."
+**etirflita** — "and yet, if anyone wants to put 10 crowns against it- I say someone ends up with her this month!" — **DancingHorse** (writing from the war): "If I make partake in a bet from the Front, I'll take you up on that. 10 crowns says the lady's standards are too high."
 
-**Blastagarded** (eleven minutes after posting his 35-crown wager) — "When convenient could we get STR stats in the Men of Valor list?" ... "(he asked for absolutely no reason whatsoever)"
+**WillWorker** (eleven minutes after posting his 35-crown wager) — "When convenient could we get STR stats in the Men of Valor list?" ... "(he asked for absolutely no reason whatsoever)"
 
-**Jules Lavelle** (as Jean Renault bought the man who lost to him several drinks at Hunter's) — "that's the most baller move I've ever seen"
+**Jules Lavelle** (as ArcticFox bought the man who lost to him several drinks at Hunter's) — "that's the most baller move I've ever seen"
 
 ---
 
