@@ -30,17 +30,17 @@ The winter of 1626–27 found France with no war to fight — and one insult it 
 
 ## The order of battle
 
-*The deployment notice had gone out the night before: "The campaign will be resolved tomorrow evening. @WillWorker, @Curtis Sinnoch, @Jules Lavelle, @sirsfurther, @harry, @etirflita, and @ArcticFox will be deploying." The Narrator read out the roster:*
+*The deployment notice had gone out the night before: "The campaign will be resolved tomorrow evening. @Hercule Bonaparte, @Curtis Sinnoch, @Jules Lavelle, @Robert d'Engaux, @Clemens Charron, @Marius Thibodeaux, and @Jaques Peugeot will be deploying." The Narrator read out the roster:*
 
 **Narrator** — "Taking the field:"
 
-**Narrator** — "The Dragoon Brigade, commanded by @WillWorker, including Grand Duke Max's Dragoons and the Princess Louisa Light Dragoons, itself commanded by @sirsfurther."
+**Narrator** — "The Dragoon Brigade, commanded by @Hercule Bonaparte, including Grand Duke Max's Dragoons and the Princess Louisa Light Dragoons, itself commanded by @Robert d'Engaux."
 
 **Narrator** — "The Royal Foot Guards, commanded by @Curtis Sinnoch, with @Jules Lavelle commanding the 1st Battalion."
 
-**Narrator** — "The Royal Marines, commanded by @etirflita, with @ArcticFox leading E Company."
+**Narrator** — "The Royal Marines, commanded by @Marius Thibodeaux, with @Jaques Peugeot leading E Company."
 
-**Narrator** — "The Frontier Regiment, with @harry serving as a captain, and the Royal Northern Highlands Brigade."
+**Narrator** — "The Frontier Regiment, with @Clemens Charron serving as a captain, and the Royal Northern Highlands Brigade."
 
 **Narrator** — "Col. Victor Charlet (MA 4) commands the Frontier Regiment this season."
 
@@ -64,7 +64,7 @@ The winter of 1626–27 found France with no war to fight — and one insult it 
 
 **Narrator** — "Early-morning fishermen spot the landing, and raise the alarm. The townspeople, confused, move to establish a hasty defense, but know little of the art of fortification. Their only hope lies in the confusion and disarray of the irregular volunteer forces coming against them."
 
-**Narrator** — "@WillWorker, the regiments under your command depart their boats with impressive speed, given the difficulty of controlling their mounts in the unfamiliar setting. Give your orders and roll."
+**Narrator** — "@Hercule Bonaparte, the regiments under your command depart their boats with impressive speed, given the difficulty of controlling their mounts in the unfamiliar setting. Give your orders and roll."
 
 **Hercule Bonaparte** — "We have an impressive force for this assault. While the main armies approach from the front, the dragoons shall divide into two groups and, using their speed, move to compromise and demoralize our foe by position themselves at the enemy's flanks."
 
@@ -72,7 +72,7 @@ The winter of 1626–27 found France with no war to fight — and one insult it 
 
 **Narrator** — "The plan perfectly positions your forces. From far behind the lines, you enjoy the spectacle, and all of the glory. You will be Victorious (BR 1)"
 
-**Narrator** — "@sirsfurther, under Hercule's orders, you sweep your regiment around and find yourself coming upon the surprised townsfolk from the flank. Your initial charge is a crushing success, but the townsfolk understand horse better than musket, and the fighting soon becomes fierce. Roll for your battle result."
+**Narrator** — "@Robert d'Engaux, under Hercule's orders, you sweep your regiment around and find yourself coming upon the surprised townsfolk from the flank. Your initial charge is a crushing success, but the townsfolk understand horse better than musket, and the fighting soon becomes fierce. Roll for your battle result."
 
 **Narrator** — "While we wait for Robert..."
 
@@ -102,7 +102,7 @@ The winter of 1626–27 found France with no war to fight — and one insult it 
 
 **Narrator** — "Your result is Pyrrhic victory (BR 3)"
 
-**Narrator** — "@etirflita, the impressed fishing boats that carried you to the island land with the rest at the eastern shore. But your Marines may be prepared for an amphibious assault on the city's docks directly. The choice is up to you."
+**Narrator** — "@Marius Thibodeaux, the impressed fishing boats that carried you to the island land with the rest at the eastern shore. But your Marines may be prepared for an amphibious assault on the city's docks directly. The choice is up to you."
 
 **Marius Thibodeaux** — "The Royal Marines shall remain a unified fighting force in order to bolster our chances at victory. That being said, while our goal is always the glory of France, we seek to line our pockets with as much English gold as we can acquire. We prepare for an amphibious assault on the city's docks directly!" *(🤑)*
 
@@ -126,7 +126,7 @@ The winter of 1626–27 found France with no war to fight — and one insult it 
 
 **Marius Thibodeaux** — "Huzzah!"
 
-**Narrator** — "@ArcticFox, roll for your battle result."
+**Narrator** — "@Jaques Peugeot, roll for your battle result."
 
 > 🎲 Jaques Peugeot rolls 1d6 — **4**
 
@@ -150,7 +150,7 @@ The winter of 1626–27 found France with no war to fight — and one insult it 
 
 **Robert d'Engaux** — "The peasants are putting up more resistance than I thought"
 
-**Narrator** — "@sirsfurther, much to your shock, the townspeople are far better organized than expected. They fall back after brief fighting, and your men charge, only to discover the retreat was a feint. The civilians throw up a wall of hastily-assembled wooden spears, more than enough to ward off your cavalry, and harass your men with thrown sticks and stones, sending them back towards their initial position. The standoff only ends when the town erupts into angry orange flames behind its defenders. Your result is Inconclusive (BR 4)" *(two 😢 reactions)*
+**Narrator** — "@Robert d'Engaux, much to your shock, the townspeople are far better organized than expected. They fall back after brief fighting, and your men charge, only to discover the retreat was a feint. The civilians throw up a wall of hastily-assembled wooden spears, more than enough to ward off your cavalry, and harass your men with thrown sticks and stones, sending them back towards their initial position. The standoff only ends when the town erupts into angry orange flames behind its defenders. Your result is Inconclusive (BR 4)" *(two 😢 reactions)*
 
 ---
 
@@ -158,7 +158,7 @@ The winter of 1626–27 found France with no war to fight — and one insult it 
 
 *The Narrator read out each officer's fate targets in turn — roll 2d6 at or above the number and it happens, for better (Mention, Promotion, Crowns) or worse (Death):*
 
-**Narrator** — "@WillWorker, your rolls are Death 13, Mention 9, Promotion 7, Crowns -1"
+**Narrator** — "@Hercule Bonaparte, your rolls are Death 13, Mention 9, Promotion 7, Crowns -1"
 
 **Narrator** — "(yes, you actually got a negative result on crowns)"
 
@@ -166,9 +166,9 @@ The winter of 1626–27 found France with no war to fight — and one insult it 
 
 **Narrator** — "@Jules Lavelle, your rolls are Death 12, Mention 6, Promotion 9, Crowns 2"
 
-**Narrator** — "@etirflita, your rolls are Death 10, Mention 6, Promotion 6, Crowns 4"
+**Narrator** — "@Marius Thibodeaux, your rolls are Death 10, Mention 6, Promotion 6, Crowns 4"
 
-**Narrator** — "@ArcticFox, your rolls are Death 9, Mention 6, Promotion 6, Crowns 5"
+**Narrator** — "@Jaques Peugeot, your rolls are Death 9, Mention 6, Promotion 6, Crowns 5"
 
 ### Marius Thibodeaux — the fire-scorched colonel makes general
 
@@ -214,7 +214,7 @@ The winter of 1626–27 found France with no war to fight — and one insult it 
 
 ### Clemens Charron — the hunting arrow
 
-**Narrator** — "@harry, your rolls are Death 7, Mention 6, Promotion 7, Crowns 4"
+**Narrator** — "@Clemens Charron, your rolls are Death 7, Mention 6, Promotion 7, Crowns 4"
 
 **Clemens Charron** — "Death... Is never far away. It stalks us like a great cat or woodland bear!"
 
@@ -294,7 +294,7 @@ The winter of 1626–27 found France with no war to fight — and one insult it 
 
 *Later that morning the army found a way to take even the survival's shine off:*
 
-**Narrator** — "@sirsfurther, Colonel Martin Breguet has returned from his assignment in the General Officers, resuming command of the regiment. You are demoted to Acting 1st Squadron Commander." *(😠)*
+**Narrator** — "@Robert d'Engaux, Colonel Martin Breguet has returned from his assignment in the General Officers, resuming command of the regiment. You are demoted to Acting 1st Squadron Commander." *(😠)*
 
 **Robert d'Engaux** — "Absolutely typical of these armchair generals to swoop in and take command after my brave leadership has led to such a fantastic draw" *(😤)*
 
@@ -326,17 +326,17 @@ Archduke Leopold Cuirassiers — Lt. Col. Blaise Cousteau"
 
 *In the streets of Paris, the new brigadier-generals exchanged courtesies:*
 
-**Hercule Bonaparte** — "Dear Mr. @etirflita, A fellow Brigade General deserves to dine as one... at least once in a while. Please consider this an invitation to be my guest at Bothwell's during the third week of March. Your fellow general, Sir Hercule Bonaparte"
+**Hercule Bonaparte** — "Dear Mr. @Marius Thibodeaux, A fellow Brigade General deserves to dine as one... at least once in a while. Please consider this an invitation to be my guest at Bothwell's during the third week of March. Your fellow general, Sir Hercule Bonaparte"
 
-**Marius Thibodeaux** — "@WillWorker, I would be delighted to attend. Civilised company will do wonders to help shake the dust of Jersey from my boots."
+**Marius Thibodeaux** — "@Hercule Bonaparte, I would be delighted to attend. Civilised company will do wonders to help shake the dust of Jersey from my boots."
 
 *And within hours of Jaques Peugeot's fiery end, his player had rolled up a replacement — a noble second son with a 16 in Expertise — who arrived in the capital already dancing on the grave:*
 
-**ArcticFox** — "*arrives in Paris, hot on the heels of the most recent battle.* 'I heard that fool second son of the Peugots went and got himself killed by jumping into an inferno. Their family will never learn!'"
+**Jean Renault** — "*arrives in Paris, hot on the heels of the most recent battle.* 'I heard that fool second son of the Peugots went and got himself killed by jumping into an inferno. Their family will never learn!'"
 
-**ArcticFox** — "I must buy the commander responsible a drink, as he has rid France of another turbulent Peugot!"
+**Jean Renault** — "I must buy the commander responsible a drink, as he has rid France of another turbulent Peugot!"
 
-**Marius Thibodeaux** — "@ArcticFox, if you need an introduction at the Frog and Peach, my mistress and I will be there the last week of March. I would gladly accept a drink in exchange for your company. Maybe we could discuss filling out some newly vacant Royal Marine uniforms.. We colloquially refer to our troops as 'red shirts' due to the crimson we wear for bravery!"
+**Marius Thibodeaux** — "@Jean Renault, if you need an introduction at the Frog and Peach, my mistress and I will be there the last week of March. I would gladly accept a drink in exchange for your company. Maybe we could discuss filling out some newly vacant Royal Marine uniforms.. We colloquially refer to our troops as 'red shirts' due to the crimson we wear for bravery!"
 
 ---
 

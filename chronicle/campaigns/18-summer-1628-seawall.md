@@ -57,7 +57,7 @@ Frontier Division
 Cavalry Division: Lt. Gen. Denis Nee
 Heavy Brigade: Bg. Gen. Jean-Martin Desjardins
 - Crown Prince Cuirassiers: Col. Gaël Roquebert
-- - 1st Squadron: Lt. Col. @ArcticFox
+- - 1st Squadron: Lt. Col. @Jean Renault
 - Archduke Leopold Cuirassiers
 Dragoon Brigade"
 
@@ -145,7 +145,7 @@ Dragoon Brigade"
 
 ### 1st Squadron, Crown Prince Cuirassiers — Lt. Col. Jean Renault
 
-**Narrator** — "@ArcticFox, give your orders and roll."
+**Narrator** — "@Jean Renault, give your orders and roll."
 
 **Jean Renault** — "we will flank the English as they chase Desjardins"
 
@@ -165,7 +165,7 @@ Dragoon Brigade"
 
 ### Jean Renault — Lieutenant Colonel, 1st Squadron, Crown Prince Cuirassiers
 
-**Narrator** — "@ArcticFox, your rolls are Death 14, Mention 11, Promotion 9, Crowns 9"
+**Narrator** — "@Jean Renault, your rolls are Death 14, Mention 11, Promotion 9, Crowns 9"
 
 **Jean Renault** — "Reckless bravery 1"
 
@@ -234,7 +234,7 @@ Smiling ear-to-ear he turns to move on to his next duty with exuberance when a t
 
 *One more small casualty of the summer, in the off-season channel while the guns still sounded — Côme Touchard's bid for a marine's coat:*
 
-**Narrator** — "@etirflita, roll to join the Royal Marines. You need a 5."
+**Narrator** — "@Côme Touchard, roll to join the Royal Marines. You need a 5."
 
 > 🎲 Côme Touchard rolls 1d6 — **1** (rejected; the message drew a lone 🚫)
 

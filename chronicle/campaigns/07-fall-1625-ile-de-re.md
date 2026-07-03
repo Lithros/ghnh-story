@@ -65,7 +65,7 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 *A perfect assault — a decisive victory without one man lost to the enemy. The men of the central thrust settled their personal fates on the spot (see The reckoning below, where that phrase "not a single casualty" gets its asterisk). Then the left flank stirred:*
 
-**Narrator** — "@WillWorker, please roll for your battle result." — "Your forces are prepared to advance on the flank."
+**Narrator** — "@Hercule Bonaparte, please roll for your battle result." — "Your forces are prepared to advance on the flank."
 
 **Sir Hercule Bonaparte** — "Alright men, the enemy is cornered, so now is the time for patience. There is no need for unnecessary recklessness, we control the tempo, not them. And while I know many of you will wish this as an opportunity for vengeance, when you encounter cowards you are to show them mercy and take them prisoner. Do not give our quarry reason to believe they must fight in desperation to the last. Show them a golden bridge on which they may have some hope of seeing tomorrow and their morale shall crumble with barely any effort on our part."
 
@@ -75,7 +75,7 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 *On the right flank, the Royal Marines waited until evening for their moment. Jean Rochant grew impatient:*
 
-**Jean Rochant** — "@Anonymouse, We wish to bring our own glory to France! When do we enter the fray!?"
+**Jean Rochant** — "@Alphonse Devereux, We wish to bring our own glory to France! When do we enter the fray!?"
 
 **Col. Alphonse Devereux** — "Onward, men! For France!"
 
@@ -91,7 +91,7 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 ### Lucien Vaillancourt — the rotten plank
 
-**Narrator** — "@etirflita, your rolls are Death 11, Mention 11, Promotion 10, Crowns 8"
+**Narrator** — "@Lucien Vaillancourt, your rolls are Death 11, Mention 11, Promotion 10, Crowns 8"
 
 **Lucien Vaillancourt** — "I shall take reckless bravery for -1"
 
@@ -172,7 +172,7 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 ### Pain Loafmann — the sentence carried out
 
-**Narrator** — "@Careless Ocelot , your rolls are Death 9, Mention 11, Promotion 10, Crowns 8"
+**Narrator** — "@Pain Loafmann , your rolls are Death 9, Mention 11, Promotion 10, Crowns 8"
 
 > 🎲 Pain Loafmann rolls 2d6 — **12** *(reactions: grim ×3)*
 
@@ -213,7 +213,7 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 ### Jean Rochant — pirate booty
 
-**Narrator** — "@ArcticFox, your rolls are Death 12, Mention 12, Promotion 10, Crowns 12"
+**Narrator** — "@Jean Rochant, your rolls are Death 12, Mention 12, Promotion 10, Crowns 12"
 
 **etirflita** — "Bravery of -13! Go for it!"
 
@@ -296,7 +296,7 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 **Jean Rochant** — "Phew"
 
-*The Narrator had already teased the table about it the night before: "unless you want to volunteer for winter.... but you might make poor Jean sad." Alphonse's answer: "Nope. Not going to volunteer for Winter." Even so, on 8 December the campaign channel carried one more announcement — "@harry has volunteered for the Frontier Regiment" — Captain Charron, tea service in hand, heading back toward the guns of his own free will.*
+*The Narrator had already teased the table about it the night before: "unless you want to volunteer for winter.... but you might make poor Jean sad." Alphonse's answer: "Nope. Not going to volunteer for Winter." Even so, on 8 December the campaign channel carried one more announcement — "@Clemens Charron has volunteered for the Frontier Regiment" — Captain Charron, tea service in hand, heading back toward the guns of his own free will.*
 
 *The same afternoon Lucien died, his player's next man was already strolling the streets of Paris:*
 
@@ -304,9 +304,9 @@ Summer had ended in catastrophe: the woods outside Nantes had swallowed thousand
 
 *And on the 7th, the heroes came home from Ré to discover what Paris had been doing while they bled — Amand Baschet had spent the fall courting Jean's mistress:*
 
-**Jean Rochant** — "I return from the front, after honorably defending France under the command of @Anonymouse only to discovery that my dearest Adelaide Blaise has been stolen away by the dishonorable snake @DancingHorse, who took advantage of my service to king and country to take advantage and become, as the colloquialism in the colonies goes 'Mr. Steal Yo' Girl.' As a result, I issue a December challenge to @DancingHorse, while not for Mme. Blaise's hand, but for his dishonorable actions."
+**Jean Rochant** — "I return from the front, after honorably defending France under the command of @Alphonse Devereux only to discovery that my dearest Adelaide Blaise has been stolen away by the dishonorable snake @Amand Baschet, who took advantage of my service to king and country to take advantage and become, as the colloquialism in the colonies goes 'Mr. Steal Yo' Girl.' As a result, I issue a December challenge to @Amand Baschet, while not for Mme. Blaise's hand, but for his dishonorable actions."
 
-**Jean Rochant** — "And as you will note, I do not blame Adelaide, but rather that coward @DancingHorse, who sits in Paris while the rest of us stumble on the beaches and fight for country!"
+**Jean Rochant** — "And as you will note, I do not blame Adelaide, but rather that coward @Amand Baschet, who sits in Paris while the rest of us stumble on the beaches and fight for country!"
 
 **Jules Lavelle** — "He is a cavalryman; he was in need of a sturdy mount."
 

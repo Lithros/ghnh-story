@@ -24,9 +24,9 @@ The winter had ended in humiliation at Blavet, and the spring began with the bil
 
 *The battalion volunteer rolls had gone out back in February. Among the units drawn for the front, two were no accident of the dice:*
 
-**Narrator** — "KM3 is the choice of @Curtis Sinnoch" · "CPC3 is the choice of @WillWorker"
+**Narrator** — "KM3 is the choice of @Curtis Sinnoch" · "CPC3 is the choice of @Hercule Bonaparte"
 
-**Narrator** — "@Curtis Sinnoch and @WillWorker have volunteered on campaign."
+**Narrator** — "@Curtis Sinnoch and @Hercule Bonaparte have volunteered on campaign."
 
 **Narrator** — "Each leads his battalion under the Frontier Regiment Colonel, who is Colonel Christian Solé this season."
 
@@ -53,7 +53,7 @@ Opposite them: the entire Huguenot field army, three men to every one of the Kin
 
 **Narrator** — "Unfortunately, the valorous part of the French Army is back in Paris. Mid-speech, Solé notices the Huguenots have begun their charge. He spurs his horse...away from the battlefield, leaving his adjutant to give orders."
 
-**Narrator** — "@Curtis Sinnoch and @WillWorker, roll to determine your battle results as your positions are overrun by hordes of screaming Protestants."
+**Narrator** — "@Curtis Sinnoch and @Hercule Bonaparte, roll to determine your battle results as your positions are overrun by hordes of screaming Protestants."
 
 ### The King's Musketeers hold the line
 

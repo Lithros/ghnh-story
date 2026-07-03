@@ -36,7 +36,7 @@ Nantes had fallen in the spring; the Huguenots now held the whole Atlantic seabo
 
 **Narrator** — "Despite his poor showing last summer, the Field Marshal has placed the Field Army under the command of General Gilles Barbier once more."
 
-**Curtis Sinnoch** — "@ArcticFox this is for Fame, Fortune, and the glory of Paris!"
+**Curtis Sinnoch** — "@Jean Rochant this is for Fame, Fortune, and the glory of Paris!"
 
 **Henri Toulouse** — "It's for your maman."
 
@@ -399,7 +399,7 @@ Picardy Musketeers 1st Battalion commander
 
 **Jean Rochant** — "receives a letter from Mlle Blaise informing him that she could no longer stand waiting, after four long months of being unable to see him due to military service. She mentioned in passing being enamored with a new suitor, a Mr. Armand Baschet. It was a name that seemed to ring a distant bell, but now was one committed to memory."
 
-**Lucien Vaillancourt** — "@etirflita receives a letter from the bawdyhouse informing him that after four long months, his spot on the wall of 'customer of the year' has been replaced by another John. Also they seem to have fewer crabs (perhaps due to his absence.)"
+**Lucien Vaillancourt** — "@Lucien Vaillancourt receives a letter from the bawdyhouse informing him that after four long months, his spot on the wall of 'customer of the year' has been replaced by another John. Also they seem to have fewer crabs (perhaps due to his absence.)"
 
 ---
 

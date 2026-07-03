@@ -26,15 +26,15 @@ Cardinal Richelieu himself has come to direct the siege efforts. With the bulk o
 
 **Narrator** — "Deploying to the field are:
 
-The 1st Brigade of Foot, under Bg. General @etirflita [Sir Marius Thibodeaux];
+The 1st Brigade of Foot, under Bg. General @Marius Thibodeaux;
 
 The Royal Foot Guards, under Marquis-Colonel @Curtis Sinnoch, with Lt. Col. @Jules Lavelle commanding the 1st Battalion;
 
-Princess Louisa's Light Dragoons, under Lt. Col. @sirsfurther [Robert d'Engaux], with Cap. @DancingHorse [Primo Tremblay] leading F Troop;
+Princess Louisa's Light Dragoons, under Lt. Col. @Robert d'Engaux, with Cap. @Primo Tremblay leading F Troop;
 
-Pvt. @CitrusNotes [Jerome Greybeck] serving in the Gascon Regiment's E Company;
+Pvt. @Jerome Greybeck serving in the Gascon Regiment's E Company;
 
-and Pvt. @WillWorker [Sébastien Lefebvre] attached to a very confused Frontier Regiment."
+and Pvt. @Sébastien Lefebvre attached to a very confused Frontier Regiment."
 
 *The NPC commanders, in the Narrator's own words:*
 
@@ -61,7 +61,7 @@ and Pvt. @WillWorker [Sébastien Lefebvre] attached to a very confused Frontier 
 
 ## The record
 
-**Narrator** — "As the ranking officer in the field, @etirflita will detail the plan of deployment and roll."
+**Narrator** — "As the ranking officer in the field, @Marius Thibodeaux will detail the plan of deployment and roll."
 
 **Sir Marius Thibodeaux** — "The Royal Marines will be aiding in the siege effort to prevent the rejoining of the rebels and their leaders while the Picardy Musketeers will be systematically hunting the rebels in the nearby farmland."
 
@@ -123,7 +123,7 @@ and Pvt. @WillWorker [Sébastien Lefebvre] attached to a very confused Frontier 
 
 ### Jerome Greybeck — survivor of the scarecrow charge
 
-**Narrator** — "@CitrusNotes, your rolls are Death 5, Mention 7, Promotion 6. No chance for loot. (These are each 2d6)."
+**Narrator** — "@Jerome Greybeck, your rolls are Death 5, Mention 7, Promotion 6. No chance for loot. (These are each 2d6)."
 
 **Jerome Greybeck** — "Staring down a particularly menacing scarecrow, oblivious to the oncoming forces, Jerome spits on the ground and thinks this is the perfect opportunity for a little practice, before plunging at the scarecrow"
 
@@ -141,7 +141,7 @@ and Pvt. @WillWorker [Sébastien Lefebvre] attached to a very confused Frontier 
 
 ### Sébastien Lefebvre — torn apart by grouse
 
-**Narrator** — "@WillWorker, your rolls are Death 7, Mention 12, Promotion 8, Crowns 10"
+**Narrator** — "@Sébastien Lefebvre, your rolls are Death 7, Mention 12, Promotion 8, Crowns 10"
 
 **Sébastien Lefebvre** — "Unlike his compatriots, Sebastien knows how to hunt in a farmers field.  Keeping low to the ground and ears perked, he slowly moves towards the sound he's recognized since childhood, that of cooing grouse.  Avoiding disturbing the flock, he raises his rifle and thinks to himself, 'Tonight, I will eat well.'"
 
@@ -153,7 +153,7 @@ and Pvt. @WillWorker [Sébastien Lefebvre] attached to a very confused Frontier 
 
 ### Sir Marius Thibodeaux — the man who took Buckingham
 
-**Narrator** — "@etirflita, your rolls are Death 14, Mention 9, Promotion 8, Crowns 3"
+**Narrator** — "@Marius Thibodeaux, your rolls are Death 14, Mention 9, Promotion 8, Crowns 3"
 
 **Sir Marius Thibodeaux** — "x2 bravery (and pray for anything but double sixes)"
 
@@ -183,7 +183,7 @@ and Pvt. @WillWorker [Sébastien Lefebvre] attached to a very confused Frontier 
 
 ### Robert d'Engaux — never taken alive
 
-**Narrator** — "@sirsfurther, your rolls are Death 10, Mention 12, Promotion 7, Crowns 9"
+**Narrator** — "@Robert d'Engaux, your rolls are Death 10, Mention 12, Promotion 7, Crowns 9"
 
 **Robert d'Engaux** — "Robert sees the enemy fleeing and cannot help but pursue them. Reckless bravery 1"
 
@@ -250,7 +250,7 @@ and Pvt. @WillWorker [Sébastien Lefebvre] attached to a very confused Frontier 
 
 *Four days later, the last man of the campaign faced his dice:*
 
-**Narrator** — "@DancingHorse, your rolls are Death 9, Mention 12, Promotion 7, Crowns 10"
+**Narrator** — "@Primo Tremblay, your rolls are Death 9, Mention 12, Promotion 7, Crowns 10"
 
 **Primo Tremblay** — "Primo has been less than brave this entire campaign, cowardly hiding in the rear of his troop or taking care of some hoof maladies on his steed. And for good reason! War is terrifying and he needs to survive to see his sisters well wedded."
 

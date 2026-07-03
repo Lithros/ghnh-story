@@ -24,7 +24,7 @@ The enemy this spring was not across the Channel but in the very heartland — E
 
 ## The order of battle
 
-*The muster had been arranged days before, in a burst of voluntelling. Henri Toulouse had already gone ahead — "@laiv.wire sets off for the front lines, signing on with the Frontier Regiment," the Narrator noted on 19 July — and Hercule set the tone for everyone else:*
+*The muster had been arranged days before, in a burst of voluntelling. Henri Toulouse had already gone ahead — "@Henri Toulouse sets off for the front lines, signing on with the Frontier Regiment," the Narrator noted on 19 July — and Hercule set the tone for everyone else:*
 
 **Hercule Bonaparte** — "May orders: Hercule voluntells the Dragoons into the spring campaign."
 
@@ -34,15 +34,15 @@ The enemy this spring was not across the Channel but in the very heartland — E
 
 **Marius Thibodeaux** — "Hell, why not. Let's make it a party- Picardy Musketeers as well!" *(🎊)*
 
-**Hercule Bonaparte** — "Hopefully @DancingHorse and @sirsfurther are recovered from their injuries by the time we get to the front."
+**Hercule Bonaparte** — "Hopefully @Pépin Bonheur and @Robert d'Engaux are recovered from their injuries by the time we get to the front."
 
 **Marius Thibodeaux** — "What they need is some battlefield camaraderie to heal those wounded hearts." *(❤️‍🩹)*
 
 **Robert d'Engaux** — "'It was only a scratch' wheezes Robert"
 
-**Marius Thibodeaux** — "I've never steered anyone under my command wrong, you'll be just fine under my wing, @sirsfurther! cough-"
+**Marius Thibodeaux** — "I've never steered anyone under my command wrong, you'll be just fine under my wing, @Robert d'Engaux! cough-"
 
-**Hercule Bonaparte** — "I believe that should be directed at @DancingHorse.  @sirsfurther is a Dragoon of exceptional promise."
+**Hercule Bonaparte** — "I believe that should be directed at @Pépin Bonheur.  @Robert d'Engaux is a Dragoon of exceptional promise."
 
 **Pépin Bonheur** — "I am prepared to do my duty" *(🧨)*
 
@@ -53,17 +53,17 @@ The enemy this spring was not across the Channel but in the very heartland — E
 *The Narrator read the final roster:*
 
 **Narrator** — "Deploying:
--@WillWorker's Dragoon Brigade, including @sirsfurther in Princess Louisa's Light Dragoons
--@etirflita's 1st Brigade of Foot, including @DancingHorse in the Picardy Musketeers
+-@Hercule Bonaparte's Dragoon Brigade, including @Robert d'Engaux in Princess Louisa's Light Dragoons
+-@Marius Thibodeaux's 1st Brigade of Foot, including @Pépin Bonheur in the Picardy Musketeers
 -@Curtis Sinnoch's Royal Foot Guards, including @Jules Lavelle
--@ArcticFox's Crown Prince Cuirassiers, 3rd Squadron
--@laiv.wire's 53rd Fusiliers, 3rd Battalion (acting)
+-@Jean Renault's Crown Prince Cuirassiers, 3rd Squadron
+-@Henri Toulouse's 53rd Fusiliers, 3rd Battalion (acting)
 
 And assorted other squadrons/battalions."
 
 *In character terms: Bg. Gen. **Hercule Bonaparte** led the Dragoon Brigade, with **Robert d'Engaux** commanding the 1st Squadron of Princess Louisa's Light Dragoons under Col. Martin Breguet; Bvt. Bg. Gen. **Marius Thibodeaux** led the 1st Brigade of Foot — the remnant Royal Marines and the Picardy Musketeers of Col. Sylvestre Côté, with **Pépin Bonheur** in the ranks; Col. **Curtis Sinnoch** led the Royal Foot Guards, with **Jules Lavelle** at the head of the 1st Battalion; Maj. **Jean Renault** rode with the Crown Prince Cuirassiers' 3rd Squadron; and Cpt. **Henri Toulouse** held acting command of the 53rd Fusiliers' 3rd Battalion.*
 
-**Narrator** — "The top commanding officers on the field, @WillWorker, @etirflita, @Curtis Sinnoch, @ArcticFox, and @laiv.wire must array their forces, give their orders, and roll."
+**Narrator** — "The top commanding officers on the field, @Hercule Bonaparte, @Marius Thibodeaux, @Curtis Sinnoch, @Jean Renault, and @Henri Toulouse must array their forces, give their orders, and roll."
 
 ---
 
@@ -87,7 +87,7 @@ And assorted other squadrons/battalions."
 
 **Jean Renault** — "The Crown Prince Cuirassiers will use their superior speed and agility to harass the enemies as they find them."
 
-**Narrator** — "@ArcticFox, you only command the 3rd Squadron. Roll when ready."
+**Narrator** — "@Jean Renault, you only command the 3rd Squadron. Roll when ready."
 
 > 🎲 Jean Renault rolls 1d6 — **2**
 
@@ -115,7 +115,7 @@ And assorted other squadrons/battalions."
 
 **Narrator** — "His horses balk, carrying their roaring riders out of the battle. The result is Inconclusive (BR 4)."
 
-**Narrator** — "@sirsfurther, you may try to save the day for your 1st Squadron. Give your orders and roll 1d6"
+**Narrator** — "@Robert d'Engaux, you may try to save the day for your 1st Squadron. Give your orders and roll 1d6"
 
 *While the town burned, its burner watched:*
 
@@ -125,7 +125,7 @@ And assorted other squadrons/battalions."
 
 > 🎲 Robert d'Engaux rolls 1d6 — **6** *(👏)*
 
-**Narrator** — "@sirsfurther, the merchant is the wealthiest man in town. So wealthy, in fact, that he has hired his own guards to protect against the rowdy and corrupt traitor army gathering in his town. The well-trained mercenaries open fire on your men at perfect range. The numbers are on your side, but your men came unprepared for battle, and are cut down in droves before they overcome the mercenaries in bloody hand-to-hand combat. Is loot worth this cost? Your result is Pyrrhic victory (BR 3)." *(😢)*
+**Narrator** — "@Robert d'Engaux, the merchant is the wealthiest man in town. So wealthy, in fact, that he has hired his own guards to protect against the rowdy and corrupt traitor army gathering in his town. The well-trained mercenaries open fire on your men at perfect range. The numbers are on your side, but your men came unprepared for battle, and are cut down in droves before they overcome the mercenaries in bloody hand-to-hand combat. Is loot worth this cost? Your result is Pyrrhic victory (BR 3)." *(😢)*
 
 **Robert d'Engaux** — "Less to share with"
 
@@ -151,7 +151,7 @@ And assorted other squadrons/battalions."
 
 ### Pépin Bonheur — the twirling two-by-four
 
-**Narrator** — "@DancingHorse, your rolls are Death 9, Mention 7, Promotion 8, Crowns 4"
+**Narrator** — "@Pépin Bonheur, your rolls are Death 9, Mention 7, Promotion 8, Crowns 4"
 
 **Pépin Bonheur** — "No modifiers for me: death"
 
@@ -185,7 +185,7 @@ And assorted other squadrons/battalions."
 
 ### Marius Thibodeaux — a general at last
 
-**Narrator** — "@etirflita, your rolls are Death 13, Mention 11, Promotion 7. No chance for loot."
+**Narrator** — "@Marius Thibodeaux, your rolls are Death 13, Mention 11, Promotion 7. No chance for loot."
 
 **Marius Thibodeaux** — "Knowing my luck, I will just do a straight roll"
 
@@ -208,7 +208,7 @@ And assorted other squadrons/battalions."
 
 ### Jean Renault — mentioned instead of promoted
 
-**Narrator** — "@ArcticFox, your rolls are Death 11, Mention 8, Promotion 6. No chance for loot."
+**Narrator** — "@Jean Renault, your rolls are Death 11, Mention 8, Promotion 6. No chance for loot."
 
 > 🎲 Jean Renault rolls 2d6 — **3** (Death target 11: survives)
 
@@ -219,7 +219,7 @@ And assorted other squadrons/battalions."
 
 **Jean Renault** — "Promoted?"
 
-**Narrator** — "@ArcticFox, no promotion is available. The rest of the regiment didn't go on campaign, and so have no risk of death to open slots for you. You are Mentioned in Despatches instead. Please roll 1d6"
+**Narrator** — "@Jean Renault, no promotion is available. The rest of the regiment didn't go on campaign, and so have no risk of death to open slots for you. You are Mentioned in Despatches instead. Please roll 1d6"
 
 > 🎲 Jean Renault rolls 1d6 — **6**
 
@@ -229,7 +229,7 @@ And assorted other squadrons/battalions."
 
 *First, the crown's gratitude:*
 
-**Narrator** — "@WillWorker, for your impressive battle result while commanding a Brigade, you have earned a chance at a new title." *(😯)* · "Hercule, your last title check was a failure, so you need only a 2."
+**Narrator** — "@Hercule Bonaparte, for your impressive battle result while commanding a Brigade, you have earned a chance at a new title." *(😯)* · "Hercule, your last title check was a failure, so you need only a 2."
 
 > 🎲 Hercule Bonaparte rolls 1d6 — **1** *(😅×3, plank ×3, 🎺×2)*
 
@@ -239,7 +239,7 @@ And assorted other squadrons/battalions."
 
 *Then the dice:*
 
-**Narrator** — "@WillWorker, your rolls are Death 12, Mention 7, Promotion 6, Crowns 0 (automatic success)"
+**Narrator** — "@Hercule Bonaparte, your rolls are Death 12, Mention 7, Promotion 6, Crowns 0 (automatic success)"
 
 **Hercule Bonaparte** — "Reckless Bravery 1"
 
@@ -275,7 +275,7 @@ And assorted other squadrons/battalions."
 
 ### Robert d'Engaux — a brevet and a suspicious painting
 
-**Narrator** — "@sirsfurther, your rolls are Death 9, Mention 6, Promotion 6, Loot 4"
+**Narrator** — "@Robert d'Engaux, your rolls are Death 9, Mention 6, Promotion 6, Loot 4"
 
 **Robert d'Engaux** — "I use reckless bravery 1"
 
@@ -333,15 +333,15 @@ Henri focuses on paperwork, after-action reports and death notices. He remains s
 
 *Between 6:09 and 6:17 that evening, the Narrator posted three headstones to the cemetery channel, one after another — Pépin Bonheur (☁️×2), Hercule Bonaparte (💍×2), Henri Toulouse (🥷×2). Three player characters dead in a single victorious afternoon; no campaign of the war had cost more. Back in Paris, the survivors organized the wakes:*
 
-**Robert d'Engaux** — "Upon his return from campaign, Robert writes to @ArcticFox and @laiv.wire to invite them to toady at Red Phillips on the 1st week of the next month"
+**Robert d'Engaux** — "Upon his return from campaign, Robert writes to @Jean Renault and @Henri Toulouse to invite them to toady at Red Phillips on the 1st week of the next month"
 
-**Jean Renault** — "I will happily celebrate with you then! However in turn, the second week, the officers of the horse will be toasting to those who fell on the second week! Would you, @sirsfurther , @etirflita @Jules Lavelle, @laiv.wire, or anyone else want to join us in the celebration of life? We will curse the traitorous Duke's name!" *(🥂)*
+**Jean Renault** — "I will happily celebrate with you then! However in turn, the second week, the officers of the horse will be toasting to those who fell on the second week! Would you, @Robert d'Engaux , @Marius Thibodeaux @Jules Lavelle, @Henri Toulouse, or anyone else want to join us in the celebration of life? We will curse the traitorous Duke's name!" *(🥂)*
 
 **Jules Lavelle** — "Thank you, but I do believe Hunter's will be more than enough for me."
 
 **Marius Thibodeaux** — "Empty Chairs at Empty Tables starts playing in Marius' head"
 
-**Curtis Sinnoch** — "It is with great sorrow I shall drink to the memory of good @WillWorker - thought we had not always seen eye to eye, we both came through the rank's of the Kings Footmen and I shall fondly remember his acts for the glory of France.  I care not for standard social graces - @everyone who fought in that damned skirmish, I will be happy to host at Bothwell's at the end of the month, and I'll foot the bill.  Tis the only fitting way to pay our respects for a fallen Brigadier-General." · "Indeed!  Though Hercule may have been the first, he will certainly not be the last"
+**Curtis Sinnoch** — "It is with great sorrow I shall drink to the memory of good @Hercule Bonaparte - thought we had not always seen eye to eye, we both came through the rank's of the Kings Footmen and I shall fondly remember his acts for the glory of France.  I care not for standard social graces - @everyone who fought in that damned skirmish, I will be happy to host at Bothwell's at the end of the month, and I'll foot the bill.  Tis the only fitting way to pay our respects for a fallen Brigadier-General." · "Indeed!  Though Hercule may have been the first, he will certainly not be the last"
 
 **Jules Lavelle** — "When he receives the news about Bg. Gen. Bonaparte, Jules Lavelle appears visibily deflated."
 
